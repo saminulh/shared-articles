@@ -9,8 +9,8 @@ I though this article sucked...
 
 I thought this article had the following interesting ideas! 
 
-<<<<<<< HEAD
-
+test
+[[annotation#^w5vrs9njfp]]
 
 =======
 # Tags
