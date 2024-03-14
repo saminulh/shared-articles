@@ -10,11 +10,11 @@ I though this article sucked...
 I thought this article had the following interesting ideas! 
 
 test
-[[annotation#^2xzctyf1lcj]]
-
-test
 
 [[foreign_affairs_article.pdf#page=6&selection=74,27,78,11|foreign_affairs_article, page 6]]
+
+[[foreign_affairs_article.pdf#page=3&selection=8,18,8,48|foreign_affairs_article, page 3]]
+
 
 =======
 # Tags
