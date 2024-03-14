@@ -1,6 +1,7 @@
 # Article Information
 
 Link to [article](https://www.foreignaffairs.com/reviews/whos-afraid-freedom-liberalism-hobbes) and [[103212.pdf|pdf]]
+
 # Sammy (unread)
 
 ...
