@@ -2,7 +2,7 @@
 
 Link to article: [Article Title](https://www.foreignaffairs.com/)
 
-# Sammy (unread)
+# Sammy (read on 03/13/24)
 
 ...
 
