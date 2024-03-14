@@ -9,4 +9,10 @@ I though this article sucked...
 
 I thought this article had the following interesting ideas! 
 
+<<<<<<< HEAD
 
+
+=======
+# Tags
+#fruitpolitics #guatemala
+>>>>>>> origin/main
