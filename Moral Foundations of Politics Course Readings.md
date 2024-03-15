@@ -10,7 +10,7 @@ Links: [Course page](https://www.coursera.org/learn/moral-politics) and [[moral-
 - Mill, On Liberty, Chs. 1-2
 - Mill, On Liberty Ch. 5
 ## Marxism, Its Failures and Its Legacy
-- Marx and Engels, Manifesto of the Communist Party
+- [[Manifesto of the Communist Party - by Karl Marx and Frederick Engels|Marx and Engels, Manifesto of the Communist Party]]
 - Marx, Capital (Vol. I), Prefaces, Chs. I, IV, VI, XII, XVI (excerpts)
 - Marx, Critique of the Gotha Program
 - Marx, Theories of Surplus Value, Ch. XVII (Sections 8-11, 14)
