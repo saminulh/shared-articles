@@ -1,4 +1,4 @@
-[Course link](https://www.coursera.org/learn/moral-politics) and [[moral-foundations.pdf|pdf]]
+Links: [Course page](https://www.coursera.org/learn/moral-politics) and [[moral-foundations.pdf|pdf]]
 ## Enlightenment Political Theory
 - Hannah Arendt, Eichmann in Jerusalem, pg. 21-55, 135-149
 - Locke, First Treatise
