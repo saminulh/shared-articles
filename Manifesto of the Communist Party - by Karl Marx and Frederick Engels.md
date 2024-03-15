@@ -23,7 +23,14 @@ Feudal industry was dominated by closed guilds, but growing demand led to a manu
 
 > [[communist-manifesto.pdf#page=16&selection=6,94,8,39|In one word, for exploitation, veiled by religious and political illusions, it has substituted naked, shameless, direct, brutal exploitation.]]
 
-> 
+> [[communist-manifesto.pdf#page=16&selection=125,0,125,52|In one word, it [the bourgeois] creates a world after its own image.]]
+* The bourgeois have become God lol.
+
+> [[communist-manifesto.pdf#page=18&selection=21,60,23,29|the cost of production of a workman is restricted, almost entirely, to the means of subsistence that he requires for maintenance, and for the propagation of his race.]]
+
+> [[communist-manifesto.pdf#page=18&selection=40,0,41,93|Differences of age and sex have no longer any distinctive social validity for the working class. All are instruments of labour, more or less expensive to use, according to their age and sex.]]
+* I thought the Victorians upended this in terms of reinforcing gender roles
+* Conversely, it seems like the Communist countries were the ones for whom sex stopped mattering as much
 # David (unread)
 
 ...
