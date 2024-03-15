@@ -2,7 +2,7 @@
 
 Links: [article](https://www.marxists.org/archive/marx/works/download/pdf/Manifesto.pdf) and [[communist-manifesto.pdf|pdf]]
 
-# Sammy (in progress)
+# Sammy (03/15/24)
 
 ### Preface to the 1882 Russian Edition:
 US and Europe relations completely upended between 1847 to 1882
