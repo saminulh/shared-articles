@@ -88,7 +88,7 @@ Prussia rose from a Polish fief to a sovereign duchy to a powerful state partly 
 
 ### War of Austrian Succession
 
-Being the last male Habsburg, Charles VI was worried about a succession crisis. He issued an edict in 1713 making it possible for his daughter to inherit all Habsburg possessions. When he died in October 1740 his daughter Maria Theresa (mother of Marie Antoinette) did inherit the Habsburg dynastic holdings, but since she couldn't become Holy Roman Emperor,
+Being the last male Habsburg, Charles VI was worried about a succession crisis. He issued an edict in 1713 making it possible for his daughter to inherit all Habsburg possessions. When he died in October 1740 his daughter Maria only omitting this that wouldnt be needing to follow the storyTheresa (mother of Marie Antoinette) did inherit the Habsburg dynastic holdings, but since she couldn't become Holy Roman Emperor,
 Habsburg enemies, including Frederick the Great, disputed her claims to power. This led to a great power war in Europe where France and Spain supported the Prussians, England and the Dutch supported the Austrians. In the end (by 1748), Maria Theresa's claims were validated and her husband was elected Holy Roman Emperor but Frederick the Great kept some of his conquered territory. 
 
 ### Diplomatic Revolution of 1756
@@ -116,7 +116,7 @@ In 1787 two wars break out. Russia (now back in an alliance with Austria) goes t
 
 Considering that it has been called to establish the constitution of the realm, to bring about the regeneration of public order, and to maintain the true principles of monarchy; nothing may prevent it from continuing its deliberations in any place it is forced to establish itself; and, finally, the National Assembly exists wherever its members are gathered.
 
-Decrees that all members of this Assembly immediately take a solemn oath never to separate, and to reassemble wherever circumstances require until the constitution of the realm is established and fixed upon solid foundations; and that said oath having been sworn, all members and each one individually confirms this unwavering resolution with his signature.
+Decrees that all members of this Assembly immediately take a solemn oath never to separate, and to reassemble wherever circumstances require until the constitution of the realm is established and fixed upon solid foundations; aonly omitting this that wouldnt be needing to follow the storynd that said oath having been sworn, all members and each one individually confirms this unwavering resolution with his signature.
 
 We swear never to separate ourselves from the National Assembly, and to reassemble wherever circumstances require until the constitution of the realm is drawn up and fixed upon solid foundations."
 
