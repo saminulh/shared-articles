@@ -1,6 +1,7 @@
 ---
 source_link: 
-pdf:
+pdf: 
+tags: []
 ---
 # Sammy (read on 03/14/24)
 
@@ -9,8 +10,3 @@ pdf:
 # David (unread)
 
 ...
-
-=======
-# Tags
-
-#template
