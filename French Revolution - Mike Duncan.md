@@ -45,13 +45,13 @@ Here I note interesting facts from Mike Duncan's podcast on the french Revolutio
 
 ## Revolution Timeline (1789-Present)
 
-### July 1789 (11th - ?th) - The Fall of the Bastille
+### July 1789 - The Fall of the Bastille
 
 - 1789 July 11th: Marie Antoinette and the Kings brother (Charles X) convinced King Louis XVI to sack Necker, believing that they had amassed enough troops to withstand the fallout.
 - 1789 July 12th: News reaches Paris of Necker's dismissal which causes uproar. In the evening a journalist by the name of Camille Desmoulins and his friends gather at the Palais Royale. At the event Camille steps up on a table and says (roughly) "This is it! They are coming for us, and it is only a matter of time! We can either submit or arm ourselves to see this thing through!" At one point he points a pistol at his heart and says "I would rather die than submit to servitude". This starts a mob which begins to wreak havoc on the streets of Paris. A regiment of German Calvary comes in to try and restore order but they are outnumbered. Units of the French guard are brought in as reinforcements but end up siding with the mob and fighting against the Germans. 
 - 1789: July 12th - 14th: A group of municipal Paris government called the "Paris Electors" become the "leaders" of the mob/resistance to the extent that they could control it. They try to transform the mob into a somewhat organised militia. 
 - 1789 July 14th: The militia storms the Hotel des Invalides and manages to seize a large quantity of muskets without gunpowder. Having anticipated this occurrence, all gunpowder had been transferred to the Bastille over the last few days where they felt it was much more protected. The militia then meets outside the Bastille where they intend to acquire the gunpowder needed to operate their weapons. Despite the Bastille being quite the stronghold, the guard stationed at the fortress was relatively weak. While representatives from the Paris Electors try to negotiate with the guards to give them the guns and ammunition stored at the fortress the militia/mob grows restless. A few members of the mob manage to scale the laws and open the drawbridge causing the mob to rush inside. The guards began firing at the mob rushing inside. Eventually guard units outside of the fortress sympathetic to the militia begin to join on the side of the mob and add professional support to the siege. Eventually the mob wins, ransacking the fortress and lynching some of the guards (after refusing to accept their surrender). 
-## ?
+## August 1789
 
 - 
 ## Important Enlightenment Thinkers
