@@ -60,5 +60,3 @@ To me this article feels like it lacks substance. It gives very rudimentary desc
 
 =======
 # Tags
-
-#template
