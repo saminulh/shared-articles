@@ -30,8 +30,8 @@ Links: [Course page](https://www.coursera.org/learn/moral-politics) and [[moral-
 ## Anti-Enlightenment Politics
 - Edmund Burke, Reflections on the Revolution in France (excerpts)
 - Patrick Devlin, "Morals and the Criminal Law"
-- [[After Virtue - Alasdair MacIntyre|Alasdair MacIntyre, After Virtue, Chs. 1-3]]
-- [[After Virtue - Alasdair MacIntyre|Alasdair MacIntyre, After Virtue, Chs. 5]]
+- [[Shared Articles/After Virtue - Alasdair MacIntyre|Alasdair MacIntyre, After Virtue, Chs. 1-3]]
+- [[Shared Articles/After Virtue - Alasdair MacIntyre|Alasdair MacIntyre, After Virtue, Chs. 5]]
 ## Democracy
 - Hamilton, Jay, and Madison, The Federalist Papers, Paper No. 1, 9, 10, 14, 39, 48, 51, 62, 70, 78
 - Jean-Jaques Rousseau, The Social Contract and the First and Second Discourses, Book I Ch. 6-7, Book II Ch. 3
