@@ -56,17 +56,30 @@ Here I note interesting facts from Mike Duncan's podcast on the french Revolutio
 - 1789 July 22nd: The former intendent of Paris (the public servant of the monarchy in charge of the city) was captured by members of the militia at his country house to bring him to Paris to answer against charges against starving the third estate. On their way into the city the militia was interrupted by a mob which beat him, stoned him and then lynched him. On the same day the current Controller-General of Finances Joseph-Francois Foullon was also lynched.
 
 After these events "The Great Fear" takes over France (partly fueled by rumours of an aristocratic famine plot). Peasants start forming protective associations, people stop paying taxes or other debts etc... essentially France starts descending into the direction of anarchy.
-## August 1789
+### August 1789 - The Declaration of Rights of Man 
 
-- 1789 August 4th: In one "delirious" night (described as surreal by attendees) members of the National Assembly try to "one up" each-other by proposing the removal of policies and privileges of the Ancien-Regime. Even the nobles, clergy and business men of the third estate propose to renounce their own privilege. Things like noble hunting rights, and church tithes were abolished. By the end of the night feudalism in France is essentially abolished. The only three motions that didn't pass were "freedom of religion for protestants", "abolish slavery in the colonies" and "abolish nobility outright". In the days after the event news of the National Assembly's actions did cause the decline of riots and mobs across the nation.
-- 
+- 1789 August 4th: In one "delirious" night (described as surreal by attendees) members of the National Assembly try to "one up" each-other by proposing the removal of policies and privileges of the Ancien-Regime. Even the nobles, clergy and business men of the third estate propose to renounce their own privilege. Things like noble hunting rights, and church tithes were abolished. By the end of the night feudalism in France is essentially abolished. The only three motions that didn't pass were "freedom of religion for protestants", "abolish slavery in the colonies" and "abolish nobility outright". 
+- 1789 August 11th: The National Assembly draws up a more "sober" version of the August 4th declaration. In particular they agreed that those who lose their privileges (which they viewed like property) should be compensated for their loss. For example if you had feudal obligations you would have to buy yourself out of them (however in practice many peasants just stopped following their obligations without paying until eventually the requirement was dropped). News of the August 11th decree finally manage quell the protests and mob violence occurring throughout the nation.
+- 1789 August 26th: The National Assembly passes the "[Declaration of Rights of Man](https://avalon.law.yale.edu/18th_century/rightsof.asp)"
 
+After the August 11th decree the National Assembly begins to split into factions. In particular reactionary conservatives, radical liberals (for example from the society of 30),
+and the centrist Monarchiens. At this points the reactionary conservatives found themselves working with the Monarchiens as the most powerful force within the national assembly, however most delegates were still neutral so voting could always flip one way or the other. 
+### September 1789 - 
+- 1789 September ?: Lafayette (being an idealist) invites Mounier and two of his Monarchien colleagues to parlay with three liberal delegates (who would later be known as the triumvirate) Adrien Duport, the comte de Lameth, and Antoine Barnave to work out their differences.
 ## Miscellaneous List of Characters
 
 Jean Sylvain Bailly (1736-1793)
 - French Astronomer, mathematician, freemason (one of the only delegates to the Estates General with national recognition
 - Presided over the tennis court oath (was the person raising his hand in the famous painting drawing by Jacques-Louis David depicting the event)
 - Was made President of the National Assembly (due to his national recognition)
+
+## French Revolutionary Factions
+
+### Monarchiens (The Monarchist Club): 
+
+Lead by [Jean Joseph Mounier](https://en.wikipedia.org/wiki/Jean_Joseph_Mounier) 
+
+They were a centrist faction that wanted a constitutional monarchy. In particular they tried to be a stabilising force between the more radical liberals and the conservative reactionaries. 
 
 ## Important Enlightenment Thinkers
 
