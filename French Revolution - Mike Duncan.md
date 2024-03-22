@@ -45,15 +45,29 @@ Here I note interesting facts from Mike Duncan's podcast on the french Revolutio
 
 ## Revolution Timeline (1789-Present)
 
-### July 1789 - The Fall of the Bastille
+### July 1789 (11th - ?th) - The Fall of the Bastille
 
 - 1789 July 11th: Marie Antoinette and the Kings brother (Charles X) convinced King Louis XVI to sack Necker, believing that they had amassed enough troops to withstand the fallout.
 - 1789 July 12th: News reaches Paris of Necker's dismissal which causes uproar. In the evening a journalist by the name of Camille Desmoulins and his friends gather at the Palais Royale. At the event Camille steps up on a table and says (roughly) "This is it! They are coming for us, and it is only a matter of time! We can either submit or arm ourselves to see this thing through!" At one point he points a pistol at his heart and says "I would rather die than submit to servitude". This starts a mob which begins to wreak havoc on the streets of Paris. A regiment of German Calvary comes in to try and restore order but they are outnumbered. Units of the French guard are brought in as reinforcements but end up siding with the mob and fighting against the Germans. 
 - 1789: July 12th - 14th: A group of municipal Paris government called the "Paris Electors" become the "leaders" of the mob/resistance to the extent that they could control it. They try to transform the mob into a somewhat organised militia. 
 - 1789 July 14th: The militia storms the Hotel des Invalides and manages to seize a large quantity of muskets without gunpowder. Having anticipated this occurrence, all gunpowder had been transferred to the Bastille over the last few days where they felt it was much more protected. The militia then meets outside the Bastille where they intend to acquire the gunpowder needed to operate their weapons. Despite the Bastille being quite the stronghold, the guard stationed at the fortress was relatively weak. While representatives from the Paris Electors try to negotiate with the guards to give them the guns and ammunition stored at the fortress the militia/mob grows restless. A few members of the mob manage to scale the laws and open the drawbridge causing the mob to rush inside. The guards began firing at the mob rushing inside. Eventually guard units outside of the fortress sympathetic to the militia begin to join on the side of the mob and add professional support to the siege. Eventually the mob wins, ransacking the fortress and lynching some of the guards (after refusing to accept their surrender). 
+- 1789 July 15th: Louis XVI announces to the National Assembly that he is going to pull the soldiers out of Paris. A delegate of the national assembly (including Lafayette and Jean Bailly) heads to Paris to give the news. The Paris electors ask Lafayette to take command of the citizens militia (which will soon be organised into the national guard) and a new system of municipal government is put in place called the "Paris Commune" which elects Bailly as mayor. 
+- 1789 July 16th: Louis XVI comes to Paris to confirm the removal of the French of Military as well as the appointments of Lafayette and Bailly. He also announced that Necker would be tracked down and brought back to run the ministry. At this point it was clear to all that the Monarchy has lots its power. Meanwhile the Kings brother Charles X flees Versailles.
+- 1789 July 22nd: The former intendent of Paris (the public servant of the monarchy in charge of the city) was captured by members of the militia at his country house to bring him to Paris to answer against charges against starving the third estate. On their way into the city the militia was interrupted by a mob which beat him, stoned him and then lynched him. On the same day the current Controller-General of Finances Joseph-Francois Foullon was also lynched.
+
+After these events "The Great Fear" takes over France (partly fueled by rumours of an aristocratic famine plot). Peasants start forming protective associations, people stop paying taxes or other debts etc... essentially France starts descending into the direction of anarchy.
 ## August 1789
 
+- 1789 August 4th: In one "delirious" night (described as surreal by attendees) members of the National Assembly try to "one up" each-other by proposing the removal of policies and privileges of the Ancien-Regime. Even the nobles, clergy and business men of the third estate propose to renounce their own privilege. Things like noble hunting rights, and church tithes were abolished. By the end of the night feudalism in France is essentially abolished. The only three motions that didn't pass were "freedom of religion for protestants", "abolish slavery in the colonies" and "abolish nobility outright". In the days after the event news of the National Assembly's actions did cause the decline of riots and mobs across the nation.
 - 
+
+## Miscellaneous List of Characters
+
+Jean Sylvain Bailly (1736-1793)
+- French Astronomer, mathematician, freemason (one of the only delegates to the Estates General with national recognition
+- Presided over the tennis court oath (was the person raising his hand in the famous painting drawing by Jacques-Louis David depicting the event)
+- Was made President of the National Assembly (due to his national recognition)
+
 ## Important Enlightenment Thinkers
 
 
@@ -101,7 +115,7 @@ Prussia rose from a Polish fief to a sovereign duchy to a powerful state partly 
 
 ### War of Austrian Succession
 
-Being the last male Habsburg, Charles VI was worried about a succession crisis. He issued an edict in 1713 making it possible for his daughter to inherit all Habsburg possessions. When he died in October 1740 his daughter Maria only omitting this that wouldnt be needing to follow the storyTheresa (mother of Marie Antoinette) did inherit the Habsburg dynastic holdings, but since she couldn't become Holy Roman Emperor,
+Being the last male Habsburg, Charles VI was worried about a succession crisis. He issued an edict in 1713 making it possible for his daughter to inherit all Habsburg possessions. When he died in October 1740 his daughter Maria Theresa (mother of Marie Antoinette) did inherit the Habsburg dynastic holdings, but since she couldn't become Holy Roman Emperor,
 Habsburg enemies, including Frederick the Great, disputed her claims to power. This led to a great power war in Europe where France and Spain supported the Prussians, England and the Dutch supported the Austrians. In the end (by 1748), Maria Theresa's claims were validated and her husband was elected Holy Roman Emperor but Frederick the Great kept some of his conquered territory. 
 
 ### Diplomatic Revolution of 1756
@@ -129,7 +143,7 @@ In 1787 two wars break out. Russia (now back in an alliance with Austria) goes t
 
 Considering that it has been called to establish the constitution of the realm, to bring about the regeneration of public order, and to maintain the true principles of monarchy; nothing may prevent it from continuing its deliberations in any place it is forced to establish itself; and, finally, the National Assembly exists wherever its members are gathered.
 
-Decrees that all members of this Assembly immediately take a solemn oath never to separate, and to reassemble wherever circumstances require until the constitution of the realm is established and fixed upon solid foundations; aonly omitting this that wouldnt be needing to follow the storynd that said oath having been sworn, all members and each one individually confirms this unwavering resolution with his signature.
+Decrees that all members of this Assembly immediately take a solemn oath never to separate, and to reassemble wherever circumstances require until the constitution of the realm is established and fixed upon solid foundations; and that said oath having been sworn, all members and each one individually confirms this unwavering resolution with his signature.
 
 We swear never to separate ourselves from the National Assembly, and to reassemble wherever circumstances require until the constitution of the realm is drawn up and fixed upon solid foundations."
 
