@@ -47,9 +47,21 @@ Uhh
 The analogy we start with here is really fun to think about and pretty wild, but I feel like this misrepresents and doesn’t give enough credit to science. I can believe the proliferation of cult-like interpretations and subjectivist theories, but I’d imagine that unless the post-science societies never re-discover the scientific method, all of these various theories would intermingle, with some being falsified and some being folded into the scientific consensus—ultimately, you’ll end up in a similar position as we are now. If we are imagining a scenario where they do not/cannot employ the scientific method to resolve the manifold theories, then to me, they would cease to be “theories of science.” This seems important to mention because the intent of this analogy is to draw a parallel to moral theories, but the mechanism of the scientific method is fundamental to science and its successes and I can’t think of an analog to this for morality.
 
 > [!quote]
-> What we possess, if this view is true, are the fragments of a conceptual scheme, parts which now lack those contexts from which their significance derived. We possess indeed simulacra of morality, we continue to use many of the key expressions. But we have—very largely, if not entirely—lost our comprehension, both theoretical and practical, or morality.
+> The hypothesis which I wish to advance is that in the actual world which we inhabit the language of morality is in the same state of grave disorder as the language of natural science in the imaginary world which I described. What we possess, if this view is true, are the fragments of a conceptual scheme, parts which now lack those contexts from which their significance derived. We possess indeed simulacra of morality, we continue to use many of the key expressions. But we have—very largely, if not entirely—lost our comprehension, both theoretical and practical, or morality.
 
 At the moment, I’m skeptical of the idea that everyone’s moral frameworks are different fragments of a broader unified moral framework, and even if such a framework could exist. In the science analogy, such a unified framework necessarily exists by construction, but coming from my “naturalist” tendencies (i.e., believing our moral intuitions come from evolutionary and social processes), I have no reason to believe that our moral intuitions come from a broader, internally consistent, moral framework.
+
+The two things we know about his hypothesis: i) analytical and phenomenological philosophy will not help in resolving the grave disorder of language and ii) the history will be demonstrated as order -> fall -> damaged restoration.
+
+The philosophy of language seems to feature heavily so far (the primary focus, even). I know basically nothing about this, so it will be interesting going forward lol. This language focus makes sense with respect to the Shapiro story about Crossfire debates, but I wonder how we will get to talking about the community-oriented stuff.
+
+## Chapter 2
+
+> [!quote]
+> There seems to be no rational way of securing moral agreement in our culture.
+
+In which culture is this not the case? What makes a way of securing moral agreement rational or not, and perhaps more importantly, what bearing does that have on “correctness”? Is a dictator commanding a moral code onto their populace “rational,” and if it is, why should I care?
+
 # David (unread)
 
 ...
