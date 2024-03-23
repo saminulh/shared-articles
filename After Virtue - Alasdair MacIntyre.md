@@ -82,8 +82,13 @@ C.L. Stevenson is the “most important exponent” of emotivism. Emotivism fail
 2. Emotivism tries to characterize as equivalent two fundamentally different types of expressions. Statements of preference are personal and their force depends on the context of the speaker and the listener, while moral statements are independent of that.
 	- Emotivists, I presume, aren’t trying to make impersonal moral statements as they believe in the inherent subjectivity at the root of such claims. As for everyone else doing so, I would probably argue that their moral statements are actually dependent on personal context, even if the speakers intend a universal quality to their argument. I don’t have a great response to the fact that people feel the need to universalize their moral arguments, except that people do also try to argue about personal preferences in objective ways (though of course less forcefully).
 	- Thinking on this more, this need for universality might stem from a general fear of moral subjectivity and (as a corollary) a belief in some objective morality. Under such an assumption, of course one does not imagine themselves to be an immoral agent and so will argue their moral beliefs as objectively true. If this is true, I wonder where this comes from? Maybe the Enlightenment somehow induces us to think this way, but it could also be a relic of religion, where by definition there is an objective morality.
-3. The feeling or attitude of an expression lies not only in its meaning.
+3. The feeling or attitude of an expression lies not only in its meaning. Argues that emotivism was born as a counter to “intuitionism”
 	- “…it might be plausibly claimed, if the evidence was adequate, that in using such sentences to say whatever they mean, the agent was in fact doing nothing other than expressing his feelings or attitudes and attempting to influence the feelings and attitudes of others” ([[after-virtue.pdf#page=34&selection=1,6,11,46|after-virtue, page 34]]). Related to my previous point.
+	- “Emotivism on this account turns out to be an empirical thesis“ ([[after-virtue.pdf#page=38&selection=34,9,34,70|after-virtue, page 38]]) and “Emotivism thus understood turns out to be, as a cogent theory of use rather than a false theory of meaning, connected with one specific stage in moral development or decline, a stage which our own culture entered early in the present century.” ([[after-virtue.pdf#page=38&selection=62,23,67,45|after-virtue, page 38]]) I think I agree with the first quote and the first part of the second quote, I would probably believe it applies to a larger scope than MacIntyre claims lol.
+
+>  What emotivism however did fail to reckon with is the difference that it would make to morality if emotivism were not only true but also widely believed to be true.
+
+[[after-virtue.pdf#page=39&selection=52,25,54,41|after-virtue, page 39]]
 
 # David (unread)
 
