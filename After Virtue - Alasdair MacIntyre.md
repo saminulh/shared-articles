@@ -90,6 +90,16 @@ C.L. Stevenson is the “most important exponent” of emotivism. Emotivism fail
 
 [[after-virtue.pdf#page=39&selection=52,25,54,41|after-virtue, page 39]]
 
+> The terminus of justification is thus always, on this view, a not further to be justified choice, a choice unguided by criteria. Each individual implicitly or explicitly has to adopt his or her own first principles on the basis of such a choice.
+
+[[after-virtue.pdf#page=40&selection=58,0,61,17|after-virtue, page 40]]
+
+And so emotivism returns.
+
+Analytic philosophy counters to emotivism (e.g., by Rawls) fail (as to be seen later). I believe Shapiro mentioned that mature Rawls ended up in a subjective state with his veil of ignorance (related to the idea that coalitions don’t need to agree on the reasons to agree on the policy)?
+
+MacIntyre sets out for himself two tasks: 1) showing the existence of a past authoritative and objective moral system and 2) that we are currently an emotivist culture, if not self-conciously, then in practice.
+* If 1) fails to materialize, then it seems like MacIntyre is stuck as an emotivist. My prior is that 1) will be hard to prove and will likely be unconvincing TBH.
 # David (unread)
 
 ...
