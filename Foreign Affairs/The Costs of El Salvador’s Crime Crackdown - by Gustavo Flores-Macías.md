@@ -72,7 +72,7 @@ This suggests that perhaps these gangs just happened to be in a position to fill
 
 ### The Conflict between Democracy and Security
 
-There are alternatives to the Bukele model for reducing crime. In cities in Brazil, Colombia, and Mexico, politicians have managed to decrease homicides without eroding civil and human rights by making sustained investments in democratic policing, which emphasizes transparency, accountability, and civil liberties. ese measures may not work as quickly, and they may not be as conspicuous. But they do not sacrice democracy on the altar of public safety. 
+>There are alternatives to the Bukele model for reducing crime. In cities in Brazil, Colombia, and Mexico, politicians have managed to decrease homicides without eroding civil and human rights by making sustained investments in democratic policing, which emphasizes transparency, accountability, and civil liberties. ese measures may not work as quickly, and they may not be as conspicuous. But they do not sacrice democracy on the altar of public safety. 
 
 [[the-costs-of-el-salvadors-crime-crackdown-2024-03-20-09-04.pdf#page=3&selection=106,1,130,31|the-costs-of-el-salvadors-crime-crackdown-2024-03-20-09-04, page 3]]
 
@@ -88,7 +88,7 @@ I don't know too much about the situations in each of these countries, but from 
 
 I wonder what Przeworksi (or the work of Przeworksi) would say about the above. I could see a few possibilities. One would be that actually this stuff doesn't matter much at all (since without the required material conditions people aren't sufficiently incentivized to preserve democratic institutions). Another take would be that once the material conditions are met perhaps stuff like this plays a role in transitioning to a successful democracy. With this view I could see either attacking or defending Bukele's approach. On the one hand you could argue that this will set a precedent which undermines the integrity of democratic institutions, on the other hand you could argue that perhaps this is necessary to pull society into the state where the "dynamics and equilibriums of democracy" take over as described by Przeworski. 
 
->  Moreover, the normalization of states of emergency and the militarization of public life erodes citizens’ ability to inuence policy, and it weakens trust in the capacity of civilian institutions to solve the country’s problems.
+>  Moreover, the normalization of states of emergency and the militarization of public life erodes citizens’ ability to influence policy, and it weakens trust in the capacity of civilian institutions to solve the country’s problems.
 
 [[the-costs-of-el-salvadors-crime-crackdown-2024-03-20-09-04.pdf#page=6&selection=66,46,71,45|the-costs-of-el-salvadors-crime-crackdown-2024-03-20-09-04, page 6]]
 
