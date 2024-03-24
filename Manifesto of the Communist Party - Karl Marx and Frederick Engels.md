@@ -1,6 +1,10 @@
-# Article Information
-
-Links: [article](https://www.marxists.org/archive/marx/works/download/pdf/Manifesto.pdf) and [[communist-manifesto.pdf|pdf]]
+---
+source_link: https://www.marxists.org/archive/marx/works/download/pdf/Manifesto.pdf
+pdf: "[[communist-manifesto.pdf]]"
+tags:
+  - communism
+  - marxism
+---
 
 # Sammy (03/15/24)
 
@@ -44,8 +48,3 @@ Feudal industry was dominated by closed guilds, but growing demand led to a manu
 # David (unread)
 
 ...
-
-=======
-# Tags
-
-#communism #marxism
