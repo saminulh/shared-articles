@@ -116,4 +116,77 @@ This distinction above is illusory to the emotivist, as all utterances are ultim
 
 This dichotomy, to me, feels more like a consequence of the definition of (treating others as) means versus ends.
 
+> The unifying preoccupation of that tradition \[of *The Portrait of a Lady*, *La Neveu de Rameau*, and *Enten-Eller*\] is the condition of those who see in the social world nothing but a meeting place for individual wills, each with its own set of attitudes and preferences and who understand that world solely as an arena for the achievement of their own satisfaction, who interpret reality as a series of opportunities for their enjoyment and for whom the last enemy is boredom.
+
+[[after-virtue.pdf#page=45&selection=17,0,23,26|after-virtue, page 45]]
+
+I feel like we are conflating so much stuff to be able to connect this all to (different realizations of) emotivism and its social consequences.
+
+Weber’s conception of contemporary bureaucratic rationality:
+> Bureaucratic rationality is the rationality of matching means to ends economically and efficiently…. Questions of ends are questions of values, and on values reason is silent; conflict between rival values cannot be rationally settled. Instead one must simply choose
+
+[[after-virtue.pdf#page=45&selection=88,49,89,71|after-virtue, page 45]]
+
+> Weber of course took himself to be distinguishing power from authority, precisely because authority serves ends, serves faiths. But, as Philip Rieff has acutely noted, 'Weber's ends, the causes there to be served, are means of acting; they cannot escape service to power' (Rieff 1975, p. 22). For on Weber's view no type of authority can appeal to rational criteria to vindicate itself except that type of bureaucratic authority which appeals precisely to its own *effectiveness*.
+
+[[after-virtue.pdf#page=46&selection=43,35,58,66|after-virtue, page 46]]
+
+But isn’t effectiveness ultimately an appeal to ends, e.g., a government claiming that it has reduced poverty by X%? Maybe “reducing poverty” itself should not be understood as an end but as a mean (I guess as the formerly-poor person now has more means to do with what they will).
+
+
+A *character* is a culturally recognizable symbol representing a certain type of person along with constraints on their behaviour (especially morally).
+
+>  In the case of a character role and personality fuse in a more specific way than in general; in the case of a character the possibilities of action are defined in a more limited way than in general
+
+[[after-virtue.pdf#page=48&selection=9,10,19,56|after-virtue, page 48]]
+
+> For all intentions presuppose more or less complex, more or less coherent, more or less explicit bodies of belief, sometimes of moral belief
+
+[[after-virtue.pdf#page=48&selection=81,25,83,12|after-virtue, page 48]]
+
+Hmm, coherence and explicitness seem a bit suspect to me.
+
+Characters in emotivism:
+1. Rich aesthete: bored and turns to manipulating others for their own amusement (excess means trying to find ends)
+2. Bureaucratic manager: manipulates subordinates so that the organization may meet its goals (given ends and modifies means to fit the ends)
+3. Therapist: “treats ends as given, as outside his scope; his concern also is with technique, with effectiveness in transforming neurotic symptoms into directed energy, maladjusted individuals into well-adjusted ones.”
+
+> Philip Rieff has documented with devastating insight a number of the ways in which truth has been displaced as a value and replaced by psychological effectiveness.
+
+[[after-virtue.pdf#page=50&selection=126,7,130,5|after-virtue, page 50]]
+
+> Those who persistently attack bureaucracy effectively reinforce the notion that it is in terms of a relationship to bureaucracy that the self has to define itself
+
+[[after-virtue.pdf#page=51&selection=39,20,41,29|after-virtue, page 51]]
+
+> \[In emotivism,\] The contrast between this democratization of moral agency and the elitist monopolies of managerial and therapeutic expertise could not be sharper.
+
+[[after-virtue.pdf#page=52&selection=18,56,20,58|after-virtue, page 52]]
+
+>  Sartre…has depicted the self as entirely distinct from any particular social role which it may happen to assume; Erving Goffman by contrast has liquidated the self into its role-playing, arguing that the self is no more than 'a peg' on which the clothes of the role are hung (Goffman 1959, p. 253). 
+
+[[after-virtue.pdf#page=52&selection=61,38,68,15|after-virtue, page 52]]
+
+> For one way of re-envisaging the emotivist self is as having suffered a deprivation, a stripping away of qualities that were once believed to belong to the self. The self is now thought of as lacking any necessary social identity, because the kind of social identity that it once enjoyed is no longer available; the self is now thought of as criterionless, because the kind of telos in terms of which it once judged and acted is no longer thought to be credible. What kind of identity and what kind of telos were they?
+
+[[after-virtue.pdf#page=53&selection=71,29,85,10|after-virtue, page 53]]
+
+> In many pre-modern, traditional societies it is through his or her membership in a variety of social groups that the individual identifies himself or herself and is identified by others
+
+[[after-virtue.pdf#page=53&selection=86,0,118,46|after-virtue, page 53]]
+
+Isn’t this close-ish to the Goffman view (assuming identity=self)?
+
+> To know oneself as such a social person is however not to occupy a static and fixed position. It is to find oneself placed at a certain point on a journey with set goals; to move through life is to make progress—or to fail to make progress —toward a given end. Thus a com- pleted and fulfilled life is an achievement and death is the point at which someone can be judged happy or unhappy. Hence the ancient Greek pro- verb: 'Call no man happy until he is dead.’
+
+[[after-virtue.pdf#page=54&selection=23,24,29,42|after-virtue, page 54]]
+
+> The bifurcation of the contemporary social world into a realm of the organizational in which ends are taken to be given and are not available for rational scrutiny and a realm of the personal in which judgment and debate about values are central factors, but in which no rational social resolution of issues is available, finds its internalization, its inner represen- tation in the relation of the individual self to the roles and characters of social life.
+
+[[after-virtue.pdf#page=54&selection=64,0,88,12|after-virtue, page 54]]
+
+> But in fact what is crucial is that on which the contending parties \[of modern political debates\] agree, namely that there are only two alternative modes of social life open to us, one in which the free and arbitrary choices of individuals are sovereign and one in which the bureaucracy is sovereign, precisely so that it may limit the free and arbitrary choices of individuals.
+
+[[after-virtue.pdf#page=55&selection=1,45,14,23|after-virtue, page 55]]
+
 # David (unread)
