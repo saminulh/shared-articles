@@ -4,10 +4,6 @@ pdf: "[[after-virtue.pdf]]"
 tags:
   - communitarianism
 ---
-# Article Information
-
-Links: [[Shared Articles/Book Markdowns/After Virtue - Alasdair MacIntyre|book markdown]] and [[after-virtue.pdf|pdf]]
-
 # Sammy (03/20/24–)
 
 Just planning on the Shapiro notes at the moment, will see how things feel.
