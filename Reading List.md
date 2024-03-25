@@ -1,7 +1,6 @@
 # Sammy's List
 
 1. Democratic Justice - Ian Shapiro
-	- David: ??? read
 2. Responsible Parties - Ian Shapiro
 3. [[Shared Articles/After Virtue - Alasdair MacIntyre|After Virtue - Alasdair MacIntyre]]
 	- Sam: chapters 1, 2 read

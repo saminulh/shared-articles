@@ -100,4 +100,24 @@ Analytic philosophy counters to emotivism (e.g., by Rawls) fail (as to be seen l
 
 MacIntyre sets out for himself two tasks: 1) showing the existence of a past authoritative and objective moral system and 2) that we are currently an emotivist culture, if not self-conciously, then in practice.
 * If 1) fails to materialize, then it seems like MacIntyre is stuck as an emotivist. My prior is that 1) will be hard to prove and will likely be unconvincing TBH.
+
+## Chapter 3
+
+Every moral philosophy presupposes a sociology.
+
+> emotivism entails the obliteration of any genuine distinction between manipulative and non-manipulative social relations
+
+[[after-virtue.pdf#page=43&selection=37,0,52,50|after-virtue, page 43]]
+
+Kantian ethics would say that in relationships uninformed by morality, one only treats the other as a means to their own ends, while when informed by morality, they treat the other as an end unto itself. In terms of moral persuasion, a non-moral relationship would permit the use of any sorts of persuasion and influence to cause the other to think a certain way. On the other hand, for moral relationships, you try to influence the other by reasons they perceive as good and appeal to impersonal criteria of validity.
+* Why are reasons the other perceives as good and impersonal rational criteria conflated? They seem logically independent to me. In particular, why is rationality necessary for me to be considering an other as end? I guess I’m unclear so far if MacIntyre is endorsing this per se, but it feels like a pretty Enlightenment position (which I suppose makes sense given Kant).
+
+This distinction above is illusory to the emotivist, as all utterances are ultimately expressions of feeling, which are not impersonal criteria.
+
+> The sole reality of distinctively moral discourse is the attempt of one will to align the attitudes, feelings, preference and choices of another with its own. Others are always means, never ends.
+
+[[after-virtue.pdf#page=44&selection=13,44,20,29|after-virtue, page 44]]
+
+This dichotomy, to me, feels more like a consequence of the definition of (treating others as) means versus ends.
+
 # David (unread)
