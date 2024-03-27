@@ -69,17 +69,30 @@ and the centrist Monarchiens. At this points the reactionary conservatives found
 - 1789 September 12th: Jean-Paul Marat starts a newspaper called *L'Ami du peuple* which becomes the "quintessential polemicist of the revolution". At this point in time he called for the purging of conservatives from the national assembly and lynching of "aristocratic swine". 
 - 1789 September 14th: King Louis XVI calls in the Flanders regiment from the north-eastern frontier (a highly disciplined regiment) to protect Versailles. He then starts to try to renegotiate some of the details of the August 11th decree which he previously promised to sign if he got his suspensive veto passed.  
 - 1789 September ?: Under pressure from the National Assembly King Louis XVI eventually agrees to publish the August 11th decrees but not "promulgate" it. This is seen as an insult by many. 
-## October 1789
+### October 1789 - The Women's March on Versailles
 - 1789 October 4th: King Louis XVI once again goes back on his promise and refuses to sign the "Declaration of Rights of Man" without changes 
 - 1789 October 5th: Mass demonstration of angry housewives in Paris occurs over lack of bread, high prices for bread, and the merchants profiting from the peoples misery. They manage to break into the Hotel de Ville and seize guns and cannons. The national guard refused to fire at them so they were essentially allowed to do as they pleased. They then decide that they need to protest at the "source" and head to Versailles. The rank and file of the National guard decides that they wish to join them (believing that they must replace the Flanders regiment as the King's body guard to protect him from the influence of evil aristocrats) and Lafayette is essentially coerced into leading them. Upon arriving in Versailles Lafayette explains that he has lost control of his men and tells Louis XVI that in order to defuse the situation he needs to dismiss the Flanders regiment and relocate to Paris. Louis XVI agrees to all demands except for relocating to Paris (which he says he needs to think about). 
-- 1789 October 6th: The next morning (while Lafayette is still asleep) someone opens the gates to Versailles where the women's marchers were camping out and they coming rushing into the palace grounds. The protests immediately turns violent with casualties on both sides. A group of national guardsman manage to secure the royal family although the women's marchers manage to lynch some palace guards and parade their bodies around. This event convinces Louis XVI to agree to move to Paris and let the national guardsmen become his official body guards. In light of this decision the National Assembly votes to also relocate to Paris.
+- 1789 October 6th: The next morning (while Lafayette is still asleep) someone opens the gates to Versailles where the women's marchers were camping out and they coming rushing into the palace grounds. The protests immediately turns violent with casualties on both sides. A group of national guardsman manage to secure the royal family although the women's marchers manage to lynch some palace guards and parade their bodies around. This event convinces Louis XVI to agree to move to Paris and let the national guardsmen become his official body guards. 
+- 1789 October 9th: The national Assembly votes to relocate and join the King in Paris. Mounier decides that he no longer wishes to be apart of the National Assembly due to their willingness to cave into mob violence and retreats to his home in Dauphine rather than joining them in Paris. 
 
+At this point their were two broad questions which divided the National Assembly?
+1. What did it mean to be a citizen? 
+2. What are we going to do about the Catholic Church? 
+
+- 1789 October 10th: The Bishop of Autun (Talleyrand) proposed to the National Assembly that some church property be nationalised and clergymen become salaried employees of the state.  This proposal was vehemently opposed by other Clergy in the national assembly including Talleyrands former peer from the society of thirty, the Abbe Sieyes. 
+- 1789 Late October: The definition of active citizen was set to be a man at least 25 years old who pays the equivalent of three days wages in taxes (i.e owns some property). This was considered another loss to the radicals who wanted a more inclusive definition. 
+### November 1789
+- 1789 November 3rd: The Comte de Mirabeau proposed a less radical version of Talleyrands proposal where instead of nationalising church lands, the church lands would be at the "disposal" of the nation. This proposal was passed which signalled the beginning of a shift in the balance of the National Assembly to favour the radicals. About a month later the National Assembly voted to sell off about 400 million livres in unspecified church property to improve the nations financial outlook. 
+- 1789 Late November (or early December): A new club was started by radicals in the national assembly that would be an organized, disciplined, centralised counter to the conservatives called "the Society of Friends of the Constitution" but better known as the Jacobin club.
 ## Miscellaneous List of Characters
 
 Jean Sylvain Bailly (1736-1793)
 - French Astronomer, mathematician, freemason (one of the only delegates to the Estates General with national recognition
 - Presided over the tennis court oath (was the person raising his hand in the famous painting drawing by Jacques-Louis David depicting the event)
 - Was made President of the National Assembly (due to his national recognition)
+
+Maximilien Robespierre (1758-1794)
+- In his youth he earned a reputation as a hyper-serious student with a passion for classical Roman virtue and Enlightenment philosophy.
 
 ## French Revolutionary Factions
 
@@ -89,6 +102,17 @@ Lead by [Jean Joseph Mounier](https://en.wikipedia.org/wiki/Jean_Joseph_Mounier)
 
 They were a centrist faction that wanted a constitutional monarchy. In particular they tried to be a stabilising force between the more radical liberals and the conservative reactionaries. 
 
+
+
+
+
+### Jacobins (The Jacobin Club)
+
+In the early days the leaders of the club included the likes of Duport, Barnave, Lameth,
+Mirabeau, and Robespierre. In the beginning they invited in everyone who upheld the three basic principles:
+	1. You must be dedicated to upholding constitutional government
+	2. You must support political equality (in particular opposed to the active-passive citizen dichotomy).
+	3. You must be ready to combat counter-revolutionary plots
 ## Important Enlightenment Thinkers
 
 
@@ -172,7 +196,8 @@ Some additional facts:
 
 - The National Assembly was lead by the Comte de Mirabeau
 - Joseph-Ignace Guillotin was the one who suggested meeting at the Tennis Court. 
-## Questions
 
+## Fun Facts
+- After moving the National Assembly to Paris on October 9th, liberals would sit on the left side of the room, and conservatives would sit on the right. This is were the term "left wing" and "right wing" come from. 
 
 
