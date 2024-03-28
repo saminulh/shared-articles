@@ -17,7 +17,7 @@ tags:
 > the wealthiest families in Sweden, for full time child care including meals and everything for your little ones, the most expensive rate that could possibly be applied to a wealthy family in Sweden is the economic equivalent in the U.S. of roughly $175 a month.
 
 > [!quote]
-> many families \[in the USA \] who pay $175 a day for child care here.
+> many families \[in the USA\] who pay $175 a day for child care here.
 
 > [!quote]
 > we can see that it has not hurt their G.D.P. It has not hurt economic productivity. It has not hurt creativity and innovation to have folks focus on things other than work.

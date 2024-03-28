@@ -1,12 +1,23 @@
 # Sammy's List
 
+### Readings from Shapiro Courses
 1. Democratic Justice - Ian Shapiro
 2. Responsible Parties - Ian Shapiro
 3. [[Shared Articles/After Virtue - Alasdair MacIntyre|After Virtue - Alasdair MacIntyre]]
-	- Sam: chapters 1, 2 read
+	- Sam: chapters 1-3 read
 4. Strangers in Their Own Land - Arlie Russell Hochschild
-5. Why Liberalism Failed - Patrick Deneen
-6. The Friendly Dictatorship - Jeffrey Simpson
+
+### Canada
+1. Responsible Parties - Ian Shapiro
+2. The Friendly Dictatorship - Jeffrey Simpson
+3. Has the Canadian Prime Minister become 'Presidentialized'? - John C. Courtney
+4. Reflections on Comparing Federalisms: Canada and the United States - Richard Simeon, Beryl A. Radin
+
+
+### Communitarianism
+1. [[Shared Articles/After Virtue - Alasdair MacIntyre|After Virtue - Alasdair MacIntyre]]
+2. Why Liberalism Failed - Patrick Deneen
+
 
 # David's List
 
