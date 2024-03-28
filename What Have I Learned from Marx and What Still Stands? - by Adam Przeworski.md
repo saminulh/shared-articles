@@ -1,6 +1,6 @@
 ---
 source_link: https://journals.sagepub.com/doi/10.1177/0032329220958662
-pdf: "[[What Have I Learned from Marx and What Still Stands? - by Adam Przeworski]]"
+pdf: "[[przeworski-2020-what-have-i-learned-from-marx-and-what-still-stands.pdf]]"
 tags:
   - marxism
   - capitalism-and-democracy

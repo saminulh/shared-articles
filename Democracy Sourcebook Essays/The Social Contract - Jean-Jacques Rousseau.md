@@ -68,7 +68,7 @@ What does it mean to have deliberations without communication? Maybe theres a no
 
 Did I miss this, where does he do this?
 
-### Thoughts
+### Final Thoughts
 
 Overall the idea seems to be that the premise of society is for everyone to give up some freedoms and enjoy the benefits of collective action. The deliberative process is obviously highly idealized and nearly meaningless, but a key point of emphasis seems to be for individuals should “make up their own mind” and then everyone comes together to mix together their own ideas.
 
