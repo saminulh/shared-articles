@@ -1,19 +1,18 @@
 ---
-pdf: "[[democracy-sourcebook.pdf#page=15&selection=0,0,0,19|democracy-sourcebook, page 15]]"
+pdf: "[[democracy-sourcebook.pdf#page=18&selection=0,0,0,36|democracy-sourcebook, page 18]]"
 tags:
   - democracy
   - "#capitalism-and-democracy"
   - capitalism
   - socialism
 ---
-# Sammy (unread)
+# Sammy
 
 ### Notes
 
 ### Questions and Comments
 
 ### Final Thoughts
-
 
 # David (unread)
 

@@ -4,7 +4,7 @@ tags:
   - democracy
   - social-contract
 ---
-# Sammy (unread)
+# Sammy
 
 ### Notes
 
