@@ -16,7 +16,7 @@ tags:
 
 [[democracy-sourcebook.pdf#page=15&selection=97,0,100,44|democracy-sourcebook, page 15]]
 
-> There is often a great difference between the will of all \[what all individuals want\] and the general will; the general will studies only the common interest while the will of all studies pri- vate interest, and is indeed no more than the sum of individual desires. But if we take away from these same wills, the pluses and minuses which cancel each other out, the balance which remains is the general will.
+> There is often a great difference between the will of all \[what all individuals want\] and the general will; the general will studies only the common interest while the will of all studies private interest, and is indeed no more than the sum of individual desires. But if we take away from these same wills, the pluses and minuses which cancel each other out, the balance which remains is the general will.
 
 [[democracy-sourcebook.pdf#page=16&selection=60,0,80,20|democracy-sourcebook, page 16]]
 ### Questions and Comments
@@ -75,6 +75,8 @@ Overall the idea seems to be that the premise of society is for everyone to give
 It’s fun to think about the analogy of the body politic to the human body. I suppose here then the individuals constituting the body politic is analogous to cells in a body. To extend this analogy further, we should be okay with groups taking part in politics, as this would be analogous to organs. This would be compatible with the last sentences of this essay, where he argues that there be many groups and prevent inequality between them (though it’s not clear to me why we should prefer the non-group society to the many-groups society).
 # David (read on 03/30/24)
 
+## Reading Notes
+
 > ‘‘How to find a form of association which will defend the person and goods of each member with the collective force of all, and under which each individual, while uniting himself with the others, obeys no one but himself, and remains as free as before.’’ This is the fundamental problem to which the social contract holds the solution.
 
 [[democracy-sourcebook.pdf#page=15&selection=68,0,74,48|democracy-sourcebook, page 15]]
@@ -126,7 +128,7 @@ This view will obviously contrast heavily with many democratic thinkers who valu
 [[democracy-sourcebook.pdf#page=17&selection=21,31,24,31|democracy-sourcebook, page 17]]
 
 Although he does make this concession later on. 
-### Overall Thoughts
+## Overall Thoughts
 
 I can see that this article may have been insightful for its time but I do not think it has aged well. It just seems like a very unnuanced and unsophisticated view of society from today's standards. 
 
