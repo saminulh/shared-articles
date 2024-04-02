@@ -1,3 +1,7 @@
+---
+tags:
+  - bds
+---
 # Introduction 
 
 These are notes on the BDS movement boycott guidelines found [here](https://bdsmovement.net/Act-Now-Against-These-Companies-Profiting-From-Genocide) and strategy found [here](https://bdsmovement.net/BDS-Guide-Strategic-Campaigning)
