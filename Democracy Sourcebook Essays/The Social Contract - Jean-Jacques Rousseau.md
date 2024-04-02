@@ -33,6 +33,8 @@ Never would have thought “the social contract” was an actual precisely state
 
 What are the original rights and natural freedoms? Is murder allowed or does it violate the original rights of the victim? Both answers seem weird: murder not allowed is weird because it seems the constraints on murder are imposed socially rather than naturally and murder allowed is weird because it seems that there are no “original rights” to speak of.
 
+Answer: there is a “natural law” (that the state should protect) and murder is a violation of natural law.
+
 > The public person thus formed by the union of all other persons was once called the city, and is now known as the republic or the body politic.
 
 [[democracy-sourcebook.pdf#page=15&selection=117,6,129,1|democracy-sourcebook, page 15]]
@@ -46,6 +48,8 @@ Everyone is simultaneously citizen and subject (i.e., part of both sides of the 
 [[democracy-sourcebook.pdf#page=16&selection=38,12,41,26|democracy-sourcebook, page 16]]
 
 I don’t understand this. It could mean that those that violate the social contract are expelled from the population, but that’s typically not the exclusive punishment (e.g., imprisonment).
+
+David: the general will is what enables society’s “freedom” and so opposing the general will means you oppose freedom (and must be forced into it?).
 
 > The people is never corrupted, but it is often misled; and only then does it seem to will what is bad.
 
@@ -68,6 +72,7 @@ What does it mean to have deliberations without communication? Maybe theres a no
 
 Did I miss this, where does he do this?
 
+Answer: its elsewhere in the book lol
 ### Final Thoughts
 
 Overall the idea seems to be that the premise of society is for everyone to give up some freedoms and enjoy the benefits of collective action. The deliberative process is obviously highly idealized and nearly meaningless, but a key point of emphasis seems to be for individuals should “make up their own mind” and then everyone comes together to mix together their own ideas.

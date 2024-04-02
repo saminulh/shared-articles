@@ -130,7 +130,7 @@ Schumpeter gives examples where "compromise" may not be an option.
 
 [[democracy-sourcebook.pdf#page=22&selection=25,45,54,47|democracy-sourcebook, page 22]]
 
-Schumpeter's framing of democracy: rather than the focus being on "the people" making decisions through representatives, the focus should be on "the people" choosing representatives who make decisions. 
+Schumpeter's framing of democracy: rather than the focus being on "the people" making decisions through representatives, the focus should be on "the people" choosing representatives \[through a competitive struggle\] who make decisions. 
 
 > Second, the theory embodied in this definition leaves all the room we may wish to have for a proper recognition of the vital fact of leadership. The classical theory did not do this but, as we have seen, attributed to the electorate an altogether unrealistic degree of initiative which practically amounted to ignoring leadership. But collectives act almost exclusively by accepting leadership—this is the dominant mechanism of practically any collective action which is more than a reflex.
 

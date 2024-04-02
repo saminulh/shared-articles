@@ -13,7 +13,6 @@
 3. Has the Canadian Prime Minister become 'Presidentialized'? - John C. Courtney
 4. Reflections on Comparing Federalisms: Canada and the United States - Richard Simeon, Beryl A. Radin
 
-
 ### Communitarianism
 1. [[Shared Articles/After Virtue - Alasdair MacIntyre|After Virtue - Alasdair MacIntyre]]
 2. Why Liberalism Failed - Patrick Deneen
