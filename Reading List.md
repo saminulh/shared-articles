@@ -18,6 +18,10 @@
 2. Why Liberalism Failed - Patrick Deneen
 
 
+### Miscellaneous
+1. Muslims and Citizens: Islam, Politics, and the French Revolution - Ian Coller
+
+
 # David's List
 
 ## Revolutionaries and Reactionaries Track
