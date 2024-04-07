@@ -5,7 +5,7 @@ tags:
 ---
 # Sammy
 
-## Notes
+### Notes
 
 > Almost all normatively desirable aspects of political, and sometimes even of social and economic, life are credited as intrinsic to de- mocracy: representation, accountability, equal- ity, participation, justice, dignity, rationality, security, freedom, . . . , the list goes on
 
@@ -24,10 +24,29 @@ tags:
 
 [[democracy-sourcebook.pdf#page=27&selection=88,0,94,2|democracy-sourcebook, page 27]]
 
-> So why do we have democracy: an agreement to toss a coin with probabilities e and (1  e)? The reason, in my view, is that it would be impossible to write a dictatorial contract that would specify every contingent state of nature. In turn, leaving the residual control—control over issues not explicitly regulated by contract— to the dictator would generate increasing returns to power and undermine the contract. 
+> So why do we have democracy: an agreement to toss a coin with probabilities e and (1 - e)? The reason, in my view, is that it would be impossible to write a dictatorial contract that would specify every contingent state of nature. In turn, leaving the residual control—control over issues not explicitly regulated by contract— to the dictator would generate increasing returns to power and undermine the contract. 
+
+^393d46
 
 [[democracy-sourcebook.pdf#page=27&selection=110,18,123,37|democracy-sourcebook, page 27]]
 
+> Voting is an imposition of a will over a will…. Voting authorizes compulsion.
+
+[[democracy-sourcebook.pdf#page=27&selection=174,0,174,45|democracy-sourcebook, page 27]]
+
+> Bobbio’s (1984: 93) parenthetical addition bares a crucial implication of the Schumpeterian definition: ‘‘by ‘democratic sys- tem’,’’ Bobbio says, ‘‘I mean one in which su- preme power (supreme in so far as it alone is authorized to use force as a last resort) is exerted in the name of and on behalf of the people by virtue of the procedure of elections.’’
+
+[[democracy-sourcebook.pdf#page=27&selection=218,0,241,39|democracy-sourcebook, page 27]]
+
+> Kelsen (1998 [1929]: 21) when he observes that ‘‘The purely negative assumption that no individual counts more than any other does not permit to deduce the positive principle that the will of the majority should prevail,’’ and I know no evi- dence to the e¤ect that participation induces compliance.
+
+[[democracy-sourcebook.pdf#page=28&selection=60,39,77,11|democracy-sourcebook, page 28]]
+
+> Voting constitutes ‘‘flexing muscles’’: a reading of chances in the eventual war.
+
+^1aec44
+
+[[democracy-sourcebook.pdf#page=28&selection=103,0,114,0|democracy-sourcebook, page 28]]
 ### The Random Election Model
 In this system, the election between two parties is determined by a (possibly biased) coin.
 The governing party is allowed to do whatever within the bounds of the constitution.
@@ -35,6 +54,22 @@ The governing party is allowed to do whatever within the bounds of the constitut
 This system is **completely unrepresentative**: no democratic input whatsoever and therefore no incentive to behave well, inside or outside of office. However, the cost of violence versus promised returns in the future may lead to this system still persisting: the loser of a given election is incentivized by potential future election wins to maintain the system and the winner of the election is incentivized to hold the next election due to the costs of violence.
 
 Essentially, this forms a sort of cartel between the two parties with a randomized profit-sharing scheme. The question then arises, why have this randomization (or electoral randomness) and not just maintain a pre-arranged profit-sharing scheme.
+
+> In democracies, even if voting does not reveal a unique collective will, it does indi- cate limits to rule. Why else would we interpret participation as an indication of legitimacy, why would we be concerned about support for ex- tremist parties?
+
+[[democracy-sourcebook.pdf#page=28&selection=200,13,205,16|democracy-sourcebook, page 28]]
+
+> Thus Lipset (1959: 46) was undoubtedly correct when he argued that ‘‘The more well-to-do a country, the greater the chance that it will sustain democracy.’’
+
+[[democracy-sourcebook.pdf#page=29&selection=42,0,65,40|democracy-sourcebook, page 29]]
+
+> The most likely reason presidential democracies are more fragile than parliamentary ones is that presidents rarely change because they are defeated in elections. Most of them leave office because they are obligated to do so by constitutionally imposed term limits.
+
+[[democracy-sourcebook.pdf#page=29&selection=118,16,123,46|democracy-sourcebook, page 29]]
+
+> democracy lasts when it offers an opportunity to the conflicting forces to advance their interests within the institutional framework.
+
+[[democracy-sourcebook.pdf#page=29&selection=149,36,152,28|democracy-sourcebook, page 29]]
 ### Questions and Comments
 
 > True, as the modernization theory (notably Coser 1959) emphasized, these conflicts can be ‘‘cross-cutting’’: they need not pit class against class or religion against religion.
@@ -44,6 +79,36 @@ Essentially, this forms a sort of cartel between the two parties with a randomiz
 This is in the context of caveating the anti-consensualist view. But I don’t quite see how this can help the consensualist position, “cross-cutting” conflicts seem like they still ought to make consensus difficult for any particular issue.
 
 Re [[#^c1def8]]: This is the (first?) minimal axiom. Restating, the axiom is that everyone (except sadists and such?) derives disutility from violence in resolving conflicts. Surely there are factions that derive positive utility from some amount of violence (e.g., Nazis purging Jews), but is that considered within the bounds of the axiom because this violence isn’t towards the end of resolving a conflict (although the Jews’ interests are in conflict with the Nazis’ here)?
+
+Re [[#^393d46]]: So basically this randomization is meant to force frequent renegotiations of the contract which moderate the power of the dictator against the power of the opposition?
+
+Re [[#^1aec44]]: I remember being unsettled by this before, but this doesn’t necessarily seem true in e.g. the US electoral system where there is a huge re-weighting toward rural Americans. I would guess that the “losers” of this system still buy in because the costs of conflict are too high (so basically the reasoning in the random election story), but not because they would lose a potential war. I guess I can buy this as a historical/evolutionary narrative for why majority rule can come about, but I don’t really buy the applications to modern times.
+
+> Dictatorships do not generate this information; they need secret police to find out.
+
+[[democracy-sourcebook.pdf#page=28&selection=198,27,200,11|democracy-sourcebook, page 28]]
+
+This information opacity works in both directions and can potentially serve a dictator well.
+
+Main factors affecting life of democracy:
+1. GDP per capita (by far most important)
+2. Largest party isn’t too dominant
+3. Leaders alternate semi-frequently
+4. Parliamentary democracies are longer lasting than presidential ones
+
+> But my point is not that democracy can be, needs to be, improved, but that it would be worth defending even if it could not be.
+
+[[democracy-sourcebook.pdf#page=29&selection=197,43,200,24|democracy-sourcebook, page 29]]
+
+I’m not sure on what grounds he’s normatively arguing that democracy is good/worth defending. Maybe it’s to do with the minimal axiom he gave at the beginning (and later revisited [[democracy-sourcebook.pdf#page=28&selection=206,0,206,36|here]]), but there wasn’t any argument that this is the only political system that satisfies this. For example, a dictatorship with a reputation for brutality may also have limited violence due to threats of brutal reprisals. (The paragraph I linked primarily mentions the act of ceding power as the main miracle of democracy, but that hasn’t really been established as intrinsically good).
+### Final Thoughts
+I like the first thought experiment for laying out the conditions under which parties in power can agree to alternate. It initially seemed like the idea of this paper is to justify democracy via the following chain:
+voting -> electoral uncertainty -> alternating powers -> preventing accumulation of power -> incentive-compatible and non-violent political system, where this last state is taken axiomatically to be good (though I take issue with such a system being necessarily good, as in the brutal dictator example).
+I mostly believe the last three arrows (as they are justified through the model) but the first one seems perhaps dubious (e.g., Singapore). I think Schumpeter’s idea of political competition is necessary (and missing from this analysis) to induce the electoral uncertainty from voting, because big-tent parties will try to compete on the noisy margins to capture a majority-forming coalition.
+
+Once we get to the “flexing muscles” section, I start to get confused because now it seems we are proposing a separate, but vaguely related, compliance mechanism to the above? It also feels in contradiction to the mechanism above: there’s no reason a priori that the side with more muscles should be a random process and the logic of “flexing muscles” could therefore deteriorate electoral uncertainty (and therefore the whole chain of reasoning collapses). Without qualifications, this idea seems like it could lead to tyranny of the majority type situations (why would the majority follow a constitution if they would win an ensuing war?) I feel like this section is lacking the game-theoretic cost-benefit analysis he did in the first section (even though I don’t see why you couldn’t do something similar) and it ends up being wishy-washy.
+
+Ultimately, I don’t think Przeworski succeeded in being as minimalist as he was hoping to be in justifying democracy and some extra normative assumptions are probably required to ground his arguments better.
 
 # David ((re)Read on 04/06/24)
 
