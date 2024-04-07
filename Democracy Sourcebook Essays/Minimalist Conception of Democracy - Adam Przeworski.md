@@ -5,11 +5,45 @@ tags:
 ---
 # Sammy
 
-### Notes
+## Notes
 
+> Almost all normatively desirable aspects of political, and sometimes even of social and economic, life are credited as intrinsic to de- mocracy: representation, accountability, equal- ity, participation, justice, dignity, rationality, security, freedom, . . . , the list goes on
+
+[[democracy-sourcebook.pdf#page=25&selection=27,2,40,43|democracy-sourcebook, page 25]]
+
+> if the point of departure is that in any society there are conflicts, of values and of interests, electing rulers appears nothing short of miraculous.
+
+[[democracy-sourcebook.pdf#page=25&selection=81,45,84,43|democracy-sourcebook, page 25]]
+
+> I take it as obvious that we want to avoid bloodshed, resolving conflicts through violence. Starting with this assumption, I first argue that the mere possibility of being able to change governments can avoid violence. Secondly, I argue that being able to do it by voting has consequences of its own.
+^c1def8
+
+[[democracy-sourcebook.pdf#page=26&selection=0,0,1,17|democracy-sourcebook, page 26]]
+
+> As Hardin (1989: 113) puts it, ‘‘for the consti- tutional case, the ultimate source \[of stability\] is the internal costs of collective action for re- coordination or, in Caesar’s word, mutiny.’
+
+[[democracy-sourcebook.pdf#page=27&selection=88,0,94,2|democracy-sourcebook, page 27]]
+
+> So why do we have democracy: an agreement to toss a coin with probabilities e and (1  e)? The reason, in my view, is that it would be impossible to write a dictatorial contract that would specify every contingent state of nature. In turn, leaving the residual control—control over issues not explicitly regulated by contract— to the dictator would generate increasing returns to power and undermine the contract. 
+
+[[democracy-sourcebook.pdf#page=27&selection=110,18,123,37|democracy-sourcebook, page 27]]
+
+### The Random Election Model
+In this system, the election between two parties is determined by a (possibly biased) coin.
+The governing party is allowed to do whatever within the bounds of the constitution.
+
+This system is **completely unrepresentative**: no democratic input whatsoever and therefore no incentive to behave well, inside or outside of office. However, the cost of violence versus promised returns in the future may lead to this system still persisting: the loser of a given election is incentivized by potential future election wins to maintain the system and the winner of the election is incentivized to hold the next election due to the costs of violence.
+
+Essentially, this forms a sort of cartel between the two parties with a randomized profit-sharing scheme. The question then arises, why have this randomization (or electoral randomness) and not just maintain a pre-arranged profit-sharing scheme.
 ### Questions and Comments
 
-### Final Thoughts
+> True, as the modernization theory (notably Coser 1959) emphasized, these conflicts can be ‘‘cross-cutting’’: they need not pit class against class or religion against religion.
+
+[[democracy-sourcebook.pdf#page=25&selection=101,19,104,53|democracy-sourcebook, page 25]]
+
+This is in the context of caveating the anti-consensualist view. But I don’t quite see how this can help the consensualist position, “cross-cutting” conflicts seem like they still ought to make consensus difficult for any particular issue.
+
+Re [[#^c1def8]]: This is the (first?) minimal axiom. Restating, the axiom is that everyone (except sadists and such?) derives disutility from violence in resolving conflicts. Surely there are factions that derive positive utility from some amount of violence (e.g., Nazis purging Jews), but is that considered within the bounds of the axiom because this violence isn’t towards the end of resolving a conflict (although the Jews’ interests are in conflict with the Nazis’ here)?
 
 # David ((re)Read on 04/06/24)
 
