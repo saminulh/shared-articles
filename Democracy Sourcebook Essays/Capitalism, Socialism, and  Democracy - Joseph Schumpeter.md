@@ -187,7 +187,7 @@ What does he mean by this?
 
 This makes me curious how does the average political science student (at say UofT) view the role of democracy? (Perhaps look at the political science curriculum).
 
-> It will be remembered that our chief troubles about the classical theory centered in the proposition that ‘‘the people’’ hold a definite and ra- tional opinion about every individual question and that they give e¤ect to this opinion—in a democracy—by choosing ‘‘representatives’’ who will see to it that that opinion is carried out. Thus the selection of the representatives is made secondary to the primary purpose of the demo- cratic arrangement which is to vest the power of deciding political issues in the electorate
+> It will be remembered that our chief troubles about the classical theory centered in the proposition that ‘‘the people’’ hold a definite and rational opinion about every individual question and that they give effect to this opinion—in a democracy—by choosing ‘‘representatives’’ who will see to it that that opinion is carried out. Thus the selection of the representatives is made secondary to the primary purpose of the democratic arrangement which is to vest the power of deciding political issues in the electorate
 
 [[democracy-sourcebook.pdf#page=22&selection=15,0,25,43|democracy-sourcebook, page 22]]
 

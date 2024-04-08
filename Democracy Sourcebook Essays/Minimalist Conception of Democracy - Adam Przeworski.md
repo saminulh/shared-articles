@@ -145,7 +145,7 @@ As did Schumpeter.
 
 Good point.
 
->  Yet in the end, when all the coalitions have been formed, the practical con- sensus has been elaborated, and all arguments have been exhausted, conflicts remain.
+>  Yet in the end, when all the coalitions have been formed, the practical consensus has been elaborated, and all arguments have been exhausted, conflicts remain.
 
 [[democracy-sourcebook.pdf#page=25&selection=112,17,115,37|democracy-sourcebook, page 25]]
 

@@ -93,9 +93,29 @@ At this point their were two broad questions which divided the National Assembly
 - 1789 April 19th: 292 (former/current delegates?) signed a petition against what the national assembly had just done, sending copies across France to stir up resentment. This would particularly resonate with the devoutly religious crowd in the rural provinces outside Paris. 
 - 1789 Late April: Without any conservative resistance the Jacobins framed the motion previously passed as a essentially nationalising church lands. 
 
-### September 1790 - Fracturing of the Left
+### May 1790 - Fracturing of the Left
 
-- 1790 September ?th: The King gives a speech (dressed in normal clothes) promising to support the new constitution whatever it may be. With the lynch-pin of the conservative and counter-revolutionary movements having essentially given up, these movements have all but shattered and the liberals have full control over the revolution. However with the liberals now in power their differences of opinion start to matter (no longer held together by the common cause of defeating the counter-revolutionaries and moderates). In particular there starts to become a divide between the "liberal nobels" many of whom previously made up the society of 30 and now make up the society of 1789 (including Lafayette, the Abbe Sieyes, Condorcet) verses the even more radical members of the Jacobin central committee including Robespierre, Duport (who founded the society of 30), Barnav and Lameth. 
+With conservative influence and counter-revolutionary movements dwindling, the left had taken control of the revolution. However this meant that the left was no longer held together by the common cause of defeating the right and therefore differences of opinion started to matter. The left began to split into factions. Two such groups were the Jacobins lead by the central committee of Robespierre, Duport, Barnave, and Lameth verse the "liberal nobles" of the Society of 1789 (who had previously been a part of the Jacobins). 
+
+The National Assembly took up two issues in May 1790 which accelerated this rift: 
+- The matter of judicial reform
+- Who would be allowed to declare war in the new constitutional order
+
+Adrien Duport presented a judicial reform package to the National Assembly which called for a complete democratization of the legal system. He wanted judges to be elected, juries to hear civil cases, and all laws applicable to everyone regardless of wealth or social status.
+Even other Jacobins thought this was too radical and shrugged off party discipline to vote against the package. 
+
+With news of England and Spain on the brink of war, King Louis XIV made orders to prepare France for war to make good on their alliance with Spain. The liberal nobles were open to the idea that "war and peace" were the Kings business and so pushed through the National Assembly a ratification of the King's actions. The Jacobins however saw the National Assembly as THE sovereign political body, and thus the only body that could legitimately declare war or negotiate piece. The debate about this issue raged on between May 15th to May 22nd. The remaining conservatives in the National Assembly argued vehemently that war and peace should be the sole discretion of the King and the Jacobins vehemently argued that war and peace should be the sole discretion of the National Assembly. The society of 1789 used this opportunity to propose a mixed system where the King and National Assembly should reach a decision on war and peace jointly, and it was this proposal that won support of the National Assembly for the time being. 
+
+### June 1790 - What to do about the First and Second Estate?
+
+Throughout the month debates occurred about what to do with the first and second estate. (On these issues the Society of 1789 and the Jacobin club were largely in agreement). 
+
+- 1789 June 19th: The National Assembly abolishes Hereditary titles
+
+### July 1790 
+
+- 1789 July 12th: The civil constitution of the clergy is passed. Some of its consequences were: removing any power the Pope and King have over the French Catholic church, having the clergy paid via state salary instead of tithes (which meant higher pay for parish priests but significantly lower pay for bishops), and most controversially having clerical roles become an elective office (from parish priest to bishop). 
+- 1789 July 14th: "The Feast of the Federation" occurs in Paris. A parade of the national guard on the anniversary of the Fall of the Bastille to celebrate the revolution and build national unity for the new order. 
 
 ## Miscellaneous List of Characters
 
