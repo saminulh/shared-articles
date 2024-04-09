@@ -189,4 +189,96 @@ Isn’t this close-ish to the Goffman view (assuming identity=self)?
 
 [[after-virtue.pdf#page=55&selection=1,45,14,23|after-virtue, page 55]]
 
+
+## Chapter 4
+
+> What I am going to suggest is that the key episodes in the social history which transformed, fragmented and, if my extreme view is correct, largely displaced morality…were episodes in the history of philosophy
+
+[[after-virtue.pdf#page=56&selection=12,0,32,36|after-virtue, page 56]]
+
+> But for intellectual variety as well as intellectual range not even the Germans can outmatch David Hume, Adam Smith, Adam Ferguson, John Millar, Lord Kames and Lord Monboddo.
+
+[[after-virtue.pdf#page=57&selection=40,40,57,9|after-virtue, page 57]]
+
+The Scottish are OP (maybe some ironic self-congratulation by MacIntyre)
+
+We view the 18th century enlightenment as a French cultural moment, but it was a unified strain all over Europe (e.g., Scotland, Germany, England) and France was in many ways backwards. They particularly failed because they lacked:
+1. Secularized protestant background
+2. Educated class linking the public servants, clergy, and lay thinkers
+	* The French intelligentsia were educated and alienated whereas the others were social
+	* Nothing else would exist like them until the 19th century Russian intelligentsia (side note: the similarities of French and Russian centralization/totalitarianism/authoritarianism as opposed to the rest of Europe is something I’ve come across before and seems really interesting—especially with how differently they have manifested in the modern day).
+3. University-like institutions.
+I wonder how we should think of and contextualize Rousseau and [[The Social Contract - Jean-Jacques Rousseau]] in the broader Enlightenment sphere, MacIntyre’s claims suggest he may something of an outlier.
+
+This culture is primarily northern European. It was also musical(!)
+
+> the relationship of our beliefs to sentences that we only or primarily sing, let alone to the music which accompanies those sentences, is not at all the same as the relationship of our beliefs to the sentences that we primarily say and say in an assertive mode.
+
+[[after-virtue.pdf#page=57&selection=117,33,128,65|after-virtue, page 57]]
+
+The musicalization of sacred texts breaks the traditional links those texts had with beliefs (not totally). This blurs a traditional distinction between religious and aesthetic. This changes the modes of beliefs and also there starts to arise questions about justification of belief.
+
+> Yet this concept of authority as excluding reason is, as I have already noticed, itself a peculiarly, even if not exclusively, modem concept, fashioned in a culture to which the notion of authority is alien and repug- nant, so that appeals to authority appear irrational.
+
+[[after-virtue.pdf#page=62&selection=58,16,61,53|after-virtue, page 62]]
+#### The word “moral”
+
+>  Cicero invented 'moralis' to translate the Greek word in the De Fato—means 'pertaining to character' where a man's character is nothing other than his set dispositions to behave systematically in one way rather than another, to lead one particular kind of life.
+
+[[after-virtue.pdf#page=58&selection=53,11,61,68|after-virtue, page 58]]
+
+* The English word “moral” has no Latin equivalent and the word it comes from simply means the character (i.e., set of behavioural dispositions) of a person. So “the moral” of a story is just the practical lessons it teaches, there is no normative implications with this understanding of the word.
+* The use of the word probably started out with the expression “moral virtue” and then the latter part was later dropped. The meaning of it narrowed in use until the late 17th century when it came to mean “not sexually lax”.
+* “Morality” was used initially to refer to the rules of conduct for affairs that not theological, legal, nor aesthetic. This eventually led people to want to find independent rational justification for it.
+	* Kierkegaard’s Enten-Eller killed this line of inquiry
+	* [[after-virtue.pdf#page=63&selection=49,12,66,9|”It is perhaps this combination of novelty and tradition which accounts for the incoherence at the heart of Kierkegaard's position. It is certainly, so I shall argue, just this deeply incoherent combination of the novel and the inherited which is the logical outcome of the Enlighten- ment's project to provide a rational foundation for and justification of morality.”]]
+
+#### Kant’s moral philosophy
+
+Two theses:
+1. All rational beings must share the same rational moral rules
+2. If moral rules are binding on rational beings, then the contingent ability is unimportant and all that matters is the will
+
+Kant of course believed that the universal maxims which would survive the rational tests would be those virtues he espoused and was taught from his own virtuous parents. In this way, Kant’s morality had an inherent conservatism to it.
+
+As for the tests of a maxim, he rejects the test that obedience lead to happiness because happiness is too vague and makes moral action conditional on emotion and desires. He also rejects doing that which is commanded by God because this would require being able to judge God’s deeds and words.
+
+The test he arrives at is practical reasons: a rational morality can be help by all men in all circumstances and be consistently applied. This is pretty bad and his arguments for it kind of suck.
+
+> he believed that his formulations of the categorical imperative in terms of universalizability were equivalent to a quite different formulation: 'Always act so as to treat humanity, whether in your own person or in that of others, as an end, and not as a means.'
+
+[[after-virtue.pdf#page=66&selection=32,57,36,20|after-virtue, page 66]]
+
+What it means to treat someone as end versus a mean:
+> I may propose a course of action to someone either by offering him reasons for so acting or by trying to influence him in non-rational ways. If I do the former I treat him as a rational will, worthy of the same respect as is due to myself, for in offering him reasons I offer him an impersonal consideration for him to evaluate. What makes a reason a good reason has nothing to do with who utters it on a given occasion; and until an agent has decided for himself whether a reason is a good reason or not, he has no reason to act. By con- trast an attempt at non-rational suasion embodies an attempt to make the agent a mere instrument of my will, without any regard for bis rationality.
+
+[[after-virtue.pdf#page=66&selection=41,51,58,12|after-virtue, page 66]]
+
+> But Kant gives us no good reason for holding this position
+
+[[after-virtue.pdf#page=66&selection=64,14,65,32|after-virtue, page 66]]
+
+> Kant's appeal to reason was the historical heir and successor of Diderot's and Hume's appeals to desire and to the passions. 
+
+[[after-virtue.pdf#page=67&selection=9,47,13,14|after-virtue, page 67]]
+
+#### Diderot and Hume
+
+Both moral conservatives and thought themselves philosophical radicals. Diderot and Hume based their moral foundations on desire and passion (which is what Kant responded to with his reason-based foundation).
+
+Diderot believes
+> if in modern France we all pursue our desires with an enlightened eye to the long-run we shall see that the conservative moral rules are by and large the rules which the appeal to their basis in desire and passion will vindicate
+
+[[after-virtue.pdf#page=67&selection=73,21,76,26|after-virtue, page 67]]
+
+But this process requires deciding which desires are legitimate and which aren’t, and this can’t be done on the basis of desire itself. He attempts to distinguish between natural desires and those corrupted through civilization.
+
+Hume:
+> Like Diderot, he understands particular moral judg- ments as expressions of feeling, of the passions, for it is the passions and not reason which move us to action. But he also, like Diderot, recognizes that in judging morally we invoke general rules and he aspires to explain these by showing their utility in helping us to attain those ends which the passions set before us
+
+[[after-virtue.pdf#page=68&selection=113,0,124,22|after-virtue, page 68]]
+
+For Hume, morality can only be *either* a work of reason *or* a work of passion, and he ruled out reason. This negative argumentation is present in Kant and Kirkegaard as well. Taking all these negative arguments together, we are left with no possible foundations anymore.
+
+Thus, first morality was divorced from the realm of religion through secularization and then philosophy failed to provide a common public justification and foundation for morality. This simultaneously caused philosophy to lose its central cultural role.
 # David (unread)
