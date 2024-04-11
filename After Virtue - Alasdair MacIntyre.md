@@ -281,8 +281,63 @@ Hume:
 For Hume, morality can only be *either* a work of reason *or* a work of passion, and he ruled out reason. This negative argumentation is present in Kant and Kirkegaard as well. Taking all these negative arguments together, we are left with no possible foundations anymore.
 
 Thus, first morality was divorced from the realm of religion through secularization and then philosophy failed to provide a common public justification and foundation for morality. This simultaneously caused philosophy to lose its central cultural role.
-
 ## Chapter 5
 
+>  Whence did they \[Kant, Kierkegaard, Hume, and Diderot\] inherit these shared beliefs? Obviously from their shared Christian past compared
 
+[[after-virtue.pdf#page=71&selection=70,48,71,73|after-virtue, page 71]]
+
+> Its basic structure is that which Aristotle analyzed in the Nicomachean Ethics. Within that teleological scheme there is a fundamental contrast between man-as-he-happens-to-be and man-as-he-could-be-if-he-realized-his-essential- nature. Ethics is the science which is to enable men to understand how they make the transition from the former state to the latter. 
+
+[[after-virtue.pdf#page=72&selection=57,1,82,62|after-virtue, page 72]]
+
+> the three elements of the scheme—the conception of untutored human nature, the conception of the precepts of rational ethics and the conception of human-nature-as-it-could-be-if-it-realized-its- telos — requires reference to the other two if its status and function are to be intelligible.
+
+[[after-virtue.pdf#page=73&selection=12,26,25,16|after-virtue, page 73]]
+
+> This scheme is complicated and added to, but not essentially altered, when it is placed within a framework of theistic beliefs, whether Christian, as with Aquinas, or Jewish with Maimonides, or Islamic with Ibn Roschd.
+
+[[after-virtue.pdf#page=73&selection=26,0,28,71|after-virtue, page 73]]
+
+> Most medieval proponents of this scheme did of course believe that it \[moral claims\] was itself part of God's revelation, but also a discovery of reason and rationally defensible
+
+[[after-virtue.pdf#page=73&selection=78,0,80,10|after-virtue, page 73]]
+
+> Reason can supply, so these new \[Protestant\] theologies assert, no genuine com- prehension of man's true end; that power of reason was destroyed by the fall of man
+
+[[after-virtue.pdf#page=73&selection=87,1,93,11|after-virtue, page 73]]
+
+> All reject any teleological view of human nature, any view of man as having an essence which defines his true end.
+
+[[after-virtue.pdf#page=74&selection=68,29,69,72|after-virtue, page 74]]
+
+> The injunctions of morality, thus understood, are likely to be ones that human nature, thus understood, has strong tendencies to disobey. Hence the eighteenth-century moral philosophers engaged in what was an in- evitably unsuccessful project; for they did indeed attempt to find a rational basis for their moral beliefs in a particular understanding of human nature, while inheriting a set of moral injunctions on the one hand and a concep- tion of human nature on the other which had been expressly designed to be discrepant with each other. 
+
+[[after-virtue.pdf#page=75&selection=14,0,23,31|after-virtue, page 75]]
+
+>  from the premise 'He is a sea-captain', the conclusion may be validly inferred that 'He ought to do whatever a sea-captain ought to do'. This counter-example not only shows that there is no general principle of the type alleged; but it itself shows what is at least a grammatical truth —an 'is' premise can on occasion entail an 'ought' conclusion.
+
+[[after-virtue.pdf#page=77&selection=38,55,49,29|after-virtue, page 77]]
+
+This leaves implicit that sea-captain ought to do such and such things. That seems to be where the oughts for “he” come from. [[http://pairopatetics.blogspot.com/2015/07/macintyre-on-is-ought-problem.html|Some useful elaborations in the comments here.]]
+
+> Suppose that during the seventeenth and eighteenth centuries the meaning and implications of the key terms used in moral utterance had changed their character; it could then turn out to be the case that what had once been valid inferences from or to some particular moral premise or conclusion would no longer be valid inferences from or to what seemed to be the same factual premise or moral conclusion
+
+[[after-virtue.pdf#page=77&selection=100,35,109,50|after-virtue, page 77]]
+
+> we may safely assert that, if some amended version of the 'No "ought" conclusion from "is" premises' principle is to hold good, it must exclude arguments involving functional concepts from its scope.
+
+[[after-virtue.pdf#page=78&selection=62,36,65,24|after-virtue, page 78]]
+
+> moral arguments within the classical, Aristotelian tradition—whether in its Greek or its medieval versions—involve at least one central functional concept, the concept of man understood as having an essential nature and an essential purpose or function;
+
+[[after-virtue.pdf#page=78&selection=96,43,119,9|after-virtue, page 78]]
+
+> Aristotle takes it as a starting-point for ethical enquiry that the relationship of 'man' to 'living well' is analogous to that of'harpist' to 'playing the harp well' (Nicomacbean Ethics, 1095a 16). But the use of 'man' as a functional concept is far older than Aristode and it does not initially derive from Aristode's metaphysical biology. It is rooted in the forms of social life to which the theorists of the classi
+
+[[after-virtue.pdf#page=78&selection=137,30,146,64|after-virtue, page 78]]
+
+>  For according to that tradition to be a man is to fill a set of roles each of which has its own point and purpose: member of a family, citizen, soldier, philosopher, servant of God. It is only when man is thought of as an individual prior to and apart from all roles that 'man' ceases to be a functional concept.
+
+[[after-virtue.pdf#page=79&selection=0,16,24,34|after-virtue, page 79]]
 # David (unread)
