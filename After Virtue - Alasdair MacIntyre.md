@@ -281,4 +281,8 @@ Hume:
 For Hume, morality can only be *either* a work of reason *or* a work of passion, and he ruled out reason. This negative argumentation is present in Kant and Kirkegaard as well. Taking all these negative arguments together, we are left with no possible foundations anymore.
 
 Thus, first morality was divorced from the realm of religion through secularization and then philosophy failed to provide a common public justification and foundation for morality. This simultaneously caused philosophy to lose its central cultural role.
+
+## Chapter 5
+
+
 # David (unread)
