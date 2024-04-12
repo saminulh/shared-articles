@@ -114,13 +114,13 @@ Schumpeter suggests that while much of the successes of democracy does not come 
 
 Schumpeter explaining the consequences of dropping the "common good" on the legitimacy of democratic government. 
 
-> It should be noted in passing that democratic phraseology has been instrumental in fostering the association of inequality of any kind with ‘‘injustice’’ which is so important an element in the psychic pattern of the unsuccessful and in the arsenal of the politician who uses him. One of the most curious symptoms of this was the Athenian institution of ostracism or rather the use to which it was sometimes put. Ostracism consisted in banishing an individual by popular vote, not neces- sarily for any particular reason: it sometimes served as a method of eliminating an uncomfortably prominent citizen who was felt to ‘‘count for more than one.’’
+> It should be noted in passing that democratic phraseology has been instrumental in fostering the association of inequality of any kind with ‘‘injustice’’ which is so important an element in the psychic pattern of the unsuccessful and in the arsenal of the politician who uses him. One of the most curious symptoms of this was the Athenian institution of ostracism or rather the use to which it was sometimes put. Ostracism consisted in banishing an individual by popular vote, not necessarily for any particular reason: it sometimes served as a method of eliminating an uncomfortably prominent citizen who was felt to ‘‘count for more than one.’’
 
 [[democracy-sourcebook.pdf#page=21&selection=115,0,126,52|democracy-sourcebook, page 21]]
 
 Interesting note about the association between inequality and injustice. 
 
-> But with qualitative issues, such as the question whether to persecute heretics or to enter upon a war, the result attained may well, though for di¤erent reasons, be equally distasteful to all the people whereas the decision imposed by a non- democratic agency might prove much more ac- ceptable to them. . . .
+> But with qualitative issues, such as the question whether to persecute heretics or to enter upon a war, the result attained may well, though for different reasons, be equally distasteful to all the people whereas the decision imposed by a non- democratic agency might prove much more acceptable to them. . . .
 
 [[democracy-sourcebook.pdf#page=21&selection=68,0,74,23|democracy-sourcebook, page 21]]
 

@@ -59,6 +59,32 @@ The authors critique procedural democracy for not addressing the need for delibe
 
 The six main principles of deliberative democracy. Three that regulate the process of politics and three the govern the content of policies. 
 
+> In some familiar theories of justice, moral claims are constructed as hypothetical agreements among individuals who are not accountable to anyone and who are assumed to be living in a just society. In such a society no one would need to argue for or against preferential hiring as a means of overcoming racial or gender discrimination because no such discrimination would exist in that society. Deliberative democracy, in contrast, admits reasons and principles that are suitable for actual societies, which all still suffer from discrimination and other kinds of injustice. Actual deliberation has an important advantage over hypothetical agreement: it encourages citizens to face up to their actual problems by listening to one another’s moral claims rather than concluding (on the basis of only a thought experiment) that their fellow citizens would agree with them on all matters of justice if they were all living in an ideal society.
+
+[[democracy-sourcebook.pdf#page=35&selection=136,42,171,31|democracy-sourcebook, page 35]]
+
+The authors again provide a consequential argument for deliberative democracy. 
+
+> Deliberative democracy does not assume that the results of all actual deliberations are just. In fact, most of the time democracies fall far short of meeting the conditions that deliberative democracy prescribes. But we can say that the more nearly the conditions are satisfied, the more nearly justifiable are the results likely to be.
+
+[[democracy-sourcebook.pdf#page=35&selection=172,0,177,48|democracy-sourcebook, page 35]]
+
+This is an interesting claim which has both an empirical and normative element. 
+
+> Habermas seems to imply that a provisionally justifiable resolution of moral conflicts in politics dependsolely on satisfying the conditions of delibera- tion. Principles such as basic liberty and opportunity therefore are valued only for their contribution to deliberation, not as constraints on what counts as a morally legitimate resolu- tion of disagreement. If leaving ‘‘all concrete moral and ethical judgments to participants themselves’’ means that principles such as liberty and opportunity should never constrain these judgments, then discourse theory does not adequately protect basic rights.
+
+[[democracy-sourcebook.pdf#page=36&selection=64,0,66,48|democracy-sourcebook, page 36]]
+
+
+> Seyla Benhabib, argues that deliberation can ensure the legitimacy but not the rationality of outcomes: ‘‘We accept the will of the majority at the end of an electoral process that has been fairly and correctly carried out, but even when we accept the legitimacy of the process we may have grave doubts about the rationality of the outcome.’’ If deliberation aims only at legitimacy, and legitimacy is defined as whatever ‘‘results from the free and unconstrained public deliberation of all about matters of common concern,’’ then deliberation may succeed (by definition) at ensuring legitimacy. Benhabib, ‘‘Deliberative Rationality,’’ p. 26. But this concept of legitimacy has too little moral content to provide a robust defense of deliberative democracy. Why should we defend deliberation, so understood, over a conception of deliberative democracy that is dedicated both to respecting basic liberty and opportunity and to subjecting these principles to ongoing deliberation?
+
+[[democracy-sourcebook.pdf#page=36&selection=204,45,222,49|democracy-sourcebook, page 36]]
+
+The authors put some limitation on deliberation. Suggesting that it alone is not enough to justify legitimacy or rationality. 
+
+> Insofar as deliberation is missing in political life, citizens also lack a mutually justifiable way of living with their ongoing moral disagreements. When citizens deliberate in democratic politics, they express and respect their status as political equals even as they continue to disagree about important matters of public policy.
+
+[[democracy-sourcebook.pdf#page=37&selection=77,24,84,14|democracy-sourcebook, page 37]]
 ### Additional Questions and Comments
 
 > Sometimes the assumptions are obviously true: only women bear children.
@@ -68,3 +94,17 @@ The six main principles of deliberative democracy. Three that regulate the proce
 This is funny given the current cultural climate.
 
 ### Overall Thoughts
+
+Firstly I have to criticise the choice of excerpt here. I feel like there was not enough content in the article and the examples that are discussed but not actually shown are probably important to understanding/buying the argument. 
+
+Secondly I would say that the perspective presented here is probably very similar to my view before starting the Shapiro lectures. 
+
+I think that deliberation certainly plays an important role in Democracy which is not discussed in the articles about the procedural definition. Whether this means deliberation should be a part of the definition, I am not sure. 
+
+My first concern is that it is not clear to what extent we can come to rational agreement (although this is definitely an important topic to study). To quote [[Minimalist Conception of Democracy - Adam Przeworski]]"
+
+> Yet in the end, when all the coalitions have been formed, the practical consensus has been elaborated, and all arguments have been exhausted, conflicts remain.
+
+My second concern is that it feels like it relies on a society where everyone wants to be a strongly active participant in the democracy. While I like the idea of this I have become increasingly pessimistic that this is a realistic ideal (and its not clear that it is "ideal"). The articles of Schumpeter and Przeworksi as well as the lectures of Shapiro paints of picture of the world where the majority of people have a more passive participation in politics until a strong conflict or perceived injustice arises against themselves or their group/community. In this context it perhaps makes more sense to view democracy as a competition for leadership (as in Schumpeter) rather than a deliberative process all the way down. While political parties may start from broad shared principles, it seems that their manoeuvring from election to election may be better described by trying to build coalitions and win over voters rather than trying to come to deliberative agreements based on rational or moral argument. 
+
+One nice aspect of the procedural definitions is that the feels like it relies much less on strong assumptions about human psychology (perhaps also sociology and anthropology), while it certainly does still have assumptions they feel much lighter (the assumptions under which its ideal might be equally strong, but the assumptions under which it works is weaker).
