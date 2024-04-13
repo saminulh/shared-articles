@@ -26,8 +26,35 @@ Interesting point, I wonder if they mean the normative role of reason in politic
 [[democracy-sourcebook.pdf#page=32&selection=13,30,16,13|democracy-sourcebook, page 32]]
 
 Vaguely reminds me of how you have described [[Democratic Justice - Ian Shapiro]].
+
+> Deliberation is not only a means to an end, but also a means for deciding what means are morally required to pursue our common ends. . . .
+
+[[democracy-sourcebook.pdf#page=32&selection=37,28,40,28|democracy-sourcebook, page 32]]
+
+> In the standard theories of democracy —proceduralism and constitutionalism—delib- eration likewise receives little attention.
+
+[[democracy-sourcebook.pdf#page=32&selection=57,13,63,43|democracy-sourcebook, page 32]]
+
+It seems to me like deliberation could be subsumed by proceduralism?
+
+> In the same spirit, Ju¨ rgen Habermas identifies de- liberative democracy with the idea of a ‘‘decentered society’’ in ‘‘Three Normative Models of Democracy,’’ Constellations, 1 (April 1994)
+
+[[democracy-sourcebook.pdf#page=33&selection=159,3,165,16|democracy-sourcebook, page 33]]
+
+Could be an interesting book
+
+> Perhaps because he is content with deliberation among political elites, Bessette is skeptical about pub- licity and argues in favor of secrecy (pp. 208–209)
+
+[[democracy-sourcebook.pdf#page=33&selection=227,8,229,51|democracy-sourcebook, page 33]]
+
+> \[Generality:\] Moral arguments apply to everyone who is similarly situated in the morally relevant respects.
+
+[[democracy-sourcebook.pdf#page=33&selection=129,0,130,44|democracy-sourcebook, page 33]]
 ### Reasoning Principles in Deliberative Democracy
 
+> The conception consists of three principles—reciprocity, publicity, and accountability—that regulate the process of pol- itics, and three others—basic liberty, basic op- portunity, and fair opportunity—that govern the content of policies. 
+
+[[democracy-sourcebook.pdf#page=32&selection=76,0,81,21|democracy-sourcebook, page 32]]
 #### Reciprocity
 
 > When citizens reason reciprocally, they seek fair terms of social cooperation for their own sake; they try to find mutually acceptable ways of resolving moral disagreements.
@@ -47,6 +74,16 @@ To flesh this out for myself: reciprocal thinking -> thinking about universal po
 The line feels very blurry between what is reciprocal vs. not, especially in this discrimination case. Some kinds of discrimination are obviously okay; for example, a progressive tax policy is essentially discriminatory against the rich. How do we disambiguate this kind of discrimination (and the form of reasoning to support it) from those against blacks and women?
 
 Okay, actually this quote says "deliberative" not "reciprocal". It's unclear then to me why such a policy is inherently non-deliberative? Can't you have discussion about these sorts of laws (as they did pre-Civil War)?
+
+> Reciprocity asks us to appeal to reasons that are shared or could come to be shared by our fellow citizens. . .
+
+[[democracy-sourcebook.pdf#page=34&selection=90,0,104,24|democracy-sourcebook, page 34]]
+
+> Reciprocity asks that our empirical claims in political argument be consistent with reliable methods of inquiry, as these methods are avail- able to us here and now, not for all times and all places. Neither relativity nor uncertainty is grounds for abandoning the most reliable meth- ods of inquiry at our collective disposal. 
+
+[[democracy-sourcebook.pdf#page=34&selection=141,0,157,43|democracy-sourcebook, page 34]]
+
+Why? I could especially see uncertainty as grounds for abandoning certain methods if they are so speculative as to be worthless (e.g., effective altruists' insane calculations and insane policies as a result).
 
 # David (Read on 04/12/24)
 
