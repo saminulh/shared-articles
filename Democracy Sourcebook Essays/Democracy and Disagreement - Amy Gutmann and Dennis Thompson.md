@@ -5,7 +5,48 @@ tags:
 ---
 # Sammy
 
-### Notes
+### General Reading Notes
+
+> Along with a growing number of other political theorists, we call this conception deliberative democracy. The core idea is simple: when citizens or their representatives disagree morally, they should continue to reason together to reach mutually acceptable decisions. But the meaning and implications of the idea are complex. . . .
+
+[[democracy-sourcebook.pdf#page=31&selection=33,0,39,47|democracy-sourcebook, page 31]]
+
+This is in contrast to [[Minimalist Conception of Democracy - Adam Przeworski#^7f06fe|this]] and [[Minimalist Conception of Democracy - Adam Przeworski#^ca27d1|this]] from Przeworski essentially taking for granted that fundamental conflicts will always remain and even grow worse through deliberation.
+
+Also, what does "reason together" mean exactly? If we begin from fundamentally different axioms, what hope is there for reason to help us come together? Maybe the claim is that reason can help us find a compromise, but it's not clear to me that that always exists (e.g., abortion).
+
+> Deliberative democracy involves reasoning about politics, and nothing has been more con- troversial in political philosophy than the nature of reason in politics
+
+[[democracy-sourcebook.pdf#page=31&selection=40,0,49,21|democracy-sourcebook, page 31]]
+
+Interesting point, I wonder if they mean the normative role of reason in politics or the practical/de facto role.
+
+>  One of our main aims in this book is to cast doubt on the dichotomy between policies and process.
+
+[[democracy-sourcebook.pdf#page=32&selection=13,30,16,13|democracy-sourcebook, page 32]]
+
+Vaguely reminds me of how you have described [[Democratic Justice - Ian Shapiro]].
+### Reasoning Principles in Deliberative Democracy
+
+#### Reciprocity
+
+> When citizens reason reciprocally, they seek fair terms of social cooperation for their own sake; they try to find mutually acceptable ways of resolving moral disagreements.
+
+[[democracy-sourcebook.pdf#page=31&selection=94,22,97,47|democracy-sourcebook, page 31]]
+
+To flesh this out for myself: reciprocal thinking -> thinking about universal policies that you and everyone else will abide by -> finding policies that everyone will agree to (under the assumption that everyone will follow it). I feel as though I might be misunderstanding this.
+
+> The precise content of reciprocity is di‰cult to determine in theory, but its general counte- nance is familiar enough in practice
+
+[[democracy-sourcebook.pdf#page=31&selection=98,0,100,36|democracy-sourcebook, page 31]]
+
+> When a disagreement is not deliberative (for example, about a policy to legalize discrimina- tion against blacks and women), citizens do not have any obligations of mutual respect toward their opponents.
+
+[[democracy-sourcebook.pdf#page=31&selection=138,0,150,10|democracy-sourcebook, page 31]]
+
+The line feels very blurry between what is reciprocal vs. not, especially in this discrimination case. Some kinds of discrimination are obviously okay; for example, a progressive tax policy is essentially discriminatory against the rich. How do we disambiguate this kind of discrimination (and the form of reasoning to support it) from those against blacks and women?
+
+Okay, actually this quote says "deliberative" not "reciprocal". It's unclear then to me why such a policy is inherently non-deliberative? Can't you have discussion about these sorts of laws (as they did pre-Civil War)?
 
 # David (Read on 04/12/24)
 

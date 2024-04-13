@@ -141,11 +141,15 @@ As did Schumpeter.
 
 > deliberation is a two-edged sword, for it may lead just to solidifying conflicting view
 
+^7f06fe
+
 [[democracy-sourcebook.pdf#page=25&selection=110,24,112,15|democracy-sourcebook, page 25]]
 
 Good point.
 
 >  Yet in the end, when all the coalitions have been formed, the practical consensus has been elaborated, and all arguments have been exhausted, conflicts remain.
+
+^ca27d1
 
 [[democracy-sourcebook.pdf#page=25&selection=112,17,115,37|democracy-sourcebook, page 25]]
 
