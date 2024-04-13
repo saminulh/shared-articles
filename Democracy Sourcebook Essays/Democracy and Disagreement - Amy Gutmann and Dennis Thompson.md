@@ -146,10 +146,6 @@ How and why does this follow? I could especially see uncertainty as grounds for 
 > Accountability is ultimately to citizens, who not only vote for or against the president but also speak their minds between elections, often through organized groups and intermedi- ary institutions.
 
 [[democracy-sourcebook.pdf#page=35&selection=42,7,46,17|democracy-sourcebook, page 35]]
-
-
-
-
 ### Overall Thoughts
 
 Overall I'm a bit unclear what is being argued in this article. I guess the main thesis is that citizen deliberation is a necessary component to a democracy and merely considering the procedures and constitution doesn't suffice? It's a bit weird to me because it sort of feels like deliberation is, or at least can be, baked into these other conceptions. For example, Schumpeter's notion of competing parties presumably involves some amount of deliberation in the process of the competition.

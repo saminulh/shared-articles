@@ -7,3 +7,5 @@ tags:
 # Defining Democracy
 [[The Social Contract - Jean-Jacques Rousseau]]
 [[Capitalism, Socialism, and  Democracy - Joseph Schumpeter]]
+[[Minimalist Conception of Democracy - Adam Przeworski]]
+[[Demo]]
