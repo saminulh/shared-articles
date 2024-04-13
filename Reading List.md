@@ -58,3 +58,5 @@
 ## Miscellaneous
 
 1. [[Liberalism and Conservatism - Patrick Deneen]] (brief series of incomplete lecture notes)
+2. Matt Sitman's article [Leaving Conservatism Behind](https://www.dissentmagazine.org/article/leaving-conservatism-behind-blue-collar-republican-progressive/) 
+3. Governance Podcast (also possibly look for other similar political/social science podcasts)
