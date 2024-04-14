@@ -16,3 +16,11 @@ The main topic of this episode was Albert Hirschman's 1991 book "The Rhetoric of
 - Modern conservatives begins with the French Revolution and Edmund Burke's "Reflections on the Revolution in France"
 - In discussing the futility thesis, Hirschman mentions that it is also used by radical leftists who push back against incremental reform. Sam mentions that he doesn't know where he stands on the "revolutionary vs reform" argument taking place among the left. 
 - In addressing his leftist critique of the "Synergy Illusion"  Matt mentions that he agrees that it is a cautionary tail for leftists that there are costs to reform but that the left deems them worth it. I think this hilariously misses the point.
+
+# Sam
+
+## How Conservatives Argue
+
+* Perversity thesis: If you try to effect some change you will inevitably do the opposite
+* Futility thesis: Whatever you try won't work
+* Jeopardy thesis: Change will cause other previous benefits to be lost
