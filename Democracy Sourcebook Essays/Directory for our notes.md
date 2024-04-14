@@ -8,4 +8,4 @@ tags:
 [[The Social Contract - Jean-Jacques Rousseau]]
 [[Capitalism, Socialism, and  Democracy - Joseph Schumpeter]]
 [[Minimalist Conception of Democracy - Adam Przeworski]]
-[[Demo]]
+[[Democracy and Disagreement - Amy Gutmann and Dennis Thompson]]
