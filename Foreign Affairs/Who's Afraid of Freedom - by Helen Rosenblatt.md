@@ -1,7 +1,9 @@
-# Article Information
-
-Links: [article](https://www.foreignaffairs.com/reviews/whos-afraid-freedom-liberalism-hobbes) and [[103212.pdf|pdf]]
-
+---
+source_link: https://www.foreignaffairs.com/reviews/whos-afraid-freedom-liberalism-hobbes
+pdf: "[[103212.pdf]]"
+tags:
+  - postliberalism
+---
 # Sammy (unread)
 
 ...
@@ -9,8 +11,3 @@ Links: [article](https://www.foreignaffairs.com/reviews/whos-afraid-freedom-libe
 # David (unread)
 
 ...
-
-=======
-# Tags
-
-#postliberalism

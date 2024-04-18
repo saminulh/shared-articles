@@ -1,6 +1,9 @@
-# Article Information
-
-Links: [article](https://www.foreignaffairs.com/central-america/bukele-costs-salvadors-crime-crackdown) and [[the-costs-of-el-salvadors-crime-crackdown-2024-03-20-09-04.pdf|pdf]]
+---
+source_link: https://www.foreignaffairs.com/central-america/bukele-costs-salvadors-crime-crackdown
+pdf: "[[the-costs-of-el-salvadors-crime-crackdown-2024-03-20-09-04.pdf]]"
+tags:
+  - el-salvador
+---
 # Sammy (03/20/24)
 
 ## Reading Notes
@@ -114,9 +117,3 @@ Its not clear to me that Bukele's approach can't reduce this.
 ## Thoughts
 
 This article argues that despite the success of Nayib Bukele's heavy handed approach in reducing crime in El Salvador we should be wary of it due to its potential to erode democratic institutions. Unfortunately I don't feel like this article does a good job of arguing how it erodes democratic institutions, either in theory or in practice. I do think the general discussion of rights/democracy v.s public safety and their tradeoff is interesting. As mentioned above I am curious how the work of Przeworksi plays into it. I also find it interesting how many liberal scholars seem to implicitly assume that rights and democracy are one and the same ([[Liberalism and Conservatism - Patrick Deneen#Week 1 - Liberalism Sources and Themes|this is water]]) ^1ebc4b
-
-
-=======
-# Tags
-
-#el-salvador

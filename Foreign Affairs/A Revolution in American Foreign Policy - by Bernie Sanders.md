@@ -1,7 +1,8 @@
-# Article Information
-
-Links: [article](https://www.foreignaffairs.com/united-states/revolution-american-foreign-policy-bernie-sanders) and [[a_revolution_in_american_foreign_policy.pdf|pdf]]
-
+---
+source_link: https://www.foreignaffairs.com/united-states/revolution-american-foreign-policy-bernie-sanders
+pdf: "[[a_revolution_in_american_foreign_policy.pdf]]"
+tags:
+---
 # Sammy (03/19/24)
 
 ## Reading Notes
@@ -57,6 +58,3 @@ I think this is the most interesting policy proposal in the article, even if it 
 ## Thoughts
 
 To me this article feels like it lacks substance. It gives very rudimentary descriptions of foreign policy issues, very simple analysis, and very vague or idealistic solutions. It makes me question Bernie Sanders as a politician, but perhaps it is still good for the nation for someone to play his "roll" in politics. 
-
-=======
-# Tags
