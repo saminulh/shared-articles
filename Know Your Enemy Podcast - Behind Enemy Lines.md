@@ -35,6 +35,12 @@ The main topic of this episode was Albert Hirschman's 1991 book "The Rhetoric of
 * Didn't necessarily think the Republicans will be the vessel for their ideological project. Rightly expressed concerns about Eisenhower.
 * The biggest achievement of this movement was focusing into electoral politics and taking over the Republican party. For example, they never denounce their fringe (unlike the left)
 * Tanenhaus' claim is that movement conservatism of the 20th century died with the failures of the Bush administration (who was a conservative ideologue) and the ascendance of Obama, who he sees as a Burkean conservative type.
+* Ideologues were okay with Reagan despite his shortcomings, maybe due to charisma and personality
+	* This patience started to wear thin by the 90s and then with Bush
+	* Ends in the Iraq War and the Great Recession
+		* The Cold War was a better theater for their ideas than the War on Terror
+	* They have no answer to all of this at this point
+* Maybe these ideological battles within conservatism didn't really matter and broader phenomena and reactions are what is actually going on
 ### Whitaker Chambers
 * Ex-communist
 * Burkean conscience to the conservative universe
@@ -55,6 +61,7 @@ The main topic of this episode was Albert Hirschman's 1991 book "The Rhetoric of
 	* But did very well in religious places like Queens. A signal of the religious base.
 * Served as a gatekeeper for the movement
 	* Denounces Ayn Rand
+* New Englander but had Southern background too
 ### James Burnham
 * Wrote "The Managerial Revolution"
 * Wrote "The Machiavellians"
@@ -84,7 +91,28 @@ The main topic of this episode was Albert Hirschman's 1991 book "The Rhetoric of
 * Rejected the notion that people were post-ideological (which people believed due to Eisenhower)
 	* Believed they were actually pre-ideological!
 * Even though he lost the 1964 election, the right-wingers took over the Republican Party.
+### Civil Rights Movement
+* Moynihan Report
+* National Review denounced Brown v. Board and defended segregation
+	* Buckley would say the more "politically advanced" race should have power in the south
+* Great fear in whites of civil unrest
+### Ronald Reagan
+* "Time of choosing" speech
+* Elected governor of California in 1966
+	* Followed the Watts riot in 1965
+* Elected to conserve the white middle class gains
+* Backed by many people in defense industry
+* Did not radically reduce the size of the federal government
+### Donald Trump
+* Opposed by the National Review (at least initially)
+* Not exactly in continuity with movement conservatism but not entirely separate
+	* Promised to maintain Medicaid and Medicare and Social Security
+	* Questioned the free-trade orthodoxy and had some amounts of economic populism
+	* Campaigned against the Iraq War
+* Can be seen as carrying on the ultimate (and primarily racial) goal of the conservative movement while changing the "superficial" policies as the current political climate requires
+* Pat Buchanan is sort of a bridge from Nixon to Trump
 ### Additional Comments
 * Sam Rosenfeld book "The Polarizers" about how parties were not (originally?) ideological vehicles.
 * Another book called "The Other Side of the 60s," seems interesting.
 * "Asymmetric Politics"
+* "Suburban Warriors" by Lisa McGurr - about the tax revolts in California
