@@ -150,7 +150,6 @@ Kotkin also calls for more STEM education (and vocational schools):
 > To recapture lost ground and to restart the engine of social mobility at home, the United States, which has a mere 1.5 million mathematics teachers and must import knowledge of that subject from East Asia and South Asia, needs to launch a program to produce one million new teachers of math within a decade. It makes little sense to admit students to college if, lacking the universal language of science, engineering, computers, and economics, they are limited to majoring in themselves and their grievances. ([[five-futures-of-russia.pdf#page=24&selection=43,22,50,32|page 24]])
 
 Also reduce (environmental) regulations to build more houses and revitalize civic consciousness.
-
 ## Final Thoughts
 
 The cul-de-sac and France futures appear (in Kotkin's own portrayal) as non-starters, at least in any short-term post-Putin scenario. The main question seems to be how entrenched in China's sphere will Russia become long-term. However, it seems like the France future is the aspirational goal for Kotkin and the role the West ought to play in this is incentivize retrenchment on the part of Russia (and thereby minimize the influence of China?) while being an ideal civilization that Russia would want to join. These prescriptions for the West are minimally invasive and I believe wants to leave the fate of the Russians to themselves (with only a bit of nudging from the West).
