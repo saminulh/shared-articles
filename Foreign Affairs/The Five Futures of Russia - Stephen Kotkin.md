@@ -4,7 +4,7 @@ pdf: "[[five-futures-of-russia.pdf]]"
 tags:
   - russia
 ---
-# Sammy (unread)
+# Sammy (4/20/24)
 
 ## Some Notes
 > Putin styles himself as a new tsar. But a real tsar would not have to worry about a looming succession crisis and what it might do to his grip on power in the present. Putin does; that is partly why he must simulate elections
