@@ -119,7 +119,7 @@ Ultimately, I don’t think Przeworski succeeded in being as minimalist as he wa
 
 [[democracy-sourcebook.pdf#page=25&selection=27,2,40,43|democracy-sourcebook, page 25]]
 
-I pointed out an example of this in the foreign affairs article [[The Costs of El Salvador’s Crime Crackdown - by Gustavo Flores-Macías#^1ebc4b| The Costs of El Salvador's Crime Crackdown]] where the author seems to treat rights and freedoms as intrinsic to democracy. 
+I pointed out an example of this in the foreign affairs article [[The Costs of El Salvador’s Crime Crackdown - Gustavo Flores-Macías#^1ebc4b| The Costs of El Salvador's Crime Crackdown]] where the author seems to treat rights and freedoms as intrinsic to democracy. 
 
 > a system in which governments are elected is not worthy of being called ‘‘democracy’’ unless x is fulfilled or that democracy in the minimal sense will not endure unless x is satisfied. The first claim is normative, even if it often hides as a definition. The second is empirical. . . .
 
