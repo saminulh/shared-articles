@@ -3,7 +3,7 @@ source_link: https://www.foreignaffairs.com/united-kingdom/case-progressive-real
 pdf: "[[the_case_for_progressive_realism.pdf]]"
 tags: []
 ---
-# Sammy (unread)
+# Sammy (04/20/24)
 
 The long Conservative regime has turned Britain inward, e.g., Brexit, in a time of growing instability in the global order. The author, Labour Party's shadow Secretary of State for Foreign, Commonwealth, and Development Affairs, advocates for progressive realism:
 > Progressive realism advocates using realist means to pursue pro- gressive ends. For the British government, that requires tough-minded honesty about the United Kingdom, the balance of power, and the state of the world. But instead of using the logic of realism solely to accumulate power, progressive realism uses it in service of just goals— for example, countering climate change, defending democracy, and advancing the world’s economic development. It is the pursuit of ideals without delusions about what is achievable. ([[the_case_for_progressive_realism.pdf#page=3&selection=13,0,20,43|page 3]])
