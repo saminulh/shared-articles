@@ -153,7 +153,7 @@ Also reduce (environmental) regulations to build more houses and revitalize civi
 ## Final Thoughts
 
 The cul-de-sac and France futures appear (in Kotkin's own portrayal) as non-starters, at least in any short-term post-Putin scenario. The main question seems to be how entrenched in China's sphere will Russia become long-term. However, it seems like the France future is the aspirational goal for Kotkin and the role the West ought to play in this is incentivize retrenchment on the part of Russia (and thereby minimize the influence of China?) while being an ideal civilization that Russia would want to join. These prescriptions for the West are minimally invasive and I believe wants to leave the fate of the Russians to themselves (with only a bit of nudging from the West).
-# David (04/19/24)
+# David (04/20/24)
 
 ## Reading Notes
 
