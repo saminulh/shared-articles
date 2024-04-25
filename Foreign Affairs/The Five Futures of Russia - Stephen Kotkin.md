@@ -17,7 +17,7 @@ tags:
 
 The succession of Stalin seems kind of interesting to learn about
 
-> The nineteenth- century Russian satirist Mikhail Saltykov-Shchedrin remarked of his country that everything changes dramatically every ve to ten years but nothing changes in 200 years
+> The nineteenth- century Russian satirist Mikhail Saltykov-Shchedrin remarked of his country that everything changes dramatically every five to ten years but nothing changes in 200 years
 
 [[five-futures-of-russia.pdf#page=4&selection=13,1,20,28|five-futures-of-russia, page 4]]
 
@@ -80,7 +80,8 @@ These problems may cause the nationalists and elites of Russia to grow to oppose
 
 Retrenchment would likely be
 > spurred by a recognition that Russia lacks the means to oppose the West without end, pays an exorbitant price for trying, and risks permanently losing vital European ties in exchange for a humiliating dependence on China ([[five-futures-of-russia.pdf#page=9&selection=71,30,74,31|page 9]])
-### Russian-Chinese Relations
+## Future 3: Russia as Vassal
+
 Chinese economic booms helped foster (through increased global demand) Russia's middle class and economic boom. But societal and cultural relations between the two countries remain shallow: "Russians are apprehensive of China’s power, and many Chinese who hold weakness in contempt ridicule Russia online." Currently, these issues have been avoided by the authoritarians in charge:
 > \[Putin and Xi\] have fallen into a bromance, meeting an astonishing 42 times while in power, publicly lauding each other as “my best friend” (Xi on Putin) and “dear friend” (Putin on Xi). ([[five-futures-of-russia.pdf#page=11&selection=24,0,27,1|page 11]])
 
@@ -88,7 +89,7 @@ The Chinese have become the senior partner in this relationship and avoiding bec
 
 Russia is always skeptical of Western influence but have minimal reservations about influence from the East:
 > today’s accommodation of China does not require Russia to relinquish its identity, whereas a failure to confront the West would.  ([[five-futures-of-russia.pdf#page=12&selection=56,1,57,55|page 12]])
-## Future 3: Russia as North Korea
+## Future 4: Russia as North Korea
 
 There is a sense of interdependence in the relationship between China and North Korea, despite North Korea being so much weaker:
 > During Beijing’s intervention to rescue Pyongyang in the Korean War, Mao, employing a proverb, stated that if the lips (North Korea) are gone, the teeth (China) will be cold. ([[five-futures-of-russia.pdf#page=13&selection=40,44,42,72|page 13]])
@@ -101,7 +102,7 @@ Russia, despite its many difference, may find themselves in a similar situation:
 
 The risk for China if Russia were to "fall" to the west:
 > At a minimum, access to Russian oil and gas, China’s partial hedge against a sea blockade, would be at risk. But even if China were gaining little materially from Russia, preventing Russia from turning to the West would remain a topmost national security priority. An American-leaning Russia would enable enhanced Western surveillance of China.... Worse, China would suddenly need to redeploy substantial assets from elsewhere to defend its expansive northern border. ([[five-futures-of-russia.pdf#page=16&selection=12,27,20,74|page 16]])
-## Future 4: Russia in Chaos
+## Future 5: Russia in Chaos
 
 Despite the apparent stability of Putin's regime, "Russian states overseen from St. Petersburg and Moscow, respectively, both disintegrated in the past 100-odd years, both times unexpectedly yet completely."
 
@@ -111,7 +112,8 @@ Dissolution of the Russian Federation is unlikely, unlike the USSR, even under c
 However, small chunks here and there may be at risk to neighbours.
 
 Criminal syndicates and cybercriminals may become more powerful.
-## Future 5: Continental Cul-de-Sac
+## Continental Cul-de-Sac
+
 This idea is the one prevalent among pro-Putin figures as well as as critics:
 > Moscow as a pole in its version of a multipolar world, bossing around Eurasia and operating as a key arbiter of world affairs. ([[five-futures-of-russia.pdf#page=17&selection=138,59,139,74|page 17]])
 

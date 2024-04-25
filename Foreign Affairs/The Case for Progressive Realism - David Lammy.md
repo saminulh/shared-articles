@@ -63,7 +63,6 @@ Climate policies:
 
 > Progressive policy without realism is empty idealism. Realism without a sense of progress can become cynical and tactical. But when progressives act realistically and practically, they change the world. ([[the_case_for_progressive_realism.pdf#page=11&selection=62,1,67,0|page 11]])
 ## Final Thoughts
-
 It feels to me like Lammy is using the word "realism" in the general sense of being realistic about things rather than the more specific foreign policy notion of anarchic system of self-interested states. Overall, his "progressive realism" framework seems non-predictive in the crucial moments and his policies seem like unexciting center-left/neoliberal policies. Also, some of his strategies seem like the same old economic idealism, such as his approach to developing Africa through emphasizing trade.
 
 Another interesting thing is that, while calling his framework "progressive", he doesn't really advocate for human rights policies (at home or abroad) except for calling for international law to be followed in the Israel-Palestine war. Rather, he says "If progressives forget that diplomacy means working with those who do not always share democratic values, it will hurt British interests." It's not an unreasonable position to have necessarily, but it seems to stretch the definition of progressive.
