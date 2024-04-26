@@ -160,23 +160,23 @@
     },
     {
       "id": "9420bb806b944317",
+      "type": "file",
+      "file": "Shared Articles/French Revolution/Louis XVI.md",
+      "subpath": "#^96a894",
       "x": 305,
       "y": 560,
       "width": 400,
-      "height": 258,
-      "type": "file",
-      "file": "Shared Articles/French Revolution/Louis XVI.md",
-      "subpath": "#^96a894"
+      "height": 258
     },
     {
       "id": "2beac6bd916219f0",
+      "type": "file",
+      "file": "Shared Articles/French Revolution/Étienne Charles de Loménie de Brienne.md",
+      "subpath": "#^652712",
       "x": 720,
       "y": 267,
       "width": 400,
-      "height": 116,
-      "type": "file",
-      "file": "Shared Articles/French Revolution/Étienne Charles de Loménie de Brienne.md",
-      "subpath": "#^652712"
+      "height": 116
     },
     {
       "id": "25b80709ee8f0174",
