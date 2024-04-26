@@ -110,33 +110,33 @@
     },
     {
       "id": "43b10b16876335b9",
+      "type": "file",
+      "file": "Shared Articles/French Revolution/Louis XVI.md",
+      "subpath": "#^2629c9",
       "x": -574,
       "y": 346,
       "width": 279,
-      "height": 164,
-      "type": "file",
-      "file": "Shared Articles/French Revolution/Louis XVI.md",
-      "subpath": "#^2629c9"
+      "height": 164
     },
     {
       "id": "997eda724c38551f",
+      "type": "text",
+      "text": "# Day of the Tiles\n**June 7, 1788**\n\nDay of civil unrest in Grenoble.",
       "x": -242,
       "y": 332,
       "width": 279,
       "height": 138,
-      "color": "1",
-      "type": "text",
-      "text": "# Day of the Tiles\n**June 7, 1788**\n\nDay of civil unrest in Grenoble."
+      "color": "1"
     },
     {
       "id": "01ea1ba01ba391a2",
+      "type": "file",
+      "file": "Shared Articles/French Revolution/Étienne Charles de Loménie de Brienne.md",
+      "subpath": "#^cba871",
       "x": 388,
       "y": 489,
       "width": 400,
-      "height": 139,
-      "type": "file",
-      "file": "Shared Articles/French Revolution/Étienne Charles de Loménie de Brienne.md",
-      "subpath": "#^cba871"
+      "height": 139
     },
     {
       "id": "d87d4b55dcbf159e",
