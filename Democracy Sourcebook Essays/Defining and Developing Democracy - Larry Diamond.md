@@ -4,7 +4,7 @@ tags:
   - democracy
 ---
 # Sammy
-# David (Read on 04/27/24)
+# David (Read on 04/28/24)
 
 ## Reading Notes
 
@@ -87,6 +87,82 @@ The author calls the Dahl's polyarchy the seminal conception of democracy. It's 
 [[democracy-sourcebook.pdf#page=45&selection=12,5,25,0|democracy-sourcebook, page 45]]
 
 I wonder what Shapiro and Dahl think of this characterization. Is this an "addition" to the theory or an "elaboration". 
+
+> By the minimalist definition, Turkey, India, Sri Lanka, Colombia, and Russia qualify as democracies
+
+[[democracy-sourcebook.pdf#page=47&selection=13,0,27,11|democracy-sourcebook, page 47]]
+
+I assume Russia would no longer qualify?
+
+> Electoral democracy is a civilian, constitutional system in which the legislative and chief executive offices are filled through regular, competitive, multiparty elections with universal suffrage.
+
+[[democracy-sourcebook.pdf#page=47&selection=39,0,44,50|democracy-sourcebook, page 47]]
+
+Definition of electoral democracy. 
+
+> Liberal democracy. How does liberal democracy extend beyond these formal and intermediate conceptions? In addition to the elements of electoral democracy, it requires, first, the absence of reserved domains of power for the military or other actors not ac- countable to the electorate, directly or indirectly. Second, in addition to the vertical accountability of rulers to the ruled (secured mainly through elections), it requires the horizontal account- ability of officeholders to one another; this constrains executive power and so helps protect constitutionalism, legality, and the deliberative process. Third, it encompasses extensive provisions for political and civic pluralism as well as for individual and group freedoms, so that contending interests and values may be expressed and compete through ongoing processes of articulation and representation, beyond periodic elections.
+
+[[democracy-sourcebook.pdf#page=47&selection=54,2,95,8|democracy-sourcebook, page 47]]
+
+The author outlines conditions necessary for liberal democracy beyond those required for electoral democracy. 
+
+>  For the political quality of democracy, the most important additional mechanism of horizontal accountability is an autonomous judiciary, but crucial as well are institutionalized means (often in a separate, autonomous agency) to monitor, investigate, and punish government corruption at all levels.
+
+[[democracy-sourcebook.pdf#page=47&selection=153,9,158,40|democracy-sourcebook, page 47]]
+
+The author mentions that an autonomous judiciary is an important mechanism for horizontal accountability. 
+
+> Specifically, liberal democracy has the following components:
+
+> Control of the state and its key decisions and allocations lies, in fact as well as in constitutional theory, with elected officials (and not democratically unaccountable actors or foreign powers); in particular, the military is subordinate to the authority of elected civilian officials.
+
+> Executive power is constrained, constitutionally and in fact, by the autonomous power of other government institutions (such as an independent judiciary, parliament, and other mechanisms of horizontal accountability).
+
+> Not only are electoral outcomes uncertain, with a significant opposition vote and the presumption of party alternation in government, but no group that adheres to constitutional principles is denied the right to form a party and contest elections (even if electoral thresholds and other rules exclude small parties from winning representation in parliament).
+
+> Cultural, ethnic, religious, and other minority groups (as well as historically disadvantaged majorities) are not prohibited (legally or in practice) from expressing their interests in the political process or from speaking their language or practicing their culture.
+
+> Beyond parties and elections, citizens have multiple, ongoing channels for expression and representation of their interests and values, including diverse, independent associations and movements, which they have the freedom to form and join.
+
+> There are alternative sources of information (including independent media) to which citizens have (politically) unfettered access.
+
+> Individuals also have substantial freedom of belief, opinion, discussion, speech, publication, assembly, demonstration, and petition.
+
+> Citizens are politically equal under the law (even though they are invariably unequal in their political resources).
+
+> Individual and group liberties are effectively protected by an independent, nondiscriminatory judiciary, whose decisions are enforced and respected by other centers of power.
+
+> The rule of law protects citizens from unjustified detention, exile, terror, torture, and undue interference in their personal lives not only by the state but also by organized nonstate or anti-state forces.
+
+[[democracy-sourcebook.pdf#page=48&selection=43,0,44,15|democracy-sourcebook, page 48]]
+
+The author outlines ten conditions of liberal democracy,
+
+> These ten conditions imply an eleventh: if political authority is to be constrained and balanced, individual and minority rights protected, and a rule of law assured, democracy requires a constitution that is supreme. Liberal democracies in particular ‘‘are and have to be constitutional democracies. The lack of a constitutional spirit, of an understanding of the centrality of constitutional stability, is one of the weaknesses’’ of many illiberal third-wave democracies in the postcommunist world, as well as in the Third World.
+
+[[democracy-sourcebook.pdf#page=49&selection=2,0,36,0|democracy-sourcebook, page 49]]
+
+Strong claim. I wonder if this is central to where Shapiro and Dahl disagree (although again I am assuming they disagree). I recall Shapiro stating that there does not seem to be evidence that there is correlation between protection of rights and judicial review/constitutionalism. This will likely be covered in the democracy and constitutionalism section. 
+
+> The question of how extensive liberty must be before a political system can be termed a liberal democracy is a normative and philosophical one. The key distinction is whether the political process centers on elections or whether it encompasses a much broader and more continuous play of interest articulation, representation, and contestation. If we view the latter as an essential component of democracy, then there must be adequate freedoms surrounding that broader process as well, and to use O’Donnell’s language, individuals must be able to exercise their rights of citizenship not only in elections but also in obtaining ‘‘fair access to public agencies and courts,’’ which is often denied in ‘‘informally institutionalized’’ polyarchies.
+
+[[democracy-sourcebook.pdf#page=49&selection=105,0,122,7|democracy-sourcebook, page 49]]
+
+> The distinction between political and civil freedom, on the one hand, and cultural freedom (or license), on the other, is often confused in the debate over whether democracy is inappropriate for Asia (or East Asia, or Confucian Asia, or simply Singapore) because of incompatible values. Liberal democracy does not require the comprehensively exalted status of individual rights that obtains in Western Europe and especially the United States. Thus, one may accept many of the cultural objections of advocates of the ‘‘Asian values’’ perspective (that Western democracies have shifted the balance too much in favor of individual rights and social entitlements over the rights of the community and the social obligations of the individual to the community) and still embrace the political and civic fundamentals of liberal democracy as articulated above.
+
+[[democracy-sourcebook.pdf#page=49&selection=129,0,177,6|democracy-sourcebook, page 49]]
+
+>  One can have a political system that meets the ten criteria of liberal democracy I outline but that is culturally conservative or restrictive in some policies. The key test is whether those who disagree with these policies have full civic and political freedom to mobilize to change them.
+
+[[democracy-sourcebook.pdf#page=49&selection=225,14,230,27|democracy-sourcebook, page 49]]
+
+Interesting point about Asia. Perhaps worth reading more. 
+
+> Beyond this, increasing citizen competence and participation in the political process will spill over into other arenas of social life. Civic engagement, such as participation in voluntary associations and community networks, generates trust, reciprocity, and cooperation, which reduce cynicism, encourage political participation, and facilitate economic development, democratic stability, and the resolution of social problems. 
+
+[[democracy-sourcebook.pdf#page=52&selection=3,0,21,1|democracy-sourcebook, page 52]]
+
+As discussed in the previous excerpts the extent to wish this can be done (and lead to positive consequences rather than negative ones) is an interesting one. Is there a cap on political participation and competence of citizens? To what extent through education and deliberation can we come to agreements in society? 
 ## Questions and Comments
 
 > Liberal democracy provides, by definition, comparatively good protection for human rights.
@@ -116,10 +192,18 @@ We should also read this!
 [[democracy-sourcebook.pdf#page=43&selection=125,10,127,35|democracy-sourcebook, page 43]]
 
 What about economic prosperity as in the case of China? What about false consciousness as argued by leftists? (I suppose perhaps you could see this as a constraint on liberty but probably a different definition of liberty than Larry Diamond has in mind)
+
+> In fact, Przeworski et al. report that the Freedom House combined ratings for 1972 to 1990 predict 93 percent of their regime classifications during this period (‘‘What Makes Democracies Endure?’’ 52). However, as we see in chapter 2, since 1990 the formal properties and the liberal substance of democracy have increasingly diverged. Thus, the substantive validity of measures that focus mainly on formal competition may be particularly suspect after 1990.
+
+[[democracy-sourcebook.pdf#page=46&selection=104,3,112,35|democracy-sourcebook, page 46]]
+
+This is pretty interesting.
+
 ## Overall Thoughts
 
+Firstly, one difference in framing I wanted to point about between Schumpeter/Przeworksi's minimalists conception and Diamond's substantive conception is that in the minimalist conception they seem to identify a minimal definition with good properties and then argue that its good (worth protecting) whereas Diamond seems to start from the normative claim that "democracy is good" and then find the definition which "captures" what that means. 
 
+Secondly, Diamond's conditions for democracy do not include all desirable properties of society (as in Rousseau) but only those he deems necessary to achieve a certainly level of "democraticness" throughout society. 
 
-
-
+I think I mainly agree with the things he says although I didn't feel it was particularly insightful and the stronger points that may have been insightful may not hold up to empirical evidence (for example about constitutionalism)
 
