@@ -134,6 +134,8 @@ Schumpeter's framing of democracy: rather than the focus being on "the people" m
 
 > Second, the theory embodied in this definition leaves all the room we may wish to have for a proper recognition of the vital fact of leadership. The classical theory did not do this but, as we have seen, attributed to the electorate an altogether unrealistic degree of initiative which practically amounted to ignoring leadership. But collectives act almost exclusively by accepting leadership—this is the dominant mechanism of practically any collective action which is more than a reflex.
 
+^d23962
+
 [[democracy-sourcebook.pdf#page=22&selection=166,0,170,48|democracy-sourcebook, page 22]]
 
 Schumpeter points out that a good theory of democracy needs to take into account the role of leadership in collective action. (I think this is a good and interesting point)
