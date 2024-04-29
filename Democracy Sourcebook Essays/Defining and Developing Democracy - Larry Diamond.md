@@ -171,7 +171,7 @@ As discussed in the previous excerpts the extent to wish this can be done (and l
 
 This of course requires agreement on the human rights in question. Marxists/leftists may not feel that liberal democracy does a good job of protecting what they perceive as human rights. 
 
-> Fareed Zakaria, ‘‘The Rise of Illiberal Democracy,’’ Foreign A¤airs 76, no. 6 (1997)
+> Fareed Zakaria, ‘‘The Rise of Illiberal Democracy,’’ Foreign Affairs 76, no. 6 (1997)
 
 [[democracy-sourcebook.pdf#page=43&selection=151,4,156,16|democracy-sourcebook, page 43]]
 
@@ -181,7 +181,7 @@ We should read this!
 
 [[democracy-sourcebook.pdf#page=43&selection=104,0,109,32|democracy-sourcebook, page 43]]
 
-> Marc F. Plattner, ‘‘Liberalism and Democracy,’’ Foreign A¤airs
+> Marc F. Plattner, ‘‘Liberalism and Democracy,’’ Foreign Affairs
 
 [[democracy-sourcebook.pdf#page=43&selection=180,4,183,0|democracy-sourcebook, page 43]]
 
