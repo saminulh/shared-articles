@@ -9,3 +9,5 @@ tags:
 [[Capitalism, Socialism, and  Democracy - Joseph Schumpeter]]
 [[Minimalist Conception of Democracy - Adam Przeworski]]
 [[Democracy and Disagreement - Amy Gutmann and Dennis Thompson]]
+[[The Voice of the People - James S. Fishkin]]
+[[Defining and Developing Democracy - Larry Diamond]]

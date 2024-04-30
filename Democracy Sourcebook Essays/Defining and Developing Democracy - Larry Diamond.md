@@ -4,6 +4,60 @@ tags:
   - democracy
 ---
 # Sammy
+## Notes
+> I use the term liberal to mean a political system in which individual and group liberties are well protected and in which there exist autonomous spheres of civil society and private life, insulated from state control.  ([[democracy-sourcebook.pdf#page=42&selection=91,18,99,43|page 42]])
+
+> Up to a point consistent with the principles of constitutionalism and representative democracy, government is better when it is more democratic. ([[democracy-sourcebook.pdf#page=42&selection=129,0,131,48|page 42]])
+* How to think about the what should be delegated into the constitutional vs. the democratic?
+
+> There are certain economic, social, and cultural conditions for democracy to be viable, but they are often overstated, and we should be cautious about positing them as "prerequisites." ([[democracy-sourcebook.pdf#page=42&selection=182,3,184,49|page 42]])
+- This point about overstating the conditions is interesting. I wonder how much harder a liberal democracy is to achieve vs. "just" a democracy.
+
+> Increasingly in the twentieth century, the freedoms of the individual to think, believe, worship, speak, publish, inquire, associate, and become informed, and the freedoms from torture, arbitrary arrest, and unlawful detention—not to mention enslavement and genocide—are recognized as universal and inalienable human rights. . . . ([[democracy-sourcebook.pdf#page=43&selection=18,23,43,29|page 43]])
+- These require some amount of liberalism but not democracy *per se*. Are liberal non-democracies a thing? Maybe a constitutional or enlightened monarchy? (Update: this is discussed right after lol--the Zakaria piece seems interesting)
+
+> In times of very limited education and political consciousness, when the franchise could be confined to a narrow elite, liberal autocracy was possible. In today’s world, it is an illusion, a historical anachronism. ([[democracy-sourcebook.pdf#page=43&selection=94,0,98,20|page 43]])
+
+> Severe, persistent socioeconomic inequality may well be (as some scholars find) a major threat to polit- ical democracy. But to establish this, we must first have a measure of democracy that is limited to features of the political system. For an e¤ort exhibiting this approach (and finding), see Zehra F. Arat, Democracy and Human Rights in Developing Countries (Boulder, Colo.: Lynne Rienner, 1991). For a critique of the incorporation of socioeconomic criteria into the defini- tion of democracy, see Terry Lynn Karl, ‘‘Dilemmas of Democratization in Latin America,’’ Comparative Pol- itics 23, no. 1 (1990): 2 ([[democracy-sourcebook.pdf#page=44&selection=98,4,109,54|page 44]])
+- Interesting to look into these
+
+### Electoral Democracy
+> However, Schumpeter’s concise expression has required periodic elabo- ration (or what Collier and Levitsky call "precising") to avoid inclusion of cases that do not fit the implicit meaning. ([[democracy-sourcebook.pdf#page=44&selection=90,0,90,21|page 44]])
+- Curious to see these edge cases!
+
+> The seminal elaboration \[of Schumpeter's conception\] is Dahl’s conception of polyarchy, which has two overt dimensions: opposition (organized contestation through regu- lar, free, and fair elections) and participation (the right of virtually all adults to vote and contest for o‰ce). Yet embedded in these two dimensions is a third, without which the first two cannot be truly meaningful: civil liberty. ([[democracy-sourcebook.pdf#page=45&selection=4,0,14,26|page 45]])
+
+> \with the proviso that real contestation requires an opposition with some nontrivial chance of winning office and that the chief executive office and legislative seats are filled by contested elections ([[democracy-sourcebook.pdf#page=45&selection=51,1,55,5|page 45]])
+- The Singapore case is always interesting to me here--is the opposition sufficiently strong for this proviso to hold?
+
+> On this and other conceptual and methodological problems, see Kenneth A. Bollen, "Political Democracy: Conceptual and Measurement Traps," in Inkeles, Measuring Democracy, 3–20. ([[democracy-sourcebook.pdf#page=45&selection=169,33,176,5|page 45]])
+- Seems kind of interesting
+
+> This flawed \[Schumpeterian\] conception of democracy privileges elections over other dimensions of democracy and ignores the degree to which multiparty elections (even if they are competitive and uncertain in outcome) may exclude significant portions of the population from contesting for power or advancing and defending their interests, or may leave significant arenas of decision making beyond the control of elected officials. ([[democracy-sourcebook.pdf#page=46&selection=2,29,23,24|page 46]])
+
+### Liberal Democracy
+In addition to the requirements of an electoral democracy, this requires:
+1. Vertical accountability of rulers to the ruled: "the absence of reserved domains of power for the military or other actors not ac- countable to the electorate, directly or indirectly."
+2. "horizontal accountability of officeholders to one another; this con- strains executive power and so helps protect constitutionalism, legality, and the deliberative process"
+	- "For the political quality of democracy, the most important additional mechanism of horizontal accountability is an autonomous judiciary." Interesting, probably something that Shapiro disagrees with.
+3. "provisions for political and civic pluralism as well as for individual and group freedoms"
+	- This necessitates a rule of law
+	- "For an important explication of the rule of law and its related concepts, see Guillermo O’Donnell, "The (Un)Rule of Law in Latin America,""
+
+> Citizens are politically equal under the law (even though they are invariably unequal in their political resources). ([[democracy-sourcebook.pdf#page=48&selection=173,0,175,21|page 48]])
+* Determining this can be murky IMO. Laws can be such that they target non-protected proxies (and thus, nominally "equal") to disenfranchise certain people (and thus, de facto "unequal"). For example, poll taxes and efforts to reduce mail-in voting.
+
+> Liberal democracies in particular ‘‘are and have to be constitutional democracies. The lack of a constitutional spirit, of an understanding of the centrality of constitutional stability, is one of the weaknesses’’ of many illiberal third-wave democracies in the postcommunist world, as well as in the Third World.45 ([[democracy-sourcebook.pdf#page=49&selection=18,30,36,2|page 49]])
+
+> The distinction between political and civil freedom, on the one hand, and cultural freedom (or license), on the other, is often confused in the debate over whether democracy is inappro- priate for Asia (or East Asia, or Confucian Asia, or simply Singapore) because of incompatible values. Liberal democracy does not require the comprehensively exalted status of individual rights that obtains in Western Europe and especially the United States. ([[democracy-sourcebook.pdf#page=49&selection=129,0,158,25|page 49]])
+- Does Singapore have the sort of political and civil freedoms for liberal democracy? Interesting to read that Joseph Chan piece and Emmerson, "Region and Recalcitrance: Rethinking Democracy through Southeast Asia." (Update: He claims that Singapore does/did not meet the minimum freedoms requirement).
+### Pseudodemocracies and Nondemocracies
+> What distinguishes pseudodemocracies from other nondemocracies is that they tolerate legal alternative parties, which constitute at least somewhat real and independent opposition to the ruling party.  ([[democracy-sourcebook.pdf#page=50&selection=38,0,57,1|page 50]])
+
+> Invariably, pseudodemocracies are illiberal, but they vary in their repressiveness and in their proximity to the threshold of elec- toral democracy (which Mexico could well cross in its next presidential election, in the year 2000). ([[democracy-sourcebook.pdf#page=50&selection=72,0,78,53|page 50]])
+- Is Mexico considered a success in this respect now lol?
+## Final Thoughts
+Diamond emphasizes liberalism as an important consideration that is often missing when people subscribe to the Schumpeterian conception of democracy. He takes Dahl's conception of polyarchy (that we never read about somehow!) and adds in (or explicates) a third dimension of civil liberty. The main point seems to be that by focusing too much on the procedural elements, we neglect the cultural and civil components that are necessary for democracies to be normatively good. I probably agree with this thesis but I still like the Schumpeterian conception for a (possibly illiberal) democracy (not that Diamond would disagree with this). I'm looking forward to digging deeper into the democratic edge cases and illiberal democracies etc.
 # David (Read on 04/28/24)
 
 ## Reading Notes
