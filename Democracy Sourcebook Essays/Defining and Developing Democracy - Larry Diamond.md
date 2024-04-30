@@ -14,7 +14,7 @@ tags:
 - This point about overstating the conditions is interesting. I wonder how much harder a liberal democracy is to achieve vs. "just" a democracy.
 
 > Increasingly in the twentieth century, the freedoms of the individual to think, believe, worship, speak, publish, inquire, associate, and become informed, and the freedoms from torture, arbitrary arrest, and unlawful detention—not to mention enslavement and genocide—are recognized as universal and inalienable human rights. . . . ([[democracy-sourcebook.pdf#page=43&selection=18,23,43,29|page 43]])
-- These require some amount of liberalism but not democracy *per se*. Are liberal non-democracies a thing? Maybe a constitutional or enlightened monarchy? (Update: this is discussed right after lol--the Zakaria piece seems interesting)
+- These require some amount of liberalism but not democracy *per se*. Are liberal non-democracies a thing? Maybe a constitutional or enlightened monarchy? (Update: this is discussed right after lol-- [[The Rise of Illiberal Democracy - Fareed Zakaria]] seems interesting)
 
 > In times of very limited education and political consciousness, when the franchise could be confined to a narrow elite, liberal autocracy was possible. In today’s world, it is an illusion, a historical anachronism. ([[democracy-sourcebook.pdf#page=43&selection=94,0,98,20|page 43]])
 
