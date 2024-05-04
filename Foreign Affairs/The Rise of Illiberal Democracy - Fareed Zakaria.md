@@ -5,7 +5,7 @@ tags:
   - democracy
   - liberalism
 ---
-# Sammy (unread)
+# Sammy (05/03/2024)
 ## Notes
 
 > Today the two strands of liberal democracy, interwoven in the Western political fabric, are coming apart in the rest of the world. Democracy is flourishing; constitutional liberalism is not.

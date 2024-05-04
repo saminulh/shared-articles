@@ -23,6 +23,7 @@ tags:
 > Bobbio’s (1984: 93) parenthetical addition bares a crucial implication of the Schumpeterian definition: ‘‘by ‘democratic sys- tem’,’’ Bobbio says, ‘‘I mean one in which su- preme power (supreme in so far as it alone is authorized to use force as a last resort) is exerted in the name of and on behalf of the people by virtue of the procedure of elections.’’ ([[democracy-sourcebook.pdf#page=27&selection=218,0,241,39|page 27]])
 
 > Kelsen (1998 [1929]: 21) when he observes that ‘‘The purely negative assumption that no individual counts more than any other does not permit to deduce the positive principle that the will of the majority should prevail,’’ and I know no evi- dence to the e¤ect that participation induces compliance. ([[democracy-sourcebook.pdf#page=28&selection=60,39,77,11|page 28]])
+^53c0ea
 
 > Voting constitutes ‘‘flexing muscles’’: a reading of chances in the eventual war. ([[democracy-sourcebook.pdf#page=28&selection=103,0,114,0|page 28]])
 ^1aec44

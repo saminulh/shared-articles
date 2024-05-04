@@ -6,9 +6,49 @@ tags:
   - liberalism
 ---
 # Sammy (unread)
+## Notes
+> \[A large number of autocratic regimes\] were generally succeeded by regimes that at least aspired to be democratic, giving rise to the phenomenon that Samuel P. Huntington termed the "third wave" of democratization.
 
-...
+[[liberalism-and-democracy.pdf#page=2&selection=17,1,22,64|liberalism-and-democracy, page 2]]
+* A coherent story here could be that this third wave brought about democracies that were (for presumably correlated reasons) not ready for liberalism. Thus, this new yield of democracies would be fundamentally different from the success stories that came before. 
 
+> Outside of Africa, few of these aspiring new democracies have su#ered outright reversions to authoritarianism. But many…fall short of providing the protection of individual liberties and adherence to the rule of law commonly found in the long- established democracies
+
+[[liberalism-and-democracy.pdf#page=2&selection=28,0,40,23|liberalism-and-democracy, page 2]]
+
+>  While many new electoral democracies fall short of liberalism, on the whole, countries that hold free elections are overwhelmingly more liberal than those that do not, and countries that protect civil liberties are overwhelmingly more likely to hold free elections than those that do not.
+
+[[liberalism-and-democracy.pdf#page=5&selection=28,36,36,58|liberalism-and-democracy, page 5]]
+- Curious to see the data here
+
+>  Starting from the democratic side, elections would seem to require the guarantee of certain civil liberties-the freedoms of speech, association, and assembly-if they are to be genuinely free and fair.
+
+[[liberalism-and-democracy.pdf#page=5&selection=45,45,51,51|liberalism-and-democracy, page 5]]
+- His own example of ancient democracies wouldn’t satisfy this criteria I guess?
+
+> If we begin instead with the human rights mandated by the liberal tradition, these are generally held today to include some kind of right to electoral participation.
+
+[[liberalism-and-democracy.pdf#page=6&selection=0,13,4,46|liberalism-and-democracy, page 6]]
+- I kind of feel like we are just playing semantic games here? Like this argument would imply that liberal non-democracies are impossible, which is not particularly helpful given that we have already discussed a bunch…
+- Update: “One may regard this as a formal or even merely de!nitional link between liberalism and electoral democracy, but it points to a more profound kinship.” Sure, however that kinship might be a later-stage consideration.
+
+> For the political doctrine at the source of liberalism also contains a deeply egalitarian and majoritarian dimension…. \[N\]o man has a natural claim to rule over another, and its clear corollary is that the rule of man over man can be justified only on the basis of a mutual agreement or "compact."
+
+[[liberalism-and-democracy.pdf#page=6&selection=34,0,36,45|liberalism-and-democracy, page 6]]
+* This does not justify majoritarianism: [[Minimalist Conception of Democracy - Adam Przeworski#^53c0ea]]
+
+> Reliance on elected representation in the legislature, the key political institution of modern liberal democracy, was understood by its proponents as a decisive departure from ancient democracy.
+
+[[liberalism-and-democracy.pdf#page=7&selection=43,6,48,0|liberalism-and-democracy, page 7]]
+
+> They write in favor of a "republic" ("a government in which the scheme of representation takes place")
+
+[[liberalism-and-democracy.pdf#page=7&selection=61,0,62,33|liberalism-and-democracy, page 7]]
+- What’s going on between this definition of “republic” and the Kantian one mentioned in [[The Rise of Illiberal Democracy - Fareed Zakaria]]?
+
+> In other words, elected representatives are expected to be superior to the average citizen. In the ancient democracies, by contrast, most public officials were chosen by lot
+
+[[liberalism-and-democracy.pdf#page=9&selection=19,47,27,18|liberalism-and-democracy, page 9]]
 # David (05/02/24)
 
 IMPORTANT CONTEXT: This article was written in 1998 and is a direct response to [[The Rise of Illiberal Democracy - Fareed Zakaria]].
