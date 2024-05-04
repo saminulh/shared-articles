@@ -74,7 +74,7 @@ Interesting to contrast with claims of Canada’s PM being the most powerful lea
 
 > \[Democracies\] are more warlike, going to war more often and with greater intensity than most states. It is only with other democracies that the peace holds. ([[the_rise_of_illiberal_democracy.pdf#page=16&selection=29,67,31,68|page 16]])
 
-> olitical scientists Jack Snyder and Edward Mansfield contend, using an impressive data set, that over the last 200 years democratizing states went to war significantly more often than either stable autocracies or liberal democracies ([[the_rise_of_illiberal_democracy.pdf#page=18&selection=5,46,8,59|page 18]])
+> Political scientists Jack Snyder and Edward Mansfield contend, using an impressive data set, that over the last 200 years democratizing states went to war significantly more often than either stable autocracies or liberal democracies ([[the_rise_of_illiberal_democracy.pdf#page=18&selection=5,46,8,59|page 18]])
 
 >  What is distinctive about the American system is not how democratic it is but rather how undemocratic it is, placing as it does multiple constraints on electoral majorities.  ([[the_rise_of_illiberal_democracy.pdf#page=19&selection=3,34,6,10|page 19]])
 
@@ -94,7 +94,6 @@ Interesting to contrast with claims of Canada’s PM being the most powerful lea
 - Bars
 
 > Today, in the face of a spreading virus of illiberalism, the most useful role that the inter- national community, and most importantly the United States, can play is—instead of searching for new lands to democratize and new places to hold elections—to consolidate democracy where it has taken root and to encourage the gradual development of constitutional liberalism across the globe ([[the_rise_of_illiberal_democracy.pdf#page=22&selection=36,41,41,62|page 22]])
-
 ^df9f47
 
 ## Final Thoughts
