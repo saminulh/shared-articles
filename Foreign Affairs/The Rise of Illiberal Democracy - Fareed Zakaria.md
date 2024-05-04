@@ -150,7 +150,6 @@ Interesting to contrast with claims of Canada’s PM being the most powerful lea
 
 [[the_rise_of_illiberal_democracy.pdf#page=22&selection=4,56,6,52|the_rise_of_illiberal_democracy, page 22]]
 - Bars
-
 ## Final Thoughts
 A banger article. Makes a compelling argument that liberalism, not democracy, is the more important ingredient for a nation’s development. The strongest arguments (IMO) come from the negative argument to democracy when the conditions aren’t right (even something you would predict from Madison’s arguments). One question I have is if there is a meaningful distinction in this between economic vs. social liberalization. For example, Singapore is prospering while liberalizing more on the economic angle and not so much on the social. Presumably in places where there’s more ethnic tensions (e.g., Yugoslavia), the liberalization has to occur socially—this seems way, way harder (there are a lot of cultural elements that are hard to control, and also economic liberalization comes with wealth which makes things generally easier).
 
