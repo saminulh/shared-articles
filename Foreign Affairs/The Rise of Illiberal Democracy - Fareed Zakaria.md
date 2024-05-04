@@ -2,6 +2,8 @@
 source_link: https://www.foreignaffairs.com/world/rise-illiberal-democracy
 pdf: "[[the_rise_of_illiberal_democracy.pdf]]"
 tags:
+  - democracy
+  - liberalism
 ---
 # Sammy (unread)
 ## Notes

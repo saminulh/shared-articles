@@ -2,6 +2,8 @@
 source_link: https://www.foreignaffairs.com/articles/1998-03-01/liberalism-and-democracy-cant-have-one-without-other
 pdf: "[[liberalism-and-democracy.pdf]]"
 tags:
+  - democracy
+  - liberalism
 ---
 # Sammy (unread)
 
