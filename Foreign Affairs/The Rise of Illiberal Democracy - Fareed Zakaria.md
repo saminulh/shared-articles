@@ -8,73 +8,45 @@ tags:
 # Sammy (05/03/2024)
 ## Notes
 
-> Today the two strands of liberal democracy, interwoven in the Western political fabric, are coming apart in the rest of the world. Democracy is flourishing; constitutional liberalism is not.
-
-[[the_rise_of_illiberal_democracy.pdf#page=3&selection=4,39,7,33|the_rise_of_illiberal_democracy, page 3]]
+> Today the two strands of liberal democracy, interwoven in the Western political fabric, are coming apart in the rest of the world. Democracy is flourishing; constitutional liberalism is not. ([[the_rise_of_illiberal_democracy.pdf#page=3&selection=4,39,7,33|page 3]])
 * The central conundrum
 
-> And to date few illiberal democracies have matured into liberal democracies; if any- thing, they are moving toward heightened illiberalism
+> And to date few illiberal democracies have matured into liberal democracies; if anything, they are moving toward heightened illiberalism ([[the_rise_of_illiberal_democracy.pdf#page=4&selection=8,1,11,53|page 4]])
 
-[[the_rise_of_illiberal_democracy.pdf#page=4&selection=8,1,11,53|the_rise_of_illiberal_democracy, page 4]]
-
->  But to go beyond this minimalist definition and label a country democratic only if it guarantees a comprehensive catalog of social, political, economic, and religious rights turns the word democracy into a badge of honor rather than a descriptive category.
-
-[[the_rise_of_illiberal_democracy.pdf#page=5&selection=39,13,44,23|the_rise_of_illiberal_democracy, page 5]]
+>  But to go beyond this minimalist definition and label a country democratic only if it guarantees a comprehensive catalog of social, political, economic, and religious rights turns the word democracy into a badge of honor rather than a descriptive category. ([[the_rise_of_illiberal_democracy.pdf#page=5&selection=39,13,44,23|page 5]])
 * Similar sentiment raised in [[Minimalist Conception of Democracy - Adam Przeworski]]
 
-> In almost all of its variants, constitutional liberalism argues that human beings have certain natural (or “inalienable”) rights and that governments must accept a basic law, limiting its own powers, that secures them. 
+> In almost all of its variants, constitutional liberalism argues that human beings have certain natural (or “inalienable”) rights and that governments must accept a basic law, limiting its own powers, that secures them.  ([[the_rise_of_illiberal_democracy.pdf#page=6&selection=25,53,28,55|page 6]])
 
-[[the_rise_of_illiberal_democracy.pdf#page=6&selection=25,53,28,55|the_rise_of_illiberal_democracy, page 6]]
-
->  in 1638 the town of Hartford adopted the first written constitution \[called the Fundamental Orders of Connecticut\] in modern history. 
-
-[[the_rise_of_illiberal_democracy.pdf#page=6&selection=31,18,32,32|the_rise_of_illiberal_democracy, page 6]]
+>  in 1638 the town of Hartford adopted the first written constitution \[called the Fundamental Orders of Connecticut\] in modern history.  ([[the_rise_of_illiberal_democracy.pdf#page=6&selection=31,18,32,32|page 6]])
 * Wild!
 
->  Until the twentieth century, most countries in Western Europe were liberal autocracies or, at best, semi-democracies
+>  Until the twentieth century, most countries in Western Europe were liberal autocracies or, at best, semi-democracies ([[the_rise_of_illiberal_democracy.pdf#page=6&selection=44,20,44,67|page 6]])
 
-[[the_rise_of_illiberal_democracy.pdf#page=6&selection=44,20,44,67|the_rise_of_illiberal_democracy, page 6]]
-
->  For much of modern history, what characterized governments in Europe and North America, and diªerentiated them from those around the world, was not democracy but consti- tutional liberalism.
-
-[[the_rise_of_illiberal_democracy.pdf#page=7&selection=20,13,23,20|the_rise_of_illiberal_democracy, page 7]]
+>  For much of modern history, what characterized governments in Europe and North America, and differentiated them from those around the world, was not democracy but constitutional liberalism. ([[the_rise_of_illiberal_democracy.pdf#page=7&selection=20,13,23,20|page 7]])
 - Very interesting point. You can probably make a compelling argument that constitutional liberalism (or at least private property rights and rule of law) is the more important factor for modernization and development than democracy.
 
-> Indonesia, Singapore, and Malaysia are examples of liberalizing autocracies, while South Korea, Taiwan, and Thailand are liberal semi-democracies. Both groups, however, are more liberal than they are democratic, which is also true of the region’s only liberal democracy, Japan; Papua New Guinea, and to a lesser extent the Philippines, are the only examples of illiberal democracy in East Asia
-
-[[the_rise_of_illiberal_democracy.pdf#page=7&selection=62,1,66,49|the_rise_of_illiberal_democracy, page 7]]
+> Indonesia, Singapore, and Malaysia are examples of liberalizing autocracies, while South Korea, Taiwan, and Thailand are liberal semi-democracies. Both groups, however, are more liberal than they are democratic, which is also true of the region’s only liberal democracy, Japan; Papua New Guinea, and to a lesser extent the Philippines, are the only examples of illiberal democracy in East Asia ([[the_rise_of_illiberal_democracy.pdf#page=7&selection=62,1,66,49|page 7]])
 * Is Taiwan still just a semi-democracy?
 
-> Constitutional liberalism has led to democracy, but democracy does not seem to bring constitutional liberalism
-
-[[the_rise_of_illiberal_democracy.pdf#page=8&selection=7,0,8,48|the_rise_of_illiberal_democracy, page 8]]
+> Constitutional liberalism has led to democracy, but democracy does not seem to bring constitutional liberalism ([[the_rise_of_illiberal_democracy.pdf#page=8&selection=7,0,8,48|page 8]])
 * Interesting to consider how Bukele’s story will go. He seems to be in a state of illiberal autocracy/semi-democracy at the moment, maybe this can transition to liberal autocracy with enough institutional development.
 
-> Many of the countries of Central Europe, on the other hand, have moved successfully from communism to liberal democracy, having gone through the same phase of liberalization without democracy as other European countries did during the nineteenth century.
-
-[[the_rise_of_illiberal_democracy.pdf#page=8&selection=38,0,39,60|the_rise_of_illiberal_democracy, page 8]]
+> Many of the countries of Central Europe, on the other hand, have moved successfully from communism to liberal democracy, having gone through the same phase of liberalization without democracy as other European countries did during the nineteenth century. ([[the_rise_of_illiberal_democracy.pdf#page=8&selection=38,0,39,60|page 8]])
 - Very interesting to consider this in contrast to the point in [[The Five Futures of Russia - Stephen Kotkin#Future 1 Russia as France]] that Russia doesn’t have the institutional/cultural background and history to support democracy/liberalism.
 - Also interesting to consider that this tradition is able to outlast a century of communist rule, is the reason that
 	1. these cultural ideas are rather durable (and maybe the communist regime was pretty unpopular throughout),
 	2. there was a sort of revival of these ideas during the death knells of communism, or
 	3. these ideas are somewhat compatible with communism (communism after all being an idea of the liberal tradition)?
 
-> Britain’s legacy of law and administration has proved more beneficial than France’s policy of enfranchising some of its colonial populations.
+> Britain’s legacy of law and administration has proved more beneficial than France’s policy of enfranchising some of its colonial populations. ([[the_rise_of_illiberal_democracy.pdf#page=9&selection=15,9,17,21|page 9]])
 
-[[the_rise_of_illiberal_democracy.pdf#page=9&selection=15,9,17,21|the_rise_of_illiberal_democracy, page 9]]
-
-> As if confirming Mill’s fears, consider the words of Alexandr Lukashenko after being elected president of Belarus with an overwhelming majority in a free election in 1994, when asked about limiting his powers: “There will be no dictatorship. I am of the people, and I am going to be for the people.”
-
-[[the_rise_of_illiberal_democracy.pdf#page=10&selection=13,23,17,45|the_rise_of_illiberal_democracy, page 10]]
+> As if confirming Mill’s fears, consider the words of Alexandr Lukashenko after being elected president of Belarus with an overwhelming majority in a free election in 1994, when asked about limiting his powers: “There will be no dictatorship. I am of the people, and I am going to be for the people.” ([[the_rise_of_illiberal_democracy.pdf#page=10&selection=13,23,17,45|page 10]])
 - Damn, he’s been in the game for a long ass time!!
 
->  Constitutional liberalism is about the limitation of power, democracy about its accumulation and use.
+>  Constitutional liberalism is about the limitation of power, democracy about its accumulation and use. ([[the_rise_of_illiberal_democracy.pdf#page=10&selection=19,44,21,4|page 10]])
 
-[[the_rise_of_illiberal_democracy.pdf#page=10&selection=19,44,21,4|the_rise_of_illiberal_democracy, page 10]]
-
-> Over the last decade, elected governments claiming to represent the people have steadily encroached on the powers and rights of other elements in society, a usurpation that is both horizontal (from other branches of the national government) and vertical (from regional and local authorities as well as private businesses and other nongovernmental groups).
-
-[[the_rise_of_illiberal_democracy.pdf#page=10&selection=33,61,39,8|the_rise_of_illiberal_democracy, page 10]]
+> Over the last decade, elected governments claiming to represent the people have steadily encroached on the powers and rights of other elements in society, a usurpation that is both horizontal (from other branches of the national government) and vertical (from regional and local authorities as well as private businesses and other nongovernmental groups). ([[the_rise_of_illiberal_democracy.pdf#page=10&selection=33,61,39,8|page 10]])
 
 Presidential systems:
 - Tend to produce strong leaders even with just a plurality (which would require a coalition in a parliamentary system)
@@ -82,76 +54,49 @@ Presidential systems:
 - Presidents can bypass the legislature more easily
 Interesting to contrast with claims of Canada’s PM being the most powerful leader among Western nations.
 
-> Countries like France and Prussia, on the other hand, where the monarchy had eªec- tively centralized power (both horizontally and vertically), often ended up illiberal and undemocratic.
-
-[[the_rise_of_illiberal_democracy.pdf#page=12&selection=28,50,31,30|the_rise_of_illiberal_democracy, page 12]]
+> Countries like France and Prussia, on the other hand, where the monarchy had effectively centralized power (both horizontally and vertically), often ended up illiberal and undemocratic. ([[the_rise_of_illiberal_democracy.pdf#page=12&selection=28,50,31,30|page 12]])
 - Weekly reminder that I need to understand the French situation better
 
-> pluralism in the past helps ensure political pluralism in the present.
+> pluralism in the past helps ensure political pluralism in the present. ([[the_rise_of_illiberal_democracy.pdf#page=13&selection=32,9,34,8|page 13]])
 
-[[the_rise_of_illiberal_democracy.pdf#page=13&selection=32,9,34,8|the_rise_of_illiberal_democracy, page 13]]
-
-> He may well be a liberal democrat at heart, but Yeltsin’s actions have created a Russian super-presidency. We can only hope his successor will not abuse it.
-
-[[the_rise_of_illiberal_democracy.pdf#page=14&selection=29,63,32,9|the_rise_of_illiberal_democracy, page 14]]
+> He may well be a liberal democrat at heart, but Yeltsin’s actions have created a Russian super-presidency. We can only hope his successor will not abuse it. ([[the_rise_of_illiberal_democracy.pdf#page=14&selection=29,63,32,9|page 14]])
 * Bro jinxed it holy shit. It’s all Fareed Zakaria’s fault!!!
 
->  two common, and often mistaken, assumptions—that the forces of democracy are the forces of ethnic harmony and of peace
+>  two common, and often mistaken, assumptions—that the forces of democracy are the forces of ethnic harmony and of peace ([[the_rise_of_illiberal_democracy.pdf#page=15&selection=23,31,25,20|page 15]])
 
-[[the_rise_of_illiberal_democracy.pdf#page=15&selection=23,31,25,20|the_rise_of_illiberal_democracy, page 15]]
+> But without a background in constitutional liberalism, the introduction of democracy in divided societies has actually fomented nationalism, ethnic conflict, and even war. ([[the_rise_of_illiberal_democracy.pdf#page=15&selection=27,58,30,13|page 15]])
 
-> But without a background in constitutional liberalism, the introduction of democracy in divided societies has actually fomented nationalism, ethnic conflict, and even war.
-
-[[the_rise_of_illiberal_democracy.pdf#page=15&selection=27,58,30,13|the_rise_of_illiberal_democracy, page 15]]
-
-> Elections require that politicians compete for peoples’ votes. In so- cieties without strong traditions of multiethnic groups or assimilation, it is easiest to organize support along racial, ethnic, or religious lines.
-
-[[the_rise_of_illiberal_democracy.pdf#page=15&selection=38,0,40,75|the_rise_of_illiberal_democracy, page 15]]
+> Elections require that politicians compete for peoples’ votes. In societies without strong traditions of multiethnic groups or assimilation, it is easiest to organize support along racial, ethnic, or religious lines. ([[the_rise_of_illiberal_democracy.pdf#page=15&selection=38,0,40,75|page 15]])
 - The conditions for Madison’s idea of cross-cutting populations don’t hold and tyranny of the majority can present itself
 
-> Alvin Rabushka and Kenneth Shepsle, Politics in Plural Societies: A Theory of Demo- cratic Instability, Columbus: Charles E. Merill, pp. 62-92; Donald Horowitz, “Democ- racy in Divided Societies,” in Larry Diamond and Mark F. Plattner, eds., Nationalism, Ethnic Conflict and Democracy, Baltimore: The Johns Hopkins University Press, 1994, pp. 35-55
-
-[[the_rise_of_illiberal_democracy.pdf#page=16&selection=55,0,65,5|the_rise_of_illiberal_democracy, page 16]]
+> Alvin Rabushka and Kenneth Shepsle, Politics in Plural Societies: A Theory of Democratic Instability, Columbus: Charles E. Merill, pp. 62-92; Donald Horowitz, “Democracy in Divided Societies,” in Larry Diamond and Mark F. Plattner, eds., Nationalism, Ethnic Conflict and Democracy, Baltimore: The Johns Hopkins University Press, 1994, pp. 35-55 ([[the_rise_of_illiberal_democracy.pdf#page=16&selection=55,0,65,5|page 16]])
 * Seems interesting
 
-> \[Democracies\] are more warlike, going to war more often and with greater intensity than most states. It is only with other democracies that the peace holds.
+> \[Democracies\] are more warlike, going to war more often and with greater intensity than most states. It is only with other democracies that the peace holds. ([[the_rise_of_illiberal_democracy.pdf#page=16&selection=29,67,31,68|page 16]])
 
-[[the_rise_of_illiberal_democracy.pdf#page=16&selection=29,67,31,68|the_rise_of_illiberal_democracy, page 16]]
+> olitical scientists Jack Snyder and Edward Mansfield contend, using an impressive data set, that over the last 200 years democratizing states went to war significantly more often than either stable autocracies or liberal democracies ([[the_rise_of_illiberal_democracy.pdf#page=18&selection=5,46,8,59|page 18]])
 
-> olitical scientists Jack Snyder and Edward Mansfield contend, using an impressive data set, that over the last 200 years democratizing states went to war significantly more often than either stable autocracies or liberal democracies
+>  What is distinctive about the American system is not how democratic it is but rather how undemocratic it is, placing as it does multiple constraints on electoral majorities.  ([[the_rise_of_illiberal_democracy.pdf#page=19&selection=3,34,6,10|page 19]])
 
-[[the_rise_of_illiberal_democracy.pdf#page=18&selection=5,46,8,59|the_rise_of_illiberal_democracy, page 18]]
+> The American system is based on an avowedly pessimistic conception of human nature, assuming that people cannot be trusted with power. ([[the_rise_of_illiberal_democracy.pdf#page=19&selection=20,0,22,6|page 19]])
 
->  What is distinctive about the American system is not how democratic it is but rather how unde- mocratic it is, placing as it does multiple constraints on electoral ma- jorities. 
-
-[[the_rise_of_illiberal_democracy.pdf#page=19&selection=3,34,6,10|the_rise_of_illiberal_democracy, page 19]]
-
-> The American system is based on an avowedly pessimistic concep- tion of human nature, assuming that people cannot be trusted with power.
-
-[[the_rise_of_illiberal_democracy.pdf#page=19&selection=20,0,22,6|the_rise_of_illiberal_democracy, page 19]]
-
->  The French model places its faith in the goodness of human beings. Once the people are the source of power, it should be unlimited so that they can create a just society.
-
-[[the_rise_of_illiberal_democracy.pdf#page=19&selection=24,50,27,8|the_rise_of_illiberal_democracy, page 19]]
+>  The French model places its faith in the goodness of human beings. Once the people are the source of power, it should be unlimited so that they can create a just society. ([[the_rise_of_illiberal_democracy.pdf#page=19&selection=24,50,27,8|page 19]])
 - Reminiscent of Deneen’s comments that Continental leftists (I guess Protestants in particular, so not exactly the French) have the project to create Eden on Earth.
 
-> Finally, we need to revive constitutionalism. One eªect of the overemphasis on pure democracy is that little eªort is given to cre- ating imaginative constitutions for transitional countries
-
-[[the_rise_of_illiberal_democracy.pdf#page=21&selection=17,0,19,58|the_rise_of_illiberal_democracy, page 21]]
+> Finally, we need to revive constitutionalism. One effect of the overemphasis on pure democracy is that little effort is given to creating imaginative constitutions for transitional countries ([[the_rise_of_illiberal_democracy.pdf#page=21&selection=17,0,19,58|page 21]])
 - I believe the Lebanese constitutional situation is kinda crazy, would be interesting to look into.
 
-> \[Preventing the accumulation of power and abuse of office\] is done not by simply writing up a list of rights but by constructing a system in which government will not violate those rights.
+> \[Preventing the accumulation of power and abuse of office\] is done not by simply writing up a list of rights but by constructing a system in which government will not violate those rights. ([[the_rise_of_illiberal_democracy.pdf#page=21&selection=23,37,25,41|page 21]])
 
-[[the_rise_of_illiberal_democracy.pdf#page=21&selection=23,37,25,41|the_rise_of_illiberal_democracy, page 21]]
+> What could be called the Weimar syndrome— named after interwar Germany’s beautifully constructed constitution, which failed to avert fascism—has made people regard constitutions as simply paperwork that cannot make much difference. ([[the_rise_of_illiberal_democracy.pdf#page=21&selection=33,16,36,63|page 21]])
 
-> What could be called the Weimar syndrome— named after interwar Germany’s beautifully constructed constitu- tion, which failed to avert fascism—has made people regard con- stitutions as simply paperwork that cannot make much diªerence.
-
-[[the_rise_of_illiberal_democracy.pdf#page=21&selection=33,16,36,63|the_rise_of_illiberal_democracy, page 21]]
-
-> But the trouble with these winner-take-all systems is that, in most democ- ratizing countries, the winner really does take all.
-
-[[the_rise_of_illiberal_democracy.pdf#page=22&selection=4,56,6,52|the_rise_of_illiberal_democracy, page 22]]
+> But the trouble with these winner-take-all systems is that, in most democratizing countries, the winner really does take all. ([[the_rise_of_illiberal_democracy.pdf#page=22&selection=4,56,6,52|page 22]])
 - Bars
+
+> Today, in the face of a spreading virus of illiberalism, the most useful role that the inter- national community, and most importantly the United States, can play is—instead of searching for new lands to democratize and new places to hold elections—to consolidate democracy where it has taken root and to encourage the gradual development of constitutional liberalism across the globe ([[the_rise_of_illiberal_democracy.pdf#page=22&selection=36,41,41,62|page 22]])
+
+^df9f47
+
 ## Final Thoughts
 A banger article. Makes a compelling argument that liberalism, not democracy, is the more important ingredient for a nation’s development. The strongest arguments (IMO) come from the negative argument to democracy when the conditions aren’t right (even something you would predict from Madison’s arguments). One question I have is if there is a meaningful distinction in this between economic vs. social liberalization. For example, Singapore is prospering while liberalizing more on the economic angle and not so much on the social. Presumably in places where there’s more ethnic tensions (e.g., Yugoslavia), the liberalization has to occur socially—this seems way, way harder (there are a lot of cultural elements that are hard to control, and also economic liberalization comes with wealth which makes things generally easier).
 
@@ -186,6 +131,8 @@ Definition of Constitutional Liberalism
 According to the author capitalism and "economic freedom" are integral to liberal democracy. 
 
 > He pointed out that, as of 1983, “every single country in the Third World that emerged from colonial rule since the Second World War with a population of at least one million (and almost all the smaller colonies as well) with a continuous democratic experience is a former British colony.”fl British rule meant not democracy— colonialism is by definition undemocratic—but constitutional liberalism. Britain’s legacy of law and administration has proved more beneficial than France’s policy of enfranchising some of its colonial populations.
+
+^a24581
 
 [[the_rise_of_illiberal_democracy.pdf#page=9&selection=5,64,17,21|the_rise_of_illiberal_democracy, page 9]]
 
