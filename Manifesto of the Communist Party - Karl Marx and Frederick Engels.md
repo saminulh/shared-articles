@@ -4,6 +4,9 @@ pdf: "[[communist-manifesto.pdf]]"
 tags:
   - communism
   - marxism
+authors:
+  - "[[Karl Marx]]"
+  - "[[Frederick Engels]]"
 ---
 
 # Sammy (03/15/24)

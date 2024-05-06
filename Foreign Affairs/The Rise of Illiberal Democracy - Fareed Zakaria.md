@@ -1,6 +1,9 @@
 ---
 source_link: https://www.foreignaffairs.com/world/rise-illiberal-democracy
 pdf: "[[the_rise_of_illiberal_democracy.pdf]]"
+authors:
+  - "[[Fareed Zakaria]]"
+publisher: "[[Foreign Affairs]]"
 tags:
   - democracy
   - liberalism

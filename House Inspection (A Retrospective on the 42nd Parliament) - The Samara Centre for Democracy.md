@@ -1,13 +1,14 @@
 ---
 source_link: https://www.samaracentre.ca/articles/house-inspection
 pdf: "[[House Inspection-A Retrospective of the 42nd Parliament.pdf]]"
+authors:
+  - "[[The Samara Centre for Democracy]]"
 tags:
   - canada
 ---
 # Sammy (unread)
 
 Haven’t read this, but it has some interesting factoids that can be worth keeping in mind when we go through Responsible Parties and stuff like that—particularly the analysis on herd behaviour (99.6% is pretty wild).
-
 ## [[House Inspection-A Retrospective of the 42nd Parliament.pdf#page=4&selection=83,0,83,12|Key Findings]]
 1. **They like big bills**: Despite criticism of omnibus bills, the Government continued to introduce ever- larger bills, which can make serious scrutiny hard.
 2. **Time (allocation) after time (allocation)**: The Government continued a much-criticized practice of frequently shutting down debate through time allocation.

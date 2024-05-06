@@ -1,5 +1,8 @@
 ---
 pdf: "[[democracy-sourcebook.pdf#page=31&selection=0,0,0,45|democracy-sourcebook, page 31]]"
+authors:
+  - "[[Amy Gutmann]]"
+  - "[[Dennis Thompson]]"
 tags:
   - democracy
 ---

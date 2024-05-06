@@ -1,5 +1,7 @@
 ---
 pdf: "[[democracy-sourcebook.pdf#page=38&selection=0,0,0,23|democracy-sourcebook, page 38]]"
+authors:
+  - "[[James S. Fishkin]]"
 tags:
   - democracy
 ---
