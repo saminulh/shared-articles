@@ -10,7 +10,7 @@ tags:
 > \[A large number of autocratic regimes\] were generally succeeded by regimes that at least aspired to be democratic, giving rise to the phenomenon that Samuel P. Huntington termed the "third wave" of democratization. ([[liberalism-and-democracy.pdf#page=2&selection=17,1,22,64|page 2]])
 * A coherent story here could be that this third wave brought about democracies that were (for presumably correlated reasons) not ready for liberalism. Thus, this new yield of democracies would be fundamentally different from the success stories that came before. 
 
-> Outside of Africa, few of these aspiring new democracies have su#ered outright reversions to authoritarianism. But many…fall short of providing the protection of individual liberties and adherence to the rule of law commonly found in the long- established democracies ([[liberalism-and-democracy.pdf#page=2&selection=28,0,40,23|page 2]])
+> Outside of Africa, few of these aspiring new democracies have suffered outright reversions to authoritarianism. But many…fall short of providing the protection of individual liberties and adherence to the rule of law commonly found in the long- established democracies ([[liberalism-and-democracy.pdf#page=2&selection=28,0,40,23|page 2]])
 
 >  While many new electoral democracies fall short of liberalism, on the whole, countries that hold free elections are overwhelmingly more liberal than those that do not, and countries that protect civil liberties are overwhelmingly more likely to hold free elections than those that do not. ([[liberalism-and-democracy.pdf#page=5&selection=28,36,36,58|page 5]])
 - Curious to see the data here
@@ -20,7 +20,7 @@ tags:
 
 > If we begin instead with the human rights mandated by the liberal tradition, these are generally held today to include some kind of right to electoral participation. ([[liberalism-and-democracy.pdf#page=6&selection=0,13,4,46|page 6]])
 - I kind of feel like we are just playing semantic games here? Like this argument would imply that liberal non-democracies are impossible, which is not particularly helpful given that we have already discussed a bunch…
-- Update: “One may regard this as a formal or even merely de!nitional link between liberalism and electoral democracy, but it points to a more profound kinship.” Sure, however that kinship might be a later-stage consideration.
+- Update: "One may regard this as a formal or even merely definitional link between liberalism and electoral democracy, but it points to a more profound kinship." Sure, however that kinship might be a later-stage consideration.
 
 > For the political doctrine at the source of liberalism also contains a deeply egalitarian and majoritarian dimension…. \[N\]o man has a natural claim to rule over another, and its clear corollary is that the rule of man over man can be justified only on the basis of a mutual agreement or "compact." ([[liberalism-and-democracy.pdf#page=6&selection=34,0,36,45|page 6]])
 * This does not justify majoritarianism: [[Minimalist Conception of Democracy - Adam Przeworski#^53c0ea]]
@@ -119,7 +119,4 @@ This is hilarious (in a sad way) given what will soon transpire.
 This article agrees with Zakaria that democracy is distinct from liberalism but makes the claim that they are still intrinsically linked and feed one another, and the nineteenth-century European model of transitioning from liberal autocracy to liberal democracy is unlikely to apply today. 
 
 I don't know enough historical details to verify this argument but I thought of a sort of 
-"Burkean" critique of both the thesis of this article and article its responding to. Perhaps the transition being natural and gradual is equally (if not more important) than the details of the transition. This would explain why the European model and/or the economic liberalisation of the East Asian autocracies (especially China much after this article was written) may have been more successful than countries which tried to make rapid transitions. 
-
-
-
+"Burkean" critique of both the thesis of this article and article its responding to. Perhaps the transition being natural and gradual is equally (if not more) important than the details of the transition. This would explain why the European model and/or the economic liberalisation of the East Asian autocracies (especially China much after this article was written) may have been more successful than countries which tried to make rapid transitions. 

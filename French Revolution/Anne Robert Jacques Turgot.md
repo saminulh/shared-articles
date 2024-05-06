@@ -3,7 +3,6 @@
 
 Was a [[Physiocrats|Physiocrat]].
 # Timeline Notes
-
 ```query
 file:"Timeline Events" ("[[Anne Robert Jacques Turgot")
 ```

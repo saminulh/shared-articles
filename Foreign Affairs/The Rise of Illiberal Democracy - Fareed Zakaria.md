@@ -7,7 +7,6 @@ tags:
 ---
 # Sammy (05/03/2024)
 ## Notes
-
 > Today the two strands of liberal democracy, interwoven in the Western political fabric, are coming apart in the rest of the world. Democracy is flourishing; constitutional liberalism is not. ([[the_rise_of_illiberal_democracy.pdf#page=3&selection=4,39,7,33|page 3]])
 * The central conundrum
 
@@ -16,9 +15,9 @@ tags:
 >  But to go beyond this minimalist definition and label a country democratic only if it guarantees a comprehensive catalog of social, political, economic, and religious rights turns the word democracy into a badge of honor rather than a descriptive category. ([[the_rise_of_illiberal_democracy.pdf#page=5&selection=39,13,44,23|page 5]])
 * Similar sentiment raised in [[Minimalist Conception of Democracy - Adam Przeworski]]
 
-> In almost all of its variants, constitutional liberalism argues that human beings have certain natural (or “inalienable”) rights and that governments must accept a basic law, limiting its own powers, that secures them.  ([[the_rise_of_illiberal_democracy.pdf#page=6&selection=25,53,28,55|page 6]])
+> In almost all of its variants, constitutional liberalism argues that human beings have certain natural (or “inalienable”) rights and that governments must accept a basic law, limiting its own powers, that secures them. ([[the_rise_of_illiberal_democracy.pdf#page=6&selection=25,53,28,55|page 6]])
 
->  in 1638 the town of Hartford adopted the first written constitution \[called the Fundamental Orders of Connecticut\] in modern history.  ([[the_rise_of_illiberal_democracy.pdf#page=6&selection=31,18,32,32|page 6]])
+>  in 1638 the town of Hartford adopted the first written constitution \[called the Fundamental Orders of Connecticut\] in modern history. ([[the_rise_of_illiberal_democracy.pdf#page=6&selection=31,18,32,32|page 6]])
 * Wild!
 
 >  Until the twentieth century, most countries in Western Europe were liberal autocracies or, at best, semi-democracies ([[the_rise_of_illiberal_democracy.pdf#page=6&selection=44,20,44,67|page 6]])
@@ -32,7 +31,7 @@ tags:
 > Constitutional liberalism has led to democracy, but democracy does not seem to bring constitutional liberalism ([[the_rise_of_illiberal_democracy.pdf#page=8&selection=7,0,8,48|page 8]])
 * Interesting to consider how Bukele’s story will go. He seems to be in a state of illiberal autocracy/semi-democracy at the moment, maybe this can transition to liberal autocracy with enough institutional development.
 
-> Many of the countries of Central Europe, on the other hand, have moved successfully from communism to liberal democracy, having gone through the same phase of liberalization without democracy as other European countries did during the nineteenth century. ([[the_rise_of_illiberal_democracy.pdf#page=8&selection=38,0,39,60|page 8]])
+> Many of the countries of Central Europe, on the other hand, have moved successfully from communism to liberal democracy, having gone through the same phase of liberalization without democracy as other European countries did during the nineteenth century. Indeed, the Austro-Hungarian empire, to which most belonged, was a classic liberal autocracy. ([[the_rise_of_illiberal_democracy.pdf#page=8&selection=38,0,39,60|page 8]])
 - Very interesting to consider this in contrast to the point in [[The Five Futures of Russia - Stephen Kotkin#Future 1 Russia as France]] that Russia doesn’t have the institutional/cultural background and history to support democracy/liberalism.
 - Also interesting to consider that this tradition is able to outlast a century of communist rule, is the reason that
 	1. these cultural ideas are rather durable (and maybe the communist regime was pretty unpopular throughout),
@@ -137,7 +136,7 @@ According to the author capitalism and "economic freedom" are integral to libera
 
 This is a very interesting fact and claim. 
 
- Constitutional government is in fact the key to a successful economic reform policy. The experience of East Asia and Central Europe suggests that when regimes—whether authoritarian, as in East Asia, or liberal democratic, as in Poland, Hungary, and the Czech Republic—protect individual rights, including those of property and contract, and create a framework of law and administration, capitalism and growth will follow.
+ > Constitutional government is in fact the key to a successful economic reform policy. The experience of East Asia and Central Europe suggests that when regimes—whether authoritarian, as in East Asia, or liberal democratic, as in Poland, Hungary, and the Czech Republic—protect individual rights, including those of property and contract, and create a framework of law and administration, capitalism and growth will follow.
 
 [[the_rise_of_illiberal_democracy.pdf#page=14&selection=0,0,4,4|the_rise_of_illiberal_democracy, page 14]]
 
