@@ -1,5 +1,5 @@
 ---
-source_text: "[[Shared Articles/Podcast Transcripts/The Deep Conflict Between Our Work and Parenting Ideals - The Ezra Klein Show]]"
+source_text: "[[Shared Articles/Resources/Podcast Transcripts/The Deep Conflict Between Our Work and Parenting Ideals - The Ezra Klein Show]]"
 tags:
   - social-democracy
   - sweden
