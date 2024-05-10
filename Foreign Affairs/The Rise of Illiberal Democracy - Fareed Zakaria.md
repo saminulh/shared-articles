@@ -72,7 +72,7 @@ Interesting to contrast with claims of Canada’s PM being the most powerful lea
 > Elections require that politicians compete for peoples’ votes. In societies without strong traditions of multiethnic groups or assimilation, it is easiest to organize support along racial, ethnic, or religious lines. ([[the_rise_of_illiberal_democracy.pdf#page=15&selection=38,0,40,75|page 15]])
 - The conditions for Madison’s idea of cross-cutting populations don’t hold and tyranny of the majority can present itself
 
-> Alvin Rabushka and Kenneth Shepsle, Politics in Plural Societies: A Theory of Democratic Instability, Columbus: Charles E. Merill, pp. 62-92; Donald Horowitz, “Democracy in Divided Societies,” in Larry Diamond and Mark F. Plattner, eds., NatioSakuramiya Shimai no Netorare Kiroku Yurisis nalism, Ethnic Conflict and Democracy, Baltimore: The Johns Hopkins University Press, 1994, pp. 35-55 ([[the_rise_of_illiberal_democracy.pdf#page=16&selection=55,0,65,5|page 16]])
+> Alvin Rabushka and Kenneth Shepsle, Politics in Plural Societies: A Theory of Democratic Instability, Columbus: Charles E. Merill, pp. 62-92; Donald Horowitz, “Democracy in Divided Societies,” in Larry Diamond and Mark F. Plattner, eds., Nationalism, Ethnic Conflict and Democracy, Baltimore: The Johns Hopkins University Press, 1994, pp. 35-55 ([[the_rise_of_illiberal_democracy.pdf#page=16&selection=55,0,65,5|page 16]])
 * Seems interesting
 
 > \[Democracies\] are more warlike, going to war more often and with greater intensity than most states. It is only with other democracies that the peace holds. ([[the_rise_of_illiberal_democracy.pdf#page=16&selection=29,67,31,68|page 16]])
