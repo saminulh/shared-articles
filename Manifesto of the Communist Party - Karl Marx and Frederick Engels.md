@@ -1,12 +1,13 @@
 ---
 source_link: https://www.marxists.org/archive/marx/works/download/pdf/Manifesto.pdf
 pdf: "[[communist-manifesto.pdf]]"
-tags:
-  - communism
-  - marxism
 authors:
   - "[[Karl Marx]]"
   - "[[Frederick Engels]]"
+date: 
+tags:
+  - communism
+  - marxism
 ---
 
 # Sammy (03/15/24)
