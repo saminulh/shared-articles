@@ -4,6 +4,7 @@ pdf: "[[polls_and_protests.pdf]]"
 authors:
   - "[[Seymour M. Lipset]]"
 publisher: "[[Foreign Affairs]]"
+date: 1971-04-01
 tags:
 ---
 # Sammy (unread)

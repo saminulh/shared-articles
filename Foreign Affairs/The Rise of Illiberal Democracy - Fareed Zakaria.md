@@ -4,6 +4,7 @@ pdf: "[[the_rise_of_illiberal_democracy.pdf]]"
 authors:
   - "[[Fareed Zakaria]]"
 publisher: "[[Foreign Affairs]]"
+date: 1997-11-01
 tags:
   - democracy
   - liberalism
