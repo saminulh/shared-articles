@@ -37,7 +37,6 @@ tags:
 > From the deliberations of a people properly informed, and provided its members do not have any communication among themselves ([[democracy-sourcebook.pdf#page=16&selection=81,0,83,34|page 16]])
 * What does it mean to have deliberations without communication? Maybe theres a notion of a public forum where all public discussion must take place (essentially disallowing the groups he later talks about)?
 
-
 “Small differences” seems to be a key supposition of this framework. I wonder if he believed that all people are fundamentally only mildly different from others or that you can only have this ideal state for certain populations.
 
 > as we shall see, it cannot hurt any particular member. ([[democracy-sourcebook.pdf#page=16&selection=11,39,12,42|page 16]])
