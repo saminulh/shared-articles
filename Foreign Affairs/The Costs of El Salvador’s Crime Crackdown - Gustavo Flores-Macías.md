@@ -1,8 +1,10 @@
 ---
 source_link: https://www.foreignaffairs.com/central-america/bukele-costs-salvadors-crime-crackdown
 pdf: "[[the-costs-of-el-salvadors-crime-crackdown-2024-03-20-09-04.pdf]]"
-authors: "[[Gustavo Flores-Macías]]"
+authors:
+  - "[[Gustavo Flores-Macías]]"
 publisher: "[[Foreign Affairs]]"
+date: 2024-03-20
 tags:
   - el-salvador
 ---

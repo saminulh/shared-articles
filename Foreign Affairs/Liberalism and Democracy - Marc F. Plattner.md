@@ -1,8 +1,10 @@
 ---
 source_link: https://www.foreignaffairs.com/articles/1998-03-01/liberalism-and-democracy-cant-have-one-without-other
 pdf: "[[liberalism-and-democracy.pdf]]"
-authors: "[[Marc F. Plattner]]"
+authors:
+  - "[[Marc F. Plattner]]"
 publisher: "[[Foreign Affairs]]"
+date: 1998-03-01
 tags:
   - democracy
   - liberalism

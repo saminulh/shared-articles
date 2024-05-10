@@ -4,6 +4,7 @@ pdf: "[[five-futures-of-russia.pdf]]"
 authors:
   - "[[Stephen Kotkin]]"
 publisher: "[[Foreign Affairs]]"
+date: 2024-04-18
 tags:
   - russia
 ---

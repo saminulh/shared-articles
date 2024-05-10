@@ -1,8 +1,10 @@
 ---
 source_link: https://www.foreignaffairs.com/united-states/revolution-american-foreign-policy-bernie-sanders
 pdf: "[[A Revolution in American Foreign Policy - Bernie Sanders]]"
-authors: "[[Bernie Sanders]]"
+authors:
+  - "[[Bernie Sanders]]"
 publisher: "[[Foreign Affairs]]"
+date: 2024-03-18
 tags:
 ---
 # Sammy (03/19/24)

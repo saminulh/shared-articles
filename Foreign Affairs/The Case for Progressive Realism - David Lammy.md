@@ -1,8 +1,10 @@
 ---
 source_link: https://www.foreignaffairs.com/united-kingdom/case-progressive-realism-david-lammy
 pdf: "[[the_case_for_progressive_realism.pdf]]"
-authors: "[[David Lammy]]"
+authors:
+  - "[[David Lammy]]"
 publisher: "[[Foreign Affairs]]"
+date: 2024-04-17
 tags:
 ---
 # Sammy (04/20/24)
