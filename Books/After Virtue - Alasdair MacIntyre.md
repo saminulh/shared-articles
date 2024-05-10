@@ -3,6 +3,7 @@ source_text: "[[Shared Articles/Resources/Markdowns/After Virtue - Alasdair MacI
 pdf: "[[after-virtue.pdf]]"
 authors:
   - "[[Alasdair MacIntyre]]"
+date: 
 tags:
   - communitarianism
 ---

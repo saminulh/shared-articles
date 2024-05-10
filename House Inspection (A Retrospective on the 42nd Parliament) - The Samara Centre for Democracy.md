@@ -3,6 +3,7 @@ source_link: https://www.samaracentre.ca/articles/house-inspection
 pdf: "[[House Inspection-A Retrospective of the 42nd Parliament.pdf]]"
 authors:
   - "[[The Samara Centre for Democracy]]"
+date: 
 tags:
   - canada
 ---

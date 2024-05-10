@@ -1,12 +1,13 @@
 ---
 source_text: 
 pdf: "[[responsible-parties.pdf]]"
-tags:
-  - democracy
-  - parties
 authors:
   - "[[Frances McCall Rosenbluth]]"
   - "[[Ian Shapiro]]"
+date: 
+tags:
+  - democracy
+  - parties
 ---
 # Sammy (reading)
 ## Chapter 1

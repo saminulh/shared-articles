@@ -3,7 +3,7 @@
 ### Readings from Shapiro Courses
 1. Democratic Justice - Ian Shapiro
 2. Responsible Parties - Ian Shapiro
-3. [[Shared Articles/After Virtue - Alasdair MacIntyre|After Virtue - Alasdair MacIntyre]]
+3. [[Shared Articles/Books/After Virtue - Alasdair MacIntyre|After Virtue - Alasdair MacIntyre]]
 	- Sam: chapters 1-3 read
 4. Strangers in Their Own Land - Arlie Russell Hochschild
 
@@ -14,7 +14,7 @@
 4. Reflections on Comparing Federalisms: Canada and the United States - Richard Simeon, Beryl A. Radin
 
 ### Communitarianism
-1. [[Shared Articles/After Virtue - Alasdair MacIntyre|After Virtue - Alasdair MacIntyre]]
+1. [[Shared Articles/Books/After Virtue - Alasdair MacIntyre|After Virtue - Alasdair MacIntyre]]
 2. Why Liberalism Failed - Patrick Deneen
 
 

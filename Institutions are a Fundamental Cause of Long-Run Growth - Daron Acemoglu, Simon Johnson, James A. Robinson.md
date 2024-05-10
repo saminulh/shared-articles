@@ -5,6 +5,7 @@ authors:
   - "[[Daron Acemoglu]]"
   - "[[Simon Johnson]]"
   - "[[James A. Robinson]]"
+date: 
 tags:
   - "#institutions"
 ---

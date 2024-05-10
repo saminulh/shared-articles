@@ -3,7 +3,8 @@ source_text:
 pdf: 
 authors:
   - "[[Ian Shapiro]]"
-tags: []
+date: 
+tags:
 ---
 # Sammy (unread)
 # David (unread)
