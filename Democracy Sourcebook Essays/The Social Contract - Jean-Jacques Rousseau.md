@@ -2,6 +2,7 @@
 pdf: "[[democracy-sourcebook.pdf#page=15&selection=0,0,0,19|democracy-sourcebook, page 15]]"
 authors:
   - "[[Jean-Jacques Rousseau]]"
+date: 
 tags:
   - democracy
   - social-contract

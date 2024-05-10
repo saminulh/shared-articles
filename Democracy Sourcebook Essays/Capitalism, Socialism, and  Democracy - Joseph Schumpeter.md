@@ -2,6 +2,7 @@
 pdf: "[[democracy-sourcebook.pdf#page=18&selection=0,0,0,36|democracy-sourcebook, page 18]]"
 authors:
   - "[[Joseph Schumpeter]]"
+date: 
 tags:
   - democracy
   - "#capitalism-and-democracy"

@@ -2,6 +2,7 @@
 pdf: "[[democracy-sourcebook.pdf#page=42&selection=0,32,0,32|democracy-sourcebook, page 42]]"
 authors:
   - "[[Larry Diamond]]"
+date: 
 tags:
   - democracy
 ---
