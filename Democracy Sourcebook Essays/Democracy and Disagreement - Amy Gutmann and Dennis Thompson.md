@@ -6,7 +6,6 @@ authors:
 tags:
   - democracy
 ---
-# Sammy
 
 ### General Reading Notes
 
