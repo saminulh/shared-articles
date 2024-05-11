@@ -7,7 +7,6 @@ date:
 tags:
   - democracy
 ---
-# Sammy
 
 ### General Reading Notes
 
