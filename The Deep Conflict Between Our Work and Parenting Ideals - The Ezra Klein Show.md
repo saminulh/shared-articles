@@ -1,5 +1,11 @@
 ---
+source_link: https://www.nytimes.com/2024/03/22/opinion/ezra-klein-podcast-caitlyn-collins.html
 source_text: "[[Shared Articles/Resources/Podcast Transcripts/The Deep Conflict Between Our Work and Parenting Ideals - The Ezra Klein Show]]"
+authors:
+  - "[[Ezra Klein]]"
+  - "[[Caitlyn Collins]]"
+publisher: "[[The Ezra Klein Show]]"
+date: 2024-03-22
 tags:
   - social-democracy
   - sweden

@@ -2,6 +2,7 @@
 pdf: "[[democracy-sourcebook.pdf#page=25&selection=0,0,0,45|democracy-sourcebook, page 25]]"
 authors:
   - "[[Adam Przeworski]]"
+date: 
 tags:
   - democracy
 ---

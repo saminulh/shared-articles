@@ -322,7 +322,7 @@ Thus, first morality was divorced from the realm of religion through secularizat
 
 [[after-virtue.pdf#page=77&selection=38,55,49,29|after-virtue, page 77]]
 
-This leaves implicit that sea-captain ought to do such and such things. That seems to be where the oughts for “he” come from. [[http://pairopatetics.blogspot.com/2015/07/macintyre-on-is-ought-problem.html|Some useful elaborations in the comments here.]]
+This leaves implicit that sea-captain ought to do such and such things. That seems to be where the oughts for “he” come from. [Some useful elaborations in the comments here.](http://pairopatetics.blogspot.com/2015/07/macintyre-on-is-ought-problem.html)
 
 > Suppose that during the seventeenth and eighteenth centuries the meaning and implications of the key terms used in moral utterance had changed their character; it could then turn out to be the case that what had once been valid inferences from or to some particular moral premise or conclusion would no longer be valid inferences from or to what seemed to be the same factual premise or moral conclusion
 
