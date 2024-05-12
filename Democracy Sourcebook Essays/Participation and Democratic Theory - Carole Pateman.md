@@ -8,157 +8,92 @@ tags:
 ---
 # Sammy (Unread)
 ## Highlights
-> At the beginning of the century the size and complexity of industrialized societies and the emergence of bureaucratic forms of organisation seemed to many empirically minded writers on politics to cast grave doubts on the possibility of the attainment of democracy as that concept was usually understood.
-
+> At the beginning of the century the size and complexity of industrialized societies and the emergence of bureaucratic forms of organisation seemed to many empirically minded writers on politics to cast grave doubts on the possibility of the attainment of democracy as that concept was usually understood. ([[democracy-sourcebook.pdf#page=53&selection=5,0,25,19|page 53]])
 ^a9c8e5
-
-[[democracy-sourcebook.pdf#page=53&selection=5,0,25,19|democracy-sourcebook, page 53]]
 - Complexity of society made idealized democracy seem unattainable
 
-> But by the middle of the century even the ideal itself seemed to many to have been called in question; at least, "democracy" was still the ideal, but it was the emphasis on participation that had become suspect and with it the "classical" formulation of democratic theory.
-
+> But by the middle of the century even the ideal itself seemed to many to have been called in question; at least, "democracy" was still the ideal, but it was the emphasis on participation that had become suspect and with it the "classical" formulation of democratic theory. ([[democracy-sourcebook.pdf#page=53&selection=26,0,52,0|page 53]])
 ^5024fa
-
-[[democracy-sourcebook.pdf#page=53&selection=26,0,52,0|democracy-sourcebook, page 53]]
 - Eventually, the classical idealized notation itself was called into question
 
-> The spectre of totalitarianism also helps explain the concern with the necessary conditions for stability in a democratic polity
-
-[[democracy-sourcebook.pdf#page=53&selection=75,24,78,6|democracy-sourcebook, page 53]]
+> The spectre of totalitarianism also helps explain the concern with the necessary conditions for stability in a democratic polity ([[democracy-sourcebook.pdf#page=53&selection=75,24,78,6|page 53]])
 - Fear of totalitarianism caused a focus on maintaining stability
 
-> the outstanding characteristic of most citi- zens, more especially those in the lower socio- economic status (SES) groups, is a general lack of interest in politics and political activity and further, that widespread non-democratic or authoritarian attitudes exist, again particularly among lower socio-economic status groups
-
+> the outstanding characteristic of most citi- zens, more especially those in the lower socio- economic status (SES) groups, is a general lack of interest in politics and political activity and further, that widespread non-democratic or authoritarian attitudes exist, again particularly among lower socio-economic status groups ([[democracy-sourcebook.pdf#page=53&selection=114,5,128,40|page 53]])
 ^d8042a
-
-[[democracy-sourcebook.pdf#page=53&selection=114,5,128,40|democracy-sourcebook, page 53]]
 - Most citizens are uninterested in politics and also harbor non-democratic attitudes
 
-> There was a further factor that helped along the process of the rejection of earlier democratic theories, and that was the now familiar argument that those theories were normative and ‘‘value- laden,’’ whereas modern political theory should be scientific and empirical, grounded firmly in the facts of political life.
-
+> There was a further factor that helped along the process of the rejection of earlier democratic theories, and that was the now familiar argument that those theories were normative and ‘‘value- laden,’’ whereas modern political theory should be scientific and empirical, grounded firmly in the facts of political life. ([[democracy-sourcebook.pdf#page=53&selection=159,0,165,28|page 53]])
 ^a89844
-
-[[democracy-sourcebook.pdf#page=53&selection=159,0,165,28|democracy-sourcebook, page 53]]
 - Early democratic theories were seen as normative and value-laden, while modern theorists want to be more empirical.
 
-> is extraordinarily in- fluential book Capitalism, Socialism and Democ- racy (1943) was in fact written before the vast amounts of empirical information that we now have on politics became available
-
+> is extraordinarily in- fluential book Capitalism, Socialism and Democ- racy (1943) was in fact written before the vast amounts of empirical information that we now have on politics became available ([[democracy-sourcebook.pdf#page=53&selection=193,23,201,33|page 53]])
 ^217310
-
-[[democracy-sourcebook.pdf#page=53&selection=193,23,201,33|democracy-sourcebook, page 53]]
 - [[Capitalism, Socialism, and  Democracy - Joseph Schumpeter]] is very influential
 
-> The theories of participatory democracy . . . were not just essays in prescription as is often claimed, rather they o¤er just those ‘‘plans of action and specific prescriptions’’ for movement towards a (truly) democratic polity that it has been sug- gested are lacking
-
-[[democracy-sourcebook.pdf#page=54&selection=14,0,19,18|democracy-sourcebook, page 54]]
+> The theories of participatory democracy . . . were not just essays in prescription as is often claimed, rather they o¤er just those ‘‘plans of action and specific prescriptions’’ for movement towards a (truly) democratic polity that it has been sug- gested are lacking ([[democracy-sourcebook.pdf#page=54&selection=14,0,19,18|page 54]])
 - The purpose of participatory democracy theory is to offer paths towards a truly democratic polity
 
-> The theory of participatory democracy is built round the central assertion that individuals and their institutions cannot be considered in isola- tion from one another.
-
-[[democracy-sourcebook.pdf#page=54&selection=50,0,53,22|democracy-sourcebook, page 54]]
+> The theory of participatory democracy is built round the central assertion that individuals and their institutions cannot be considered in isola- tion from one another. ([[democracy-sourcebook.pdf#page=54&selection=50,0,53,22|page 54]])
 - Participatory democracy is centered on the idea that the individual and their institutions are inseparably linked
 
-> for maximum partici- pation by all the people at \[the national level\] social- isation, or ‘‘social training,’’ for democracy must take place in other spheres in order that the necessary individual attitudes and psychological qualities can be developed. This development takes place through the process of participation itself.
-
+> for maximum partici- pation by all the people at \[the national level\] social- isation, or ‘‘social training,’’ for democracy must take place in other spheres in order that the necessary individual attitudes and psychological qualities can be developed. This development takes place through the process of participation itself. ([[democracy-sourcebook.pdf#page=54&selection=67,24,74,7|page 54]])
 ^d0af79
-
-[[democracy-sourcebook.pdf#page=54&selection=67,24,74,7|democracy-sourcebook, page 54]]
 - Participation enables the "social training" for people to take part in national level politics
 
-> Therefore, for a democratic polity to exist it is necessary for a participatory society to exist, i.e. a society where all political systems have been democratised and socialisation through partici- pation can take place in all areas. The most im- portant area is industry; most individuals spend a great deal of their lifetime at work and the business of the workplace provides an education in the management of collective a¤airs that it is di‰cult to parallel elsewhere
-
+> Therefore, for a democratic polity to exist it is necessary for a participatory society to exist, i.e. a society where all political systems have been democratised and socialisation through partici- pation can take place in all areas. The most im- portant area is industry; most individuals spend a great deal of their lifetime at work and the business of the workplace provides an education in the management of collective a¤airs that it is di‰cult to parallel elsewhere ([[democracy-sourcebook.pdf#page=54&selection=103,0,107,35|page 54]])
 ^c7ae27
-
-[[democracy-sourcebook.pdf#page=54&selection=103,0,107,35|democracy-sourcebook, page 54]]
 - A democratic polity requires all political systems to be democratized and for socialization through participation to take place in all areas
 - Especially this should occur in the workplace
 
->  The second aspect of the theory of participatory democracy is that spheres such as industry should be seen as polit- ical systems in their own right, o¤ering areas of participation additional to the national level
-
-[[democracy-sourcebook.pdf#page=54&selection=112,30,116,46|democracy-sourcebook, page 54]]
+>  The second aspect of the theory of participatory democracy is that spheres such as industry should be seen as polit- ical systems in their own right, o¤ering areas of participation additional to the national level ([[democracy-sourcebook.pdf#page=54&selection=112,30,116,46|page 54]])
 - Spheres like industry ought to be seen as political in their own right
 
-> If individuals are to exercise the maximum amount of control over their own lives and environment then authority structures in these areas must be so organised that they can participate in decision making.
-
+> If individuals are to exercise the maximum amount of control over their own lives and environment then authority structures in these areas must be so organised that they can participate in decision making. ([[democracy-sourcebook.pdf#page=54&selection=116,48,121,7|page 54]])
 ^5252c9
-
-[[democracy-sourcebook.pdf#page=54&selection=116,48,121,7|democracy-sourcebook, page 54]]
 - Democratization must occur to let individuals the exercise the maximum amount of control over their own lives and environment
 
-> A further reason for the central place of industry in the theory relates to the substan- tive measure of economic equality required to give the individual the independence and secu- rity necessary for (equal) participation
-
-[[democracy-sourcebook.pdf#page=54&selection=121,8,125,40|democracy-sourcebook, page 54]]
+> A further reason for the central place of industry in the theory relates to the substan- tive measure of economic equality required to give the individual the independence and secu- rity necessary for (equal) participation ([[democracy-sourcebook.pdf#page=54&selection=121,8,125,40|page 54]])
 - Economic equality is necessary for equal participation
 
-> the justification for a democratic system in the participatory theory of democracy rests primarily on the human results that accrue from the participatory process.
-
+> the justification for a democratic system in the participatory theory of democracy rests primarily on the human results that accrue from the participatory process. ([[democracy-sourcebook.pdf#page=55&selection=5,35,9,8|page 55]])
 ^6dae63
-
-[[democracy-sourcebook.pdf#page=55&selection=5,35,9,8|democracy-sourcebook, page 55]]
 - The main justification for democracy through a participatory theory is how it changes and benefits the people.
 
-> For example, the fact that it is a model of a self-sustaining system might make it attractive to the many writers on politics who, explicitly or implicitly, make use of such models.
-
+> For example, the fact that it is a model of a self-sustaining system might make it attractive to the many writers on politics who, explicitly or implicitly, make use of such models. ([[democracy-sourcebook.pdf#page=55&selection=24,7,27,39|page 55]])
 ^c0ea97
 
-[[democracy-sourcebook.pdf#page=55&selection=24,7,27,39|democracy-sourcebook, page 55]]
-
-> Dahl (1963, p. 6), has defined a political system as ‘‘any persistent pattern of human relationships that involves to a significant extent power, rule or authority.’’
-
-[[democracy-sourcebook.pdf#page=55&selection=49,30,52,47|democracy-sourcebook, page 55]]
+> Dahl (1963, p. 6), has defined a political system as ‘‘any persistent pattern of human relationships that involves to a significant extent power, rule or authority.’’ ([[democracy-sourcebook.pdf#page=55&selection=49,30,52,47|page 55]])
 - [[Robert Dahl]]'s definition of a political system
 
-> \[Contemporary theorists\] are far less clear on how \[democratic character\] could be developed or what the nature of its connection with the working of the ‘‘democratic method’’ itself really is.
-
+> \[Contemporary theorists\] are far less clear on how \[democratic character\] could be developed or what the nature of its connection with the working of the ‘‘democratic method’’ itself really is. ([[democracy-sourcebook.pdf#page=56&selection=30,37,38,3|page 56]])
 ^8cf7e0
 
-[[democracy-sourcebook.pdf#page=56&selection=30,37,38,3|democracy-sourcebook, page 56]]
-
-> No longer is democratic theory centred on the participation of ‘‘the people,’’ on the participa- tion of the ordinary man, or the prime virtue of a democratic political system seen as the devel- opment of politically relevant and necessary qualities in the ordinary individual; in the con- temporary theory of democracy it is the partici- pation of the minority e´lite that is crucial and the non-participation of the apathetic, ordinary man lacking in the feeling of political e‰cacy, that is regarded as the main bulwark against instability.
-
+> No longer is democratic theory centred on the participation of ‘‘the people,’’ on the participa- tion of the ordinary man, or the prime virtue of a democratic political system seen as the devel- opment of politically relevant and necessary qualities in the ordinary individual; in the con- temporary theory of democracy it is the partici- pation of the minority e´lite that is crucial and the non-participation of the apathetic, ordinary man lacking in the feeling of political e‰cacy, that is regarded as the main bulwark against instability. ([[democracy-sourcebook.pdf#page=56&selection=148,0,169,49|page 56]])
 ^0a9d42
-
-[[democracy-sourcebook.pdf#page=56&selection=148,0,169,49|democracy-sourcebook, page 56]]
 - Contemporary theory no longer cares about the participation and development of the ordinary man, instead wants to preserve an elite to protect against instability.
 
-> Apparently it has not occurred to recent theorists to wonder why there should be a positive corre- lation between apathy and low feelings of politi- cal e‰cacy and low socio-economic status
-
+> Apparently it has not occurred to recent theorists to wonder why there should be a positive corre- lation between apathy and low feelings of politi- cal e‰cacy and low socio-economic status ([[democracy-sourcebook.pdf#page=56&selection=170,0,173,40|page 56]])
 ^a10527
-
-[[democracy-sourcebook.pdf#page=56&selection=170,0,173,40|democracy-sourcebook, page 56]]
 - Recent theorists do not consider why political apathy correlates with SES.
 
-> Yet we have seen that the evidence supports the arguments of Rousseau, Mill and Cole that we do learn to participate by partic- ipating and that feelings of political e‰cacy are more likely to be developed in a participatory environment.
-
-[[democracy-sourcebook.pdf#page=56&selection=194,10,200,0|democracy-sourcebook, page 56]]
+> Yet we have seen that the evidence supports the arguments of Rousseau, Mill and Cole that we do learn to participate by partic- ipating and that feelings of political e‰cacy are more likely to be developed in a participatory environment. ([[democracy-sourcebook.pdf#page=56&selection=194,10,200,0|page 56]])
 - Evidence shows participation begets participation
 
-> However, the socialisation aspect of the par- ticipatory theory of democracy is also capable of being absorbed into the general framework of the contemporary theory, providing the founda- tion for a more soundly based theory of stable democracy than those o¤ered at present.
-
-[[democracy-sourcebook.pdf#page=57&selection=27,0,32,39|democracy-sourcebook, page 57]]
+> However, the socialisation aspect of the par- ticipatory theory of democracy is also capable of being absorbed into the general framework of the contemporary theory, providing the founda- tion for a more soundly based theory of stable democracy than those o¤ered at present. ([[democracy-sourcebook.pdf#page=57&selection=27,0,32,39|page 57]])
 - The idea of socialization can be absorbed into the general framework of contemporary theory
 
-> a society so organised that every individual has the opportunity directly to participate in all political spheres
-
-[[democracy-sourcebook.pdf#page=57&selection=66,7,68,17|democracy-sourcebook, page 57]]
+> a society so organised that every individual has the opportunity directly to participate in all political spheres ([[democracy-sourcebook.pdf#page=57&selection=66,7,68,17|page 57]])
 - Necessary feature of a democratic polity for participatory theorists
 
-> There is very little in the empirical evidence on which to base the assertion that in- dustrial democracy, full higher level participa- tion, is impossible
-
+> There is very little in the empirical evidence on which to base the assertion that in- dustrial democracy, full higher level participa- tion, is impossible ([[democracy-sourcebook.pdf#page=57&selection=93,17,96,19|page 57]])
 ^cdf818
-
-[[democracy-sourcebook.pdf#page=57&selection=93,17,96,19|democracy-sourcebook, page 57]]
 - Little empirical evidence (at the time) about industrial democracy being impossible
 
-> The problems of running large housing developments would seem to give wide scope to residents for participation in decision making and the psychological e¤ects of such partici- pation might prove extremely valuable in this context
-
+> The problems of running large housing developments would seem to give wide scope to residents for participation in decision making and the psychological e¤ects of such partici- pation might prove extremely valuable in this context ([[democracy-sourcebook.pdf#page=58&selection=87,9,104,7|page 58]])
 ^598b97
 
-[[democracy-sourcebook.pdf#page=58&selection=87,9,104,7|democracy-sourcebook, page 58]]
-
-> The argument of the participatory theory of democracy is that participation in the alternative areas would enable the individual better to appreciate the connection between the public and the private spheres
-
-[[democracy-sourcebook.pdf#page=59&selection=59,35,76,7|democracy-sourcebook, page 59]]
+> The argument of the participatory theory of democracy is that participation in the alternative areas would enable the individual better to appreciate the connection between the public and the private spheres ([[democracy-sourcebook.pdf#page=59&selection=59,35,76,7|page 59]])
 - Participation enables better appreciation of the connection between public and private spheres.
 ## Thoughts
 - Re [[#^a9c8e5]] and [[#^5024fa]]: Is she mostly talking here about the collective will notions of democracy?
