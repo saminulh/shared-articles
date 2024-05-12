@@ -1,114 +1,962 @@
 {
-	"nodes":[
-		{"id":"37c351f352fab6a1","type":"group","x":-160,"y":1174,"width":8960,"height":425,"color":"3","label":"Pre-French Revolution (1715-1789)"},
-		{"id":"129bdb047e8c5b77","type":"group","x":-160,"y":1723,"width":7400,"height":478,"label":"Pre-American Revolution"},
-		{"id":"c7e1d1d63e4b96ef","type":"group","x":8800,"y":1174,"width":589,"height":425,"color":"5","label":"French Revolution (1789-)"},
-		{"id":"788f7791f8a0e5fa","type":"text","text":"# 1731","x":1780,"y":1000,"width":120,"height":50},
-		{"id":"8e3c055b7381ca17","type":"text","text":"# 1730","x":1660,"y":1000,"width":120,"height":50},
-		{"id":"deb74b7f31ce901f","type":"text","text":"# 1729","x":1540,"y":1000,"width":120,"height":50},
-		{"id":"5a6d6065bb455086","type":"text","text":"# 1728","x":1420,"y":1000,"width":120,"height":50},
-		{"id":"8640ea933c7c7410","type":"text","text":"# 1727","x":1300,"y":1000,"width":120,"height":50},
-		{"id":"0f87f486d22cc087","type":"text","text":"# 1736","x":2380,"y":1000,"width":120,"height":50},
-		{"id":"a35c068cf5a9e54c","type":"text","text":"# 1735","x":2260,"y":1000,"width":120,"height":50},
-		{"id":"8b3beef9e3ac601c","type":"text","text":"# 1734","x":2140,"y":1000,"width":120,"height":50},
-		{"id":"6085a20ac3c82deb","type":"text","text":"# 1733","x":2020,"y":1000,"width":120,"height":50},
-		{"id":"c19adae3aa8845a2","type":"text","text":"# 1732","x":1900,"y":1000,"width":120,"height":50},
-		{"id":"b3cac1990e3bce2b","type":"text","text":"# 1725","x":1060,"y":1000,"width":120,"height":50},
-		{"id":"ffc09286425149ce","type":"text","text":"# 1724","x":940,"y":1000,"width":120,"height":50},
-		{"id":"e311e4db6690a5ea","type":"text","text":"# 1723","x":820,"y":1000,"width":120,"height":50},
-		{"id":"fef54071452b45a6","type":"text","text":"# 1722","x":700,"y":1000,"width":120,"height":50},
-		{"id":"340045df0fc29f95","type":"text","text":"# 1721","x":580,"y":1000,"width":120,"height":50},
-		{"id":"9557526ea318da12","type":"text","text":"# 1720","x":460,"y":1000,"width":120,"height":50},
-		{"id":"e68d3d334d414af5","type":"text","text":"# 1726","x":1180,"y":1000,"width":120,"height":50},
-		{"id":"132ee8bb86cc3272","type":"text","text":"# 1718","x":220,"y":1000,"width":120,"height":50},
-		{"id":"646cab7db13a8b51","type":"text","text":"# 1716","x":-20,"y":1000,"width":120,"height":50},
-		{"id":"5de2a99ec70eeced","type":"text","text":"# 1717","x":100,"y":1000,"width":120,"height":50},
-		{"id":"dc337b28f04e218b","type":"text","text":"# 1767","x":6100,"y":1000,"width":120,"height":50},
-		{"id":"f366abad6fa81d12","type":"text","text":"# 1770","x":6460,"y":1000,"width":120,"height":50},
-		{"id":"ec7e77d1bc0689ad","type":"text","text":"# 1769","x":6340,"y":1000,"width":120,"height":50},
-		{"id":"446c866c0075d1c6","type":"text","text":"# 1768","x":6220,"y":1000,"width":120,"height":50},
-		{"id":"08b8e216189bc18b","type":"text","text":"# 1771","x":6580,"y":1000,"width":120,"height":50},
-		{"id":"dbcccb8a6ad6db5e","type":"text","text":"# 1772","x":6700,"y":1000,"width":120,"height":50},
-		{"id":"eac4c02c0bbb29de","type":"text","text":"# 1773","x":6820,"y":1000,"width":120,"height":50},
-		{"id":"7ea30cf91f7c49f9","type":"text","text":"# 1774","x":6940,"y":1000,"width":120,"height":50},
-		{"id":"c6615a20b510861a","type":"text","text":"# 1719","x":340,"y":1000,"width":120,"height":50},
-		{"id":"857cbd77bb25a8fa","type":"text","text":"# 1715","x":-140,"y":1000,"width":120,"height":50},
-		{"id":"4129d9a60e57c85d","type":"text","text":"# 1758","x":5020,"y":1000,"width":120,"height":50},
-		{"id":"cacef0451e6b2784","type":"text","text":"# 1759","x":5140,"y":1000,"width":120,"height":50},
-		{"id":"e250ada821c0d4d8","type":"text","text":"# 1752","x":4300,"y":1000,"width":120,"height":50},
-		{"id":"68e21810d4cb126f","type":"text","text":"# 1751","x":4180,"y":1000,"width":120,"height":50},
-		{"id":"841f8a50bdbf8177","type":"text","text":"# 1764","x":5740,"y":1000,"width":120,"height":50},
-		{"id":"dfe61c3a47fae205","type":"text","text":"# 1754","x":4540,"y":1000,"width":120,"height":50},
-		{"id":"b5b57b83b8df2241","type":"text","text":"# 1765","x":5860,"y":1000,"width":120,"height":50},
-		{"id":"371df2a995fa79e6","type":"text","text":"# 1766","x":5980,"y":1000,"width":120,"height":50},
-		{"id":"71a5934c34a7ec02","type":"text","text":"# 1763","x":5620,"y":1000,"width":120,"height":50},
-		{"id":"a20b69a814e776c6","type":"text","text":"# 1775","x":7060,"y":1000,"width":120,"height":50},
-		{"id":"81ff782604e906de","type":"text","text":"# 1760","x":5260,"y":1000,"width":120,"height":50},
-		{"id":"6a2caafde20b4c3f","type":"text","text":"# 1749","x":3940,"y":1000,"width":120,"height":50},
-		{"id":"6ef57c237f921b1e","type":"text","text":"# 1750","x":4060,"y":1000,"width":120,"height":50},
-		{"id":"65dd31a3eb2cd4ae","type":"text","text":"# 1747","x":3700,"y":1000,"width":120,"height":50},
-		{"id":"f20edf44f4faa7ec","type":"text","text":"# 1757","x":4900,"y":1000,"width":120,"height":50},
-		{"id":"5e2bc95215bfdc6f","type":"text","text":"# 1756","x":4780,"y":1000,"width":120,"height":50},
-		{"id":"c880b79f1ecf04f6","type":"text","text":"# 1755","x":4660,"y":1000,"width":120,"height":50},
-		{"id":"18e0db59fe8d3bbc","type":"text","text":"# 1753","x":4420,"y":1000,"width":120,"height":50},
-		{"id":"2f317855e293e711","type":"text","text":"# 1748","x":3820,"y":1000,"width":120,"height":50},
-		{"id":"f6548d06f3b8cab7","type":"file","file":"Shared Articles/French Revolution/Timeline Events.md","subpath":"#^250c1b","x":7316,"y":1393,"width":284,"height":115},
-		{"id":"06da738b3c775e6b","type":"file","file":"Shared Articles/French Revolution/Timeline Events.md","subpath":"#^5cdcd9","x":7900,"y":1247,"width":265,"height":122},
-		{"id":"4feddf5d080dedbb","type":"file","file":"Shared Articles/French Revolution/Timeline Events.md","subpath":"#^6c753e","x":8143,"y":1345,"width":237,"height":178},
-		{"id":"79f5e21ed4ddfb00","type":"file","file":"Shared Articles/French Revolution/Timeline Events.md","subpath":"#Death of Louis XIV","x":-120,"y":1273,"width":280,"height":159,"color":"1"},
-		{"id":"dcbcb51401bfd1f8","type":"text","text":"# [[1789 Timeline.canvas|Timeline of France in 1789]]","x":8680,"y":1247,"width":261,"height":98,"color":"4"},
-		{"id":"76662f497b0aaf2f","type":"text","text":"# [[1787 Timeline.canvas|Timeline of France in 1787]]","x":8412,"y":1247,"width":248,"height":98,"color":"4"},
-		{"id":"e066b7decbcc7a11","type":"text","text":"# [[1788 Timeline.canvas|Timeline of France in 1788]]","x":8536,"y":1369,"width":248,"height":98,"color":"4"},
-		{"id":"093bb5b411ef9099","type":"file","file":"Shared Articles/French Revolution/Timeline Events.md","subpath":"#^1de917","x":7628,"y":1223,"width":240,"height":228},
-		{"id":"eff03d9e53306b4c","type":"file","file":"Shared Articles/French Revolution/Timeline Events.md","subpath":"#^4af2b7","x":7025,"y":1472,"width":275,"height":84},
-		{"id":"b32a626cdf970d83","type":"text","text":"# [[Seven Years' War]]","x":5140,"y":1458,"width":600,"height":416,"color":"1"},
-		{"id":"8de92f7c10440480","type":"file","file":"Shared Articles/French Revolution/Timeline Events.md","subpath":"#^5b79da","x":6460,"y":1228,"width":600,"height":53},
-		{"id":"4a4bc36e48274fd1","type":"text","text":"# 1788","x":8620,"y":1000,"width":120,"height":50},
-		{"id":"e40f7c86bd608ea5","type":"file","file":"Shared Articles/French Revolution/Timeline Events.md","subpath":"#^56956a","x":7000,"y":1297,"width":251,"height":122},
-		{"id":"597fb5dbe2188565","type":"file","file":"Shared Articles/French Revolution/Timeline Events.md","subpath":"#Death of Louis XV","x":6670,"y":1358,"width":300,"height":158,"color":"1"},
-		{"id":"a2a628cf75ab1ab1","type":"text","text":"# 1785","x":8260,"y":1000,"width":120,"height":50},
-		{"id":"a5cbd3932a988b4b","type":"text","text":"# 1786","x":8380,"y":1000,"width":120,"height":50},
-		{"id":"e210ba096c09526d","type":"text","text":"# 1787","x":8500,"y":1000,"width":120,"height":50},
-		{"id":"f3cab57fa75f3b0a","type":"file","file":"Shared Articles/French Revolution/Timeline Events.md","subpath":"#^b1758a","x":7276,"y":1281,"width":288,"height":77},
-		{"id":"bcfefa63029278bc","type":"text","text":"# 1789","x":8740,"y":1000,"width":120,"height":50},
-		{"id":"494b5dd8b34e1e8c","type":"text","text":"# 1790","x":8860,"y":1000,"width":120,"height":50},
-		{"id":"349fbca2fd296690","type":"text","text":"# 1783","x":8020,"y":1000,"width":120,"height":50},
-		{"id":"fbdf53d9fa863cde","type":"text","text":"# 1782","x":7900,"y":1000,"width":120,"height":50},
-		{"id":"80844d8d6db15a27","type":"text","text":"# 1781","x":7780,"y":1000,"width":120,"height":50},
-		{"id":"81266e16feed8401","type":"text","text":"# 1778","x":7420,"y":1000,"width":120,"height":50},
-		{"id":"7dd64d319ee47ece","type":"text","text":"# 1777","x":7300,"y":1000,"width":120,"height":50},
-		{"id":"8f549cc6bd3e94fb","type":"text","text":"# 1784","x":8140,"y":1000,"width":120,"height":50},
-		{"id":"8ebbc7f7d2884d7b","type":"text","text":"# 1780","x":7660,"y":1000,"width":120,"height":50},
-		{"id":"cfd4f8d95972e7d6","type":"text","text":"# 1779","x":7540,"y":1000,"width":120,"height":50},
-		{"id":"2a292c76e3650b62","type":"text","text":"# 1761","x":5380,"y":1000,"width":120,"height":50},
-		{"id":"0d20af984464967a","type":"text","text":"# 1746","x":3580,"y":1000,"width":120,"height":50},
-		{"id":"c430a72a3d84b637","type":"text","text":"# 1745","x":3460,"y":1000,"width":120,"height":50},
-		{"id":"b739364db976a65a","type":"text","text":"# 1744","x":3340,"y":1000,"width":120,"height":50},
-		{"id":"fd647d31bda5255c","type":"text","text":"# 1762","x":5500,"y":1000,"width":120,"height":50},
-		{"id":"2d8d7a63e29c218f","type":"text","text":"# 1739","x":2740,"y":1000,"width":120,"height":50},
-		{"id":"b36673e483bbe488","type":"text","text":"# 1738","x":2620,"y":1000,"width":120,"height":50},
-		{"id":"72bbeb8e7bf41d0f","type":"text","text":"# 1743","x":3220,"y":1000,"width":120,"height":50},
-		{"id":"b1fc9705dad8d48d","type":"text","text":"# 1737","x":2500,"y":1000,"width":120,"height":50},
-		{"id":"7efdccf4a3a488b8","type":"text","text":"# 1776","x":7180,"y":1000,"width":120,"height":50},
-		{"id":"1db0ddf5cb96d3be","type":"text","text":"# 1742","x":3100,"y":1000,"width":120,"height":50},
-		{"id":"329bc65a8b3ace6b","type":"text","text":"# 1741","x":2980,"y":1000,"width":120,"height":50},
-		{"id":"35a4da463ec7f2ca","type":"text","text":"# 1740","x":2860,"y":1000,"width":120,"height":50}
-	],
-	"edges":[
-		{"id":"84ee01cfb734b162","fromNode":"597fb5dbe2188565","fromSide":"top","toNode":"7ea30cf91f7c49f9","toSide":"bottom"},
-		{"id":"ca535ee07a940fb0","fromNode":"79f5e21ed4ddfb00","fromSide":"top","toNode":"857cbd77bb25a8fa","toSide":"bottom"},
-		{"id":"ac3ab096475a7be2","fromNode":"e40f7c86bd608ea5","fromSide":"top","toNode":"7ea30cf91f7c49f9","toSide":"bottom"},
-		{"id":"99ea75447937b91b","fromNode":"eff03d9e53306b4c","fromSide":"top","toNode":"7ea30cf91f7c49f9","toSide":"bottom"},
-		{"id":"319da7ec3305c9d8","fromNode":"f3cab57fa75f3b0a","fromSide":"top","toNode":"7efdccf4a3a488b8","toSide":"bottom"},
-		{"id":"13d51f1d4adab7a5","fromNode":"f6548d06f3b8cab7","fromSide":"top","toNode":"7efdccf4a3a488b8","toSide":"bottom"},
-		{"id":"9876a30c3bd6c0a9","fromNode":"093bb5b411ef9099","fromSide":"top","toNode":"80844d8d6db15a27","toSide":"bottom"},
-		{"id":"706f258748a2d387","fromNode":"f366abad6fa81d12","fromSide":"bottom","toNode":"8de92f7c10440480","toSide":"top","toEnd":"none"},
-		{"id":"bb237fc605b0c095","fromNode":"7ea30cf91f7c49f9","fromSide":"bottom","toNode":"8de92f7c10440480","toSide":"top","toEnd":"none"},
-		{"id":"6794bd395d597fd2","fromNode":"dcbcb51401bfd1f8","fromSide":"top","toNode":"bcfefa63029278bc","toSide":"bottom"},
-		{"id":"cc7984a4346d49c6","fromNode":"76662f497b0aaf2f","fromSide":"top","toNode":"e210ba096c09526d","toSide":"bottom"},
-		{"id":"63ca6b365084c3ca","fromNode":"06da738b3c775e6b","fromSide":"top","toNode":"349fbca2fd296690","toSide":"bottom"},
-		{"id":"bc31a394008c8dff","fromNode":"4feddf5d080dedbb","fromSide":"top","toNode":"a5cbd3932a988b4b","toSide":"bottom"},
-		{"id":"f6cfb576b1e14f9b","fromNode":"e066b7decbcc7a11","fromSide":"top","toNode":"4a4bc36e48274fd1","toSide":"bottom"}
-	],
-	"metadata":{}
+  "nodes": [
+    {
+      "id": "37c351f352fab6a1",
+      "type": "group",
+      "x": -160,
+      "y": 1174,
+      "width": 8960,
+      "height": 425,
+      "color": "3",
+      "label": "Pre-French Revolution (1715-1789)"
+    },
+    {
+      "id": "129bdb047e8c5b77",
+      "type": "group",
+      "x": -160,
+      "y": 1723,
+      "width": 7400,
+      "height": 478,
+      "label": "Pre-American Revolution"
+    },
+    {
+      "id": "c7e1d1d63e4b96ef",
+      "type": "group",
+      "x": 8800,
+      "y": 1174,
+      "width": 589,
+      "height": 425,
+      "color": "5",
+      "label": "French Revolution (1789-)"
+    },
+    {
+      "id": "81ff782604e906de",
+      "type": "text",
+      "text": "# 1760",
+      "x": 5260,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "6a2caafde20b4c3f",
+      "type": "text",
+      "text": "# 1749",
+      "x": 3940,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "65dd31a3eb2cd4ae",
+      "type": "text",
+      "text": "# 1747",
+      "x": 3700,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "f20edf44f4faa7ec",
+      "type": "text",
+      "text": "# 1757",
+      "x": 4900,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "5e2bc95215bfdc6f",
+      "type": "text",
+      "text": "# 1756",
+      "x": 4780,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "b32a626cdf970d83",
+      "type": "text",
+      "text": "# [[Seven Years' War]]",
+      "x": 5140,
+      "y": 1458,
+      "width": 600,
+      "height": 416,
+      "color": "1"
+    },
+    {
+      "id": "0d20af984464967a",
+      "type": "text",
+      "text": "# 1746",
+      "x": 3580,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "c430a72a3d84b637",
+      "type": "text",
+      "text": "# 1745",
+      "x": 3460,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "b739364db976a65a",
+      "type": "text",
+      "text": "# 1744",
+      "x": 3340,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "72bbeb8e7bf41d0f",
+      "type": "text",
+      "text": "# 1743",
+      "x": 3220,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "0f87f486d22cc087",
+      "type": "text",
+      "text": "# 1736",
+      "x": 2380,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "a35c068cf5a9e54c",
+      "type": "text",
+      "text": "# 1735",
+      "x": 2260,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "8b3beef9e3ac601c",
+      "type": "text",
+      "text": "# 1734",
+      "x": 2140,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "e250ada821c0d4d8",
+      "type": "text",
+      "text": "# 1752",
+      "x": 4300,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "68e21810d4cb126f",
+      "type": "text",
+      "text": "# 1751",
+      "x": 4180,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "dfe61c3a47fae205",
+      "type": "text",
+      "text": "# 1754",
+      "x": 4540,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "6ef57c237f921b1e",
+      "type": "text",
+      "text": "# 1750",
+      "x": 4060,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "18e0db59fe8d3bbc",
+      "type": "text",
+      "text": "# 1753",
+      "x": 4420,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "2d8d7a63e29c218f",
+      "type": "text",
+      "text": "# 1739",
+      "x": 2740,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "b36673e483bbe488",
+      "type": "text",
+      "text": "# 1738",
+      "x": 2620,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "788f7791f8a0e5fa",
+      "type": "text",
+      "text": "# 1731",
+      "x": 1780,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "8e3c055b7381ca17",
+      "type": "text",
+      "text": "# 1730",
+      "x": 1660,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "deb74b7f31ce901f",
+      "type": "text",
+      "text": "# 1729",
+      "x": 1540,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "5a6d6065bb455086",
+      "type": "text",
+      "text": "# 1728",
+      "x": 1420,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "8640ea933c7c7410",
+      "type": "text",
+      "text": "# 1727",
+      "x": 1300,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "6085a20ac3c82deb",
+      "type": "text",
+      "text": "# 1733",
+      "x": 2020,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "c19adae3aa8845a2",
+      "type": "text",
+      "text": "# 1732",
+      "x": 1900,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "b3cac1990e3bce2b",
+      "type": "text",
+      "text": "# 1725",
+      "x": 1060,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "e68d3d334d414af5",
+      "type": "text",
+      "text": "# 1726",
+      "x": 1180,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "b1fc9705dad8d48d",
+      "type": "text",
+      "text": "# 1737",
+      "x": 2500,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "ffc09286425149ce",
+      "type": "text",
+      "text": "# 1724",
+      "x": 940,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "e311e4db6690a5ea",
+      "type": "text",
+      "text": "# 1723",
+      "x": 820,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "fef54071452b45a6",
+      "type": "text",
+      "text": "# 1722",
+      "x": 700,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "340045df0fc29f95",
+      "type": "text",
+      "text": "# 1721",
+      "x": 580,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "9557526ea318da12",
+      "type": "text",
+      "text": "# 1720",
+      "x": 460,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "132ee8bb86cc3272",
+      "type": "text",
+      "text": "# 1718",
+      "x": 220,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "646cab7db13a8b51",
+      "type": "text",
+      "text": "# 1716",
+      "x": -20,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "5de2a99ec70eeced",
+      "type": "text",
+      "text": "# 1717",
+      "x": 100,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "c6615a20b510861a",
+      "type": "text",
+      "text": "# 1719",
+      "x": 340,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "857cbd77bb25a8fa",
+      "type": "text",
+      "text": "# 1715",
+      "x": -140,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "c880b79f1ecf04f6",
+      "type": "text",
+      "text": "# 1755",
+      "x": 4660,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "2f317855e293e711",
+      "type": "text",
+      "text": "# 1748",
+      "x": 3820,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "79f5e21ed4ddfb00",
+      "type": "file",
+      "file": "Shared Articles/French Revolution/Timeline Events.md",
+      "subpath": "#Death of Louis XIV",
+      "x": -120,
+      "y": 1273,
+      "width": 280,
+      "height": 159,
+      "color": "1"
+    },
+    {
+      "id": "a2a628cf75ab1ab1",
+      "type": "text",
+      "text": "# 1785",
+      "x": 8260,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "a5cbd3932a988b4b",
+      "type": "text",
+      "text": "# 1786",
+      "x": 8380,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "1db0ddf5cb96d3be",
+      "type": "text",
+      "text": "# 1742",
+      "x": 3100,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "329bc65a8b3ace6b",
+      "type": "text",
+      "text": "# 1741",
+      "x": 2980,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "35a4da463ec7f2ca",
+      "type": "text",
+      "text": "# 1740",
+      "x": 2860,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "f6548d06f3b8cab7",
+      "type": "file",
+      "file": "Shared Articles/French Revolution/Timeline Events.md",
+      "subpath": "#^250c1b",
+      "x": 7316,
+      "y": 1393,
+      "width": 284,
+      "height": 115
+    },
+    {
+      "id": "eff03d9e53306b4c",
+      "type": "file",
+      "file": "Shared Articles/French Revolution/Timeline Events.md",
+      "subpath": "#^4af2b7",
+      "x": 7025,
+      "y": 1472,
+      "width": 275,
+      "height": 84
+    },
+    {
+      "id": "4a4bc36e48274fd1",
+      "type": "text",
+      "text": "# 1788",
+      "x": 8620,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "e40f7c86bd608ea5",
+      "type": "file",
+      "file": "Shared Articles/French Revolution/Timeline Events.md",
+      "subpath": "#^56956a",
+      "x": 7000,
+      "y": 1297,
+      "width": 251,
+      "height": 122
+    },
+    {
+      "id": "e210ba096c09526d",
+      "type": "text",
+      "text": "# 1787",
+      "x": 8500,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "f3cab57fa75f3b0a",
+      "type": "file",
+      "file": "Shared Articles/French Revolution/Timeline Events.md",
+      "subpath": "#^b1758a",
+      "x": 7276,
+      "y": 1281,
+      "width": 288,
+      "height": 77
+    },
+    {
+      "id": "bcfefa63029278bc",
+      "type": "text",
+      "text": "# 1789",
+      "x": 8740,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "494b5dd8b34e1e8c",
+      "type": "text",
+      "text": "# 1790",
+      "x": 8860,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "81266e16feed8401",
+      "type": "text",
+      "text": "# 1778",
+      "x": 7420,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "7dd64d319ee47ece",
+      "type": "text",
+      "text": "# 1777",
+      "x": 7300,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "06da738b3c775e6b",
+      "type": "file",
+      "file": "Shared Articles/French Revolution/Timeline Events.md",
+      "subpath": "#^5cdcd9",
+      "x": 7900,
+      "y": 1247,
+      "width": 265,
+      "height": 122
+    },
+    {
+      "id": "4feddf5d080dedbb",
+      "type": "file",
+      "file": "Shared Articles/French Revolution/Timeline Events.md",
+      "subpath": "#^6c753e",
+      "x": 8143,
+      "y": 1345,
+      "width": 237,
+      "height": 178
+    },
+    {
+      "id": "76662f497b0aaf2f",
+      "type": "text",
+      "text": "# [[1787 Timeline.canvas|Timeline of France in 1787]]",
+      "x": 8412,
+      "y": 1247,
+      "width": 248,
+      "height": 98,
+      "color": "4"
+    },
+    {
+      "id": "349fbca2fd296690",
+      "type": "text",
+      "text": "# 1783",
+      "x": 8020,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "fbdf53d9fa863cde",
+      "type": "text",
+      "text": "# 1782",
+      "x": 7900,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "80844d8d6db15a27",
+      "type": "text",
+      "text": "# 1781",
+      "x": 7780,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "8f549cc6bd3e94fb",
+      "type": "text",
+      "text": "# 1784",
+      "x": 8140,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "8ebbc7f7d2884d7b",
+      "type": "text",
+      "text": "# 1780",
+      "x": 7660,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "cfd4f8d95972e7d6",
+      "type": "text",
+      "text": "# 1779",
+      "x": 7540,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "7efdccf4a3a488b8",
+      "type": "text",
+      "text": "# 1776",
+      "x": 7180,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "446c866c0075d1c6",
+      "type": "text",
+      "text": "# 1768",
+      "x": 6220,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "dbcccb8a6ad6db5e",
+      "type": "text",
+      "text": "# 1772",
+      "x": 6700,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "eac4c02c0bbb29de",
+      "type": "text",
+      "text": "# 1773",
+      "x": 6820,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "7ea30cf91f7c49f9",
+      "type": "text",
+      "text": "# 1774",
+      "x": 6940,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "dcbcb51401bfd1f8",
+      "type": "text",
+      "text": "# [[1789 Timeline.canvas|Timeline of France in 1789]]",
+      "x": 8680,
+      "y": 1247,
+      "width": 261,
+      "height": 98,
+      "color": "4"
+    },
+    {
+      "id": "e066b7decbcc7a11",
+      "type": "text",
+      "text": "# [[1788 Timeline.canvas|Timeline of France in 1788]]",
+      "x": 8536,
+      "y": 1369,
+      "width": 248,
+      "height": 98,
+      "color": "4"
+    },
+    {
+      "id": "093bb5b411ef9099",
+      "type": "file",
+      "file": "Shared Articles/French Revolution/Timeline Events.md",
+      "subpath": "#^1de917",
+      "x": 7628,
+      "y": 1223,
+      "width": 240,
+      "height": 228
+    },
+    {
+      "id": "8de92f7c10440480",
+      "type": "file",
+      "file": "Shared Articles/French Revolution/Timeline Events.md",
+      "subpath": "#^5b79da",
+      "x": 6460,
+      "y": 1228,
+      "width": 600,
+      "height": 53
+    },
+    {
+      "id": "597fb5dbe2188565",
+      "type": "file",
+      "file": "Shared Articles/French Revolution/Timeline Events.md",
+      "subpath": "#Death of Louis XV",
+      "x": 6670,
+      "y": 1358,
+      "width": 300,
+      "height": 158,
+      "color": "1"
+    },
+    {
+      "id": "f366abad6fa81d12",
+      "type": "text",
+      "text": "# 1770",
+      "x": 6460,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "ec7e77d1bc0689ad",
+      "type": "text",
+      "text": "# 1769",
+      "x": 6340,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "08b8e216189bc18b",
+      "type": "text",
+      "text": "# 1771",
+      "x": 6580,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "4129d9a60e57c85d",
+      "type": "text",
+      "text": "# 1758",
+      "x": 5020,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "cacef0451e6b2784",
+      "type": "text",
+      "text": "# 1759",
+      "x": 5140,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "841f8a50bdbf8177",
+      "type": "text",
+      "text": "# 1764",
+      "x": 5740,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "b5b57b83b8df2241",
+      "type": "text",
+      "text": "# 1765",
+      "x": 5860,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "371df2a995fa79e6",
+      "type": "text",
+      "text": "# 1766",
+      "x": 5980,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "71a5934c34a7ec02",
+      "type": "text",
+      "text": "# 1763",
+      "x": 5620,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "a20b69a814e776c6",
+      "type": "text",
+      "text": "# 1775",
+      "x": 7060,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "dc337b28f04e218b",
+      "type": "text",
+      "text": "# 1767",
+      "x": 6100,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "2a292c76e3650b62",
+      "type": "text",
+      "text": "# 1761",
+      "x": 5380,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "fd647d31bda5255c",
+      "type": "text",
+      "text": "# 1762",
+      "x": 5500,
+      "y": 1000,
+      "width": 120,
+      "height": 50
+    }
+  ],
+  "edges": [
+    {
+      "id": "84ee01cfb734b162",
+      "fromNode": "597fb5dbe2188565",
+      "fromSide": "top",
+      "toNode": "7ea30cf91f7c49f9",
+      "toSide": "bottom"
+    },
+    {
+      "id": "ca535ee07a940fb0",
+      "fromNode": "79f5e21ed4ddfb00",
+      "fromSide": "top",
+      "toNode": "857cbd77bb25a8fa",
+      "toSide": "bottom"
+    },
+    {
+      "id": "ac3ab096475a7be2",
+      "fromNode": "e40f7c86bd608ea5",
+      "fromSide": "top",
+      "toNode": "7ea30cf91f7c49f9",
+      "toSide": "bottom"
+    },
+    {
+      "id": "99ea75447937b91b",
+      "fromNode": "eff03d9e53306b4c",
+      "fromSide": "top",
+      "toNode": "7ea30cf91f7c49f9",
+      "toSide": "bottom"
+    },
+    {
+      "id": "319da7ec3305c9d8",
+      "fromNode": "f3cab57fa75f3b0a",
+      "fromSide": "top",
+      "toNode": "7efdccf4a3a488b8",
+      "toSide": "bottom"
+    },
+    {
+      "id": "13d51f1d4adab7a5",
+      "fromNode": "f6548d06f3b8cab7",
+      "fromSide": "top",
+      "toNode": "7efdccf4a3a488b8",
+      "toSide": "bottom"
+    },
+    {
+      "id": "9876a30c3bd6c0a9",
+      "fromNode": "093bb5b411ef9099",
+      "fromSide": "top",
+      "toNode": "80844d8d6db15a27",
+      "toSide": "bottom"
+    },
+    {
+      "id": "706f258748a2d387",
+      "fromNode": "f366abad6fa81d12",
+      "fromSide": "bottom",
+      "toNode": "8de92f7c10440480",
+      "toSide": "top",
+      "toEnd": "none"
+    },
+    {
+      "id": "bb237fc605b0c095",
+      "fromNode": "7ea30cf91f7c49f9",
+      "fromSide": "bottom",
+      "toNode": "8de92f7c10440480",
+      "toSide": "top",
+      "toEnd": "none"
+    },
+    {
+      "id": "6794bd395d597fd2",
+      "fromNode": "dcbcb51401bfd1f8",
+      "fromSide": "top",
+      "toNode": "bcfefa63029278bc",
+      "toSide": "bottom"
+    },
+    {
+      "id": "cc7984a4346d49c6",
+      "fromNode": "76662f497b0aaf2f",
+      "fromSide": "top",
+      "toNode": "e210ba096c09526d",
+      "toSide": "bottom"
+    },
+    {
+      "id": "63ca6b365084c3ca",
+      "fromNode": "06da738b3c775e6b",
+      "fromSide": "top",
+      "toNode": "349fbca2fd296690",
+      "toSide": "bottom"
+    },
+    {
+      "id": "bc31a394008c8dff",
+      "fromNode": "4feddf5d080dedbb",
+      "fromSide": "top",
+      "toNode": "a5cbd3932a988b4b",
+      "toSide": "bottom"
+    },
+    {
+      "id": "f6cfb576b1e14f9b",
+      "fromNode": "e066b7decbcc7a11",
+      "fromSide": "top",
+      "toNode": "4a4bc36e48274fd1",
+      "toSide": "bottom"
+    }
+  ],
+  "metadata": {}
 }

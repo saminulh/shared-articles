@@ -9,7 +9,6 @@ tags:
   - communism
   - marxism
 ---
-
 # Sammy (03/15/24)
 
 ### Preface to the 1882 Russian Edition:

@@ -3,154 +3,84 @@ pdf: "[[democracy-sourcebook.pdf#page=31&selection=0,0,0,45|democracy-sourcebook
 authors:
   - "[[Amy Gutmann]]"
   - "[[Dennis Thompson]]"
-date: 
+date: 1998-01-21
 tags:
   - democracy
 ---
+# Sammy (read on 04/12/24)
+## Notes
+> Along with a growing number of other political theorists, we call this conception deliberative democracy. The core idea is simple: when citizens or their representatives disagree morally, they should continue to reason together to reach mutually acceptable decisions. But the meaning and implications of the idea are complex. . . . ([[democracy-sourcebook.pdf#page=31&selection=33,0,39,47|page 31]])
+- This is in contrast to [[Minimalist Conception of Democracy - Adam Przeworski#^7f06fe|this]] and [[Minimalist Conception of Democracy - Adam Przeworski#^ca27d1|this]] from Przeworski essentially taking for granted that fundamental conflicts will always remain and even grow worse through deliberation.
+- Also, what does "reason together" mean exactly? If we begin from fundamentally different axioms, what hope is there for reason to help us come together? Maybe the claim is that reason can help us find a compromise, but it's not clear to me that that always exists (e.g., abortion).
 
-### General Reading Notes
+> Deliberative democracy involves reasoning about politics, and nothing has been more con- troversial in political philosophy than the nature of reason in politics ([[democracy-sourcebook.pdf#page=31&selection=40,0,49,21|page 31]])
+- Interesting point, I wonder if they mean the normative role of reason in politics or the practical/de facto role.
 
-> Along with a growing number of other political theorists, we call this conception deliberative democracy. The core idea is simple: when citizens or their representatives disagree morally, they should continue to reason together to reach mutually acceptable decisions. But the meaning and implications of the idea are complex. . . .
+>  One of our main aims in this book is to cast doubt on the dichotomy between policies and process. ([[democracy-sourcebook.pdf#page=32&selection=13,30,16,13|page 32]])
+- Vaguely reminds me of how you have described [[Democratic Justice - Ian Shapiro]].
 
-[[democracy-sourcebook.pdf#page=31&selection=33,0,39,47|democracy-sourcebook, page 31]]
+> Deliberation is not only a means to an end, but also a means for deciding what means are morally required to pursue our common ends. . . . ([[democracy-sourcebook.pdf#page=32&selection=37,28,40,28|page 32]])
 
-This is in contrast to [[Minimalist Conception of Democracy - Adam Przeworski#^7f06fe|this]] and [[Minimalist Conception of Democracy - Adam Przeworski#^ca27d1|this]] from Przeworski essentially taking for granted that fundamental conflicts will always remain and even grow worse through deliberation.
+> In the standard theories of democracy —proceduralism and constitutionalism—deliberation likewise receives little attention. ([[democracy-sourcebook.pdf#page=32&selection=57,13,63,43|page 32]])
+- It seems to me like deliberation could be subsumed by proceduralism?
 
-Also, what does "reason together" mean exactly? If we begin from fundamentally different axioms, what hope is there for reason to help us come together? Maybe the claim is that reason can help us find a compromise, but it's not clear to me that that always exists (e.g., abortion).
+> In the same spirit, Ju¨ rgen Habermas identifies de- liberative democracy with the idea of a ‘‘decentered society’’ in ‘‘Three Normative Models of Democracy,’’ Constellations, 1 (April 1994) ([[democracy-sourcebook.pdf#page=33&selection=159,3,165,16|page 33]])
+- Could be an interesting book
 
-> Deliberative democracy involves reasoning about politics, and nothing has been more con- troversial in political philosophy than the nature of reason in politics
+> Perhaps because he is content with deliberation among political elites, Bessette is skeptical about publicity and argues in favor of secrecy (pp. 208–209) ([[democracy-sourcebook.pdf#page=33&selection=227,8,229,51|page 33]])
 
-[[democracy-sourcebook.pdf#page=31&selection=40,0,49,21|democracy-sourcebook, page 31]]
+> \[Generality:\] Moral arguments apply to everyone who is similarly situated in the morally relevant respects. ([[democracy-sourcebook.pdf#page=33&selection=129,0,130,44|page 33]])
 
-Interesting point, I wonder if they mean the normative role of reason in politics or the practical/de facto role.
+> In some familiar theories of justice \[such as Rawls\], moral claims are constructed as hypothetical agreements among individuals who are not accountable to anyone and who are assumed to be living in a just society. ([[democracy-sourcebook.pdf#page=35&selection=136,42,150,1|page 35]])
+- Does this really characterize Rawls accurately?
 
->  One of our main aims in this book is to cast doubt on the dichotomy between policies and process.
+> Actual deliberation has an important advantage over hypothetical agreement: it encourages citi- zens to face up to their actual problems by lis- tening to one another’s moral claims rather than concluding (on the basis of only a thought ex- periment) that their fellow citizens would agree with them on all matters of justice if they were all living in an ideal society. ([[democracy-sourcebook.pdf#page=35&selection=160,0,171,31|page 35]])
+- This is probably true to some extent though lol
 
-[[democracy-sourcebook.pdf#page=32&selection=13,30,16,13|democracy-sourcebook, page 32]]
+> Deliberative disagreements lie in the depths be- tween simple misunderstanding and immutable irreconcilability. . . . ([[democracy-sourcebook.pdf#page=35&selection=120,0,122,24|page 35]])
+- Not clear to me that real disagreements lie in this area.
 
-Vaguely reminds me of how you have described [[Democratic Justice - Ian Shapiro]].
+> Brian Barry shows how these approaches, when com- bined to evaluate a theory of justice, ‘‘provide a check on one another,’’ in Justice as Impartiality  ([[democracy-sourcebook.pdf#page=36&selection=132,0,137,1|page 36]])
+- Seems interesting
 
-> Deliberation is not only a means to an end, but also a means for deciding what means are morally required to pursue our common ends. . . .
+> ‘‘We ac- cept the will of the majority at the end of an electoral process that has been fairly and correctly carried out, but even when we accept the legitimacy of the process we may have grave doubts about the rationality of the outcome.’ ([[democracy-sourcebook.pdf#page=36&selection=206,46,211,9|page 36]])
+- I'm getting more and more weirded out with how "rationality" is used. Especially in this quote it seems like rationality is being used as a stand-in for good (as there's no other criteria provided). In what sense would we call an outcome rational or irrational? If all the whites come together vote to enslave the blacks, is this somehow irrational?
 
-[[democracy-sourcebook.pdf#page=32&selection=37,28,40,28|democracy-sourcebook, page 32]]
+>  Our argument is rather that in the absence of robust deliberation in democracy, citizens cannot even provisionally justify many controversial procedures and constitutional rights to one another. ([[democracy-sourcebook.pdf#page=37&selection=57,12,77,22|page 37]])
 
-> In the standard theories of democracy —proceduralism and constitutionalism—delib- eration likewise receives little attention.
-
-[[democracy-sourcebook.pdf#page=32&selection=57,13,63,43|democracy-sourcebook, page 32]]
-
-It seems to me like deliberation could be subsumed by proceduralism?
-
-> In the same spirit, Ju¨ rgen Habermas identifies de- liberative democracy with the idea of a ‘‘decentered society’’ in ‘‘Three Normative Models of Democracy,’’ Constellations, 1 (April 1994)
-
-[[democracy-sourcebook.pdf#page=33&selection=159,3,165,16|democracy-sourcebook, page 33]]
-
-Could be an interesting book
-
-> Perhaps because he is content with deliberation among political elites, Bessette is skeptical about pub- licity and argues in favor of secrecy (pp. 208–209)
-
-[[democracy-sourcebook.pdf#page=33&selection=227,8,229,51|democracy-sourcebook, page 33]]
-
-> \[Generality:\] Moral arguments apply to everyone who is similarly situated in the morally relevant respects.
-
-[[democracy-sourcebook.pdf#page=33&selection=129,0,130,44|democracy-sourcebook, page 33]]
-
-> In some familiar theories of justice \[such as Rawls\], moral claims are constructed as hypothetical agreements among individuals who are not accountable to anyone and who are assumed to be living in a just society.
-
-[[democracy-sourcebook.pdf#page=35&selection=136,42,150,1|democracy-sourcebook, page 35]]
-
-Does this really characterize Rawls accurately?
-
-> Actual deliberation has an important advantage over hypothetical agreement: it encourages citi- zens to face up to their actual problems by lis- tening to one another’s moral claims rather than concluding (on the basis of only a thought ex- periment) that their fellow citizens would agree with them on all matters of justice if they were all living in an ideal society.
-
-[[democracy-sourcebook.pdf#page=35&selection=160,0,171,31|democracy-sourcebook, page 35]]
-
-This is probably true to some extent though lol
-
-> Deliberative disagreements lie in the depths be- tween simple misunderstanding and immutable irreconcilability. . . .
-
-[[democracy-sourcebook.pdf#page=35&selection=120,0,122,24|democracy-sourcebook, page 35]]
-
-Not clear to me that real disagreements lie in this area.
-
-> Brian Barry shows how these approaches, when com- bined to evaluate a theory of justice, ‘‘provide a check on one another,’’ in Justice as Impartiality 
-
-[[democracy-sourcebook.pdf#page=36&selection=132,0,137,1|democracy-sourcebook, page 36]]
-
-Seems interesting
-
-> ‘‘We ac- cept the will of the majority at the end of an electoral process that has been fairly and correctly carried out, but even when we accept the legitimacy of the process we may have grave doubts about the rationality of the outcome.’
-
-[[democracy-sourcebook.pdf#page=36&selection=206,46,211,9|democracy-sourcebook, page 36]]
-
-I'm getting more and more weirded out with how "rationality" is used. Especially in this quote it seems like rationality is being used as a stand-in for good (as there's no other criteria provided). In what sense would we call an outcome rational or irrational? If all the whites come together vote to enslave the blacks, is this somehow irrational?
-
->  Our argument is rather that in the absence of robust deliberation in democracy, citizens cannot even provisionally justify many controversial procedures and constitutional rights to one another.
-
-[[democracy-sourcebook.pdf#page=37&selection=57,12,77,22|democracy-sourcebook, page 37]]
-
-> When citizens deliberate in democratic politics, they express and respect their status as political equals even as they con- tinue to disagree about important matters of public policy.
-
-[[democracy-sourcebook.pdf#page=37&selection=80,21,84,14|democracy-sourcebook, page 37]]
-
-This seems to presume that they respect each other as political equals to begin with, but that is highly unclear.
+> When citizens deliberate in democratic politics, they express and respect their status as political equals even as they con- tinue to disagree about important matters of public policy. ([[democracy-sourcebook.pdf#page=37&selection=80,21,84,14|page 37]])
+- This seems to presume that they respect each other as political equals to begin with, but that is highly unclear.
 ### Reasoning Principles in Deliberative Democracy
 
-> The conception consists of three principles—reciprocity, publicity, and accountability—that regulate the process of pol- itics, and three others—basic liberty, basic op- portunity, and fair opportunity—that govern the content of policies. 
+> The conception consists of three principles—reciprocity, publicity, and accountability—that regulate the process of pol- itics, and three others—basic liberty, basic op- portunity, and fair opportunity—that govern the content of policies.  ([[democracy-sourcebook.pdf#page=32&selection=76,0,81,21|page 32]])
 
-[[democracy-sourcebook.pdf#page=32&selection=76,0,81,21|democracy-sourcebook, page 32]]
+> Taken together the principles constitute a pro- cess that seeks deliberative agreement—on poli- cies that can be provisionally justified to the citizens who are bound by them.  ([[democracy-sourcebook.pdf#page=35&selection=83,0,86,32|page 35]])
 
-> Taken together the principles constitute a pro- cess that seeks deliberative agreement—on poli- cies that can be provisionally justified to the citizens who are bound by them. 
-
-[[democracy-sourcebook.pdf#page=35&selection=83,0,86,32|democracy-sourcebook, page 35]]
-
-> When citizens and accountable o‰cials disagree, and also recognize that they are seeking deliberative agreement, they remain willing to argue with one another with the aim of achieving provisionally justifi- able policies that they all can mutually recognize as such
-
-[[democracy-sourcebook.pdf#page=35&selection=89,27,105,7|democracy-sourcebook, page 35]]
+> When citizens and accountable o‰cials disagree, and also recognize that they are seeking deliberative agreement, they remain willing to argue with one another with the aim of achieving provisionally justifi- able policies that they all can mutually recognize as such ([[democracy-sourcebook.pdf#page=35&selection=89,27,105,7|page 35]])
 #### Reciprocity
 
-> When citizens reason reciprocally, they seek fair terms of social cooperation for their own sake; they try to find mutually acceptable ways of resolving moral disagreements.
+> When citizens reason reciprocally, they seek fair terms of social cooperation for their own sake; they try to find mutually acceptable ways of resolving moral disagreements. ([[democracy-sourcebook.pdf#page=31&selection=94,22,97,47|page 31]])
+- To flesh this out for myself: reciprocal thinking -> thinking about universal policies that you and everyone else will abide by -> finding policies that everyone will agree to (under the assumption that everyone will follow it). I feel as though I might be misunderstanding this.
 
-[[democracy-sourcebook.pdf#page=31&selection=94,22,97,47|democracy-sourcebook, page 31]]
+> The precise content of reciprocity is di‰cult to determine in theory, but its general counte- nance is familiar enough in practice ([[democracy-sourcebook.pdf#page=31&selection=98,0,100,36|page 31]])
 
-To flesh this out for myself: reciprocal thinking -> thinking about universal policies that you and everyone else will abide by -> finding policies that everyone will agree to (under the assumption that everyone will follow it). I feel as though I might be misunderstanding this.
+> When a disagreement is not deliberative (for example, about a policy to legalize discrimina- tion against blacks and women), citizens do not have any obligations of mutual respect toward their opponents. ([[democracy-sourcebook.pdf#page=31&selection=138,0,150,10|page 31]])
+- The line feels very blurry between what is reciprocal vs. not, especially in this discrimination case. Some kinds of discrimination are obviously okay; for example, a progressive tax policy is essentially discriminatory against the rich. How do we disambiguate this kind of discrimination (and the form of reasoning to support it) from those against blacks and women?
+- Okay, actually this quote says "deliberative" not "reciprocal". It's unclear then to me why such a policy is inherently non-deliberative? Can't you have discussion about these sorts of laws (as they did pre-Civil War)?
 
-> The precise content of reciprocity is di‰cult to determine in theory, but its general counte- nance is familiar enough in practice
+> Reciprocity asks us to appeal to reasons that are shared or could come to be shared by our fellow citizens. . . ([[democracy-sourcebook.pdf#page=34&selection=90,0,104,24|page 34]])
 
-[[democracy-sourcebook.pdf#page=31&selection=98,0,100,36|democracy-sourcebook, page 31]]
-
-> When a disagreement is not deliberative (for example, about a policy to legalize discrimina- tion against blacks and women), citizens do not have any obligations of mutual respect toward their opponents.
-
-[[democracy-sourcebook.pdf#page=31&selection=138,0,150,10|democracy-sourcebook, page 31]]
-
-The line feels very blurry between what is reciprocal vs. not, especially in this discrimination case. Some kinds of discrimination are obviously okay; for example, a progressive tax policy is essentially discriminatory against the rich. How do we disambiguate this kind of discrimination (and the form of reasoning to support it) from those against blacks and women?
-
-Okay, actually this quote says "deliberative" not "reciprocal". It's unclear then to me why such a policy is inherently non-deliberative? Can't you have discussion about these sorts of laws (as they did pre-Civil War)?
-
-> Reciprocity asks us to appeal to reasons that are shared or could come to be shared by our fellow citizens. . .
-
-[[democracy-sourcebook.pdf#page=34&selection=90,0,104,24|democracy-sourcebook, page 34]]
-
-> Reciprocity asks that our empirical claims in political argument be consistent with reliable methods of inquiry, as these methods are avail- able to us here and now, not for all times and all places. Neither relativity nor uncertainty is grounds for abandoning the most reliable meth- ods of inquiry at our collective disposal. 
-
-[[democracy-sourcebook.pdf#page=34&selection=141,0,157,43|democracy-sourcebook, page 34]]
-
-How and why does this follow? I could especially see uncertainty as grounds for abandoning certain methods if they are so speculative as to be worthless (e.g., effective altruists' insane calculations and insane policies as a result).
+> Reciprocity asks that our empirical claims in political argument be consistent with reliable methods of inquiry, as these methods are avail- able to us here and now, not for all times and all places. Neither relativity nor uncertainty is grounds for abandoning the most reliable meth- ods of inquiry at our collective disposal.  ([[democracy-sourcebook.pdf#page=34&selection=141,0,157,43|page 34]])
+- How and why does this follow? I could especially see uncertainty as grounds for abandoning certain methods if they are so speculative as to be worthless (e.g., effective altruists' insane calculations and insane policies as a result).
 #### Publicity
 
-> Moral conflicts in politics typically take place in public forums or are intended for dissemination in public forums. . .
-
-[[democracy-sourcebook.pdf#page=35&selection=0,0,14,11|democracy-sourcebook, page 35]]
+> Moral conflicts in politics typically take place in public forums or are intended for dissemination in public forums. . . ([[democracy-sourcebook.pdf#page=35&selection=0,0,14,11|page 35]])
 #### Accountability
 
-> One common way in which public officials o¤er an account of their actions is by responding to challenges from reporters
+> One common way in which public officials o¤er an account of their actions is by responding to challenges from reporters ([[democracy-sourcebook.pdf#page=35&selection=21,9,39,39|page 35]])
 
-[[democracy-sourcebook.pdf#page=35&selection=21,9,39,39|democracy-sourcebook, page 35]]
-
-> Accountability is ultimately to citizens, who not only vote for or against the president but also speak their minds between elections, often through organized groups and intermedi- ary institutions.
-
-[[democracy-sourcebook.pdf#page=35&selection=42,7,46,17|democracy-sourcebook, page 35]]
-### Overall Thoughts
-
+> Accountability is ultimately to citizens, who not only vote for or against the president but also speak their minds between elections, often through organized groups and intermedi- ary institutions. ([[democracy-sourcebook.pdf#page=35&selection=42,7,46,17|page 35]])
+## Overall Thoughts
 Overall I'm a bit unclear what is being argued in this article. I guess the main thesis is that citizen deliberation is a necessary component to a democracy and merely considering the procedures and constitution doesn't suffice? It's a bit weird to me because it sort of feels like deliberation is, or at least can be, baked into these other conceptions. For example, Schumpeter's notion of competing parties presumably involves some amount of deliberation in the process of the competition.
 
 Maybe one value of this conception could be how we make disagreements fall in the realm of "deliberative" rather than "irreconcilable," because in our polarized climate this notion of deliberative democracy seems useless otherwise.
