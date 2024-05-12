@@ -208,7 +208,7 @@ This is pretty interesting.
 
 ## Overall Thoughts
 
-Firstly, one difference in framing I wanted to point about between Schumpeter/Przeworksi's minimalists conception and Diamond's substantive conception is that in the minimalist conception they seem to identify a minimal definition with good properties and then argue that its good (worth protecting) whereas Diamond seems to start from the normative claim that "democracy is good" and then find the definition which "captures" what that means. 
+Firstly, one difference in framing I wanted to point about between Schumpeter/Przeworksi's minimalists conception and Diamond's substantive conception is that in the minimalist conception they seem to identify a minimal definition with good properties and then argue that its good (worth protecting) whereas Diamond seems to start from the normative claim that "democracy is good" and then find the definition which "captures" what that means.  ^3d76e3
 
 Secondly, Diamond's conditions for democracy do not include all desirable properties of society (as in Rousseau) but only those he deems necessary to achieve a certainly level of "democraticness" throughout society. 
 
