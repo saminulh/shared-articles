@@ -3,11 +3,22 @@ source_link: https://philpapers.org/rec/SHAEOD-5
 pdf: "[[essays_on_democracy_and_disagreement.pdf#page=41&selection=0,1,4,37|essays_on_democracy_and_disagreement, page 41]]"
 authors:
   - "[[Ian Shapiro]]"
+date: 1999-08-26
 tags:
   - democracy
 ---
 # Sammy (unread)
+## Highlights
+> Many of the substantive arguments in Democracy and Disagreement resonate favorably with me, but it should be said that this is not a particularly de- manding test.
 
+^26dbe1
+
+[[essays_on_democracy_and_disagreement.pdf#page=41&selection=10,0,17,13|essays_on_democracy_and_disagreement, page 41]]
+## Thoughts
+- Re [[#^26dbe1]]: This is very funny to me for some reason.
+- Re [[#^9e4152]]: Definitely agree with this. I am a bit surprised that he doesn't mention that different groups can have irreconcilably different moral values, making deliberation a non-starter. 
+	- Based on the subsequent sentences, it seems Shapiro is going to make the claim that interests and power dominate even these considerations in the political realm (although the ideas that the interests in power espouse are not necessarily self-interested).
+## Final Thoughts
 # David (12/05/24)
 
 This article is a critical response to [[Democracy and Disagreement - Amy Gutmann and Dennis Thompson]] by Ian Shapiro.
@@ -21,6 +32,8 @@ This article is a critical response to [[Democracy and Disagreement - Amy Gutman
 Shapiro agrees that political divides may be more susceptible to rational analysis then we suspect but that deliberation (in the sense of Gutmann and Thompson) is unlikely to resolve these disputes. 
 
 >In my view, Gutmann and Thompson's emphasis on deliberation attends too little to the degree to which moral disagreements in politics are shaped by differences of interest and power.
+
+^9e4152
 
 [[essays_on_democracy_and_disagreement.pdf#page=42&selection=21,44,25,80|essays_on_democracy_and_disagreement, page 42]]
 
