@@ -22,6 +22,7 @@
 
 **August 20, 1786**: [[Charles Alexandre de Calonne|Calonne]] announces to [[Louis XVI]] that the state's financial apparatus was broken and needed to be completely reformed. ^6c753e
 
+**DATE**: EVENT
 # Major Events
 
 ## Death of Louis XIV
