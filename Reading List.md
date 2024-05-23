@@ -58,9 +58,6 @@
 
 ## Theories of Conservatism
 
-- 
-
-
 1. The Rhetoric of Reaction by Albert Hirschman (moderate liberal, also wrote "Exit, Voice, Loyalty")
 2. The Reactionary Mind: Conservatism from Edmund Burke to Sarah Palin by Cory Robin (leftist)
 
