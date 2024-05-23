@@ -1,200 +1,29 @@
 {
-  "nodes": [
-    {
-      "id": "38b92339ca349898",
-      "type": "text",
-      "text": "### September",
-      "x": 339,
-      "y": 120,
-      "width": 166,
-      "height": 50
-    },
-    {
-      "id": "b21c9889891172fe",
-      "type": "text",
-      "text": "### October",
-      "x": 505,
-      "y": 120,
-      "width": 166,
-      "height": 50
-    },
-    {
-      "id": "740b0be5dead15b9",
-      "type": "text",
-      "text": "### November",
-      "x": 671,
-      "y": 120,
-      "width": 166,
-      "height": 50
-    },
-    {
-      "id": "864dfb104ded9cc2",
-      "type": "text",
-      "text": "### December",
-      "x": 837,
-      "y": 120,
-      "width": 166,
-      "height": 50
-    },
-    {
-      "id": "9aa20f62a26bf239",
-      "type": "text",
-      "text": "### May",
-      "x": -325,
-      "y": 120,
-      "width": 166,
-      "height": 50
-    },
-    {
-      "id": "ca6b8651aa210fcb",
-      "type": "text",
-      "text": "### June",
-      "x": -159,
-      "y": 120,
-      "width": 166,
-      "height": 50
-    },
-    {
-      "id": "a7864e18d62d63c1",
-      "type": "text",
-      "text": "### July",
-      "x": 7,
-      "y": 120,
-      "width": 166,
-      "height": 50
-    },
-    {
-      "id": "662370fb98d4cb2a",
-      "type": "text",
-      "text": "### August",
-      "x": 173,
-      "y": 120,
-      "width": 166,
-      "height": 50
-    },
-    {
-      "id": "265dc62aa59bc299",
-      "type": "text",
-      "text": "### January",
-      "x": -989,
-      "y": 120,
-      "width": 166,
-      "height": 50
-    },
-    {
-      "id": "f6df930e804cb1e8",
-      "type": "text",
-      "text": "### February",
-      "x": -823,
-      "y": 120,
-      "width": 166,
-      "height": 50
-    },
-    {
-      "id": "dca93923f2cf126e",
-      "type": "text",
-      "text": "### March",
-      "x": -657,
-      "y": 120,
-      "width": 166,
-      "height": 50
-    },
-    {
-      "id": "cdb2d9b1d37f6ff3",
-      "type": "text",
-      "text": "### April",
-      "x": -491,
-      "y": 120,
-      "width": 166,
-      "height": 50
-    },
-    {
-      "id": "43b10b16876335b9",
-      "type": "file",
-      "file": "Shared Articles/French Revolution/Louis XVI.md",
-      "subpath": "#^2629c9",
-      "x": -574,
-      "y": 346,
-      "width": 279,
-      "height": 164
-    },
-    {
-      "id": "997eda724c38551f",
-      "type": "text",
-      "text": "# Day of the Tiles\n**June 7, 1788**\n\nDay of civil unrest in Grenoble.",
-      "x": -242,
-      "y": 332,
-      "width": 279,
-      "height": 138,
-      "color": "1"
-    },
-    {
-      "id": "01ea1ba01ba391a2",
-      "type": "file",
-      "file": "Shared Articles/French Revolution/Étienne Charles de Loménie de Brienne.md",
-      "subpath": "#^cba871",
-      "x": 388,
-      "y": 489,
-      "width": 400,
-      "height": 139
-    },
-    {
-      "id": "d87d4b55dcbf159e",
-      "type": "file",
-      "file": "Shared Articles/French Revolution/Louis XVI.md",
-      "subpath": "#^b4824f",
-      "x": 7,
-      "y": 510,
-      "width": 366,
-      "height": 118
-    },
-    {
-      "id": "91fd6b432032285e",
-      "type": "file",
-      "file": "Shared Articles/French Revolution/Louis XVI.md",
-      "subpath": "#^af5fe2",
-      "x": 90,
-      "y": 346,
-      "width": 366,
-      "height": 96
-    }
-  ],
-  "edges": [
-    {
-      "id": "808baa7a4a130fd0",
-      "fromNode": "01ea1ba01ba391a2",
-      "fromSide": "top",
-      "toNode": "662370fb98d4cb2a",
-      "toSide": "bottom"
-    },
-    {
-      "id": "bc069856d18633b3",
-      "fromNode": "43b10b16876335b9",
-      "fromSide": "top",
-      "toNode": "9aa20f62a26bf239",
-      "toSide": "bottom"
-    },
-    {
-      "id": "695a1203608dfd2c",
-      "fromNode": "997eda724c38551f",
-      "fromSide": "top",
-      "toNode": "ca6b8651aa210fcb",
-      "toSide": "bottom"
-    },
-    {
-      "id": "c892f2c8695e6425",
-      "fromNode": "d87d4b55dcbf159e",
-      "fromSide": "top",
-      "toNode": "662370fb98d4cb2a",
-      "toSide": "bottom"
-    },
-    {
-      "id": "125949f7e3875124",
-      "fromNode": "91fd6b432032285e",
-      "fromSide": "top",
-      "toNode": "662370fb98d4cb2a",
-      "toSide": "bottom"
-    }
-  ],
-  "metadata": {}
+	"nodes":[
+		{"id":"38b92339ca349898","type":"text","text":"### September","x":339,"y":120,"width":166,"height":50},
+		{"id":"b21c9889891172fe","type":"text","text":"### October","x":505,"y":120,"width":166,"height":50},
+		{"id":"740b0be5dead15b9","type":"text","text":"### November","x":671,"y":120,"width":166,"height":50},
+		{"id":"864dfb104ded9cc2","type":"text","text":"### December","x":837,"y":120,"width":166,"height":50},
+		{"id":"9aa20f62a26bf239","type":"text","text":"### May","x":-325,"y":120,"width":166,"height":50},
+		{"id":"ca6b8651aa210fcb","type":"text","text":"### June","x":-159,"y":120,"width":166,"height":50},
+		{"id":"a7864e18d62d63c1","type":"text","text":"### July","x":7,"y":120,"width":166,"height":50},
+		{"id":"662370fb98d4cb2a","type":"text","text":"### August","x":173,"y":120,"width":166,"height":50},
+		{"id":"265dc62aa59bc299","type":"text","text":"### January","x":-989,"y":120,"width":166,"height":50},
+		{"id":"f6df930e804cb1e8","type":"text","text":"### February","x":-823,"y":120,"width":166,"height":50},
+		{"id":"dca93923f2cf126e","type":"text","text":"### March","x":-657,"y":120,"width":166,"height":50},
+		{"id":"cdb2d9b1d37f6ff3","type":"text","text":"### April","x":-491,"y":120,"width":166,"height":50},
+		{"id":"43b10b16876335b9","type":"file","file":"Shared Articles/French Revolution/Louis XVI.md","subpath":"#^2629c9","x":-574,"y":346,"width":279,"height":164},
+		{"id":"997eda724c38551f","type":"text","text":"# Day of the Tiles\n**June 7, 1788**\n\nDay of civil unrest in Grenoble.","x":-242,"y":332,"width":279,"height":138,"color":"1"},
+		{"id":"01ea1ba01ba391a2","type":"file","file":"Shared Articles/French Revolution/Étienne Charles de Loménie de Brienne.md","subpath":"#^cba871","x":388,"y":489,"width":400,"height":139},
+		{"id":"d87d4b55dcbf159e","type":"file","file":"Shared Articles/French Revolution/Louis XVI.md","subpath":"#^b4824f","x":7,"y":510,"width":366,"height":118},
+		{"id":"91fd6b432032285e","type":"file","file":"Shared Articles/French Revolution/Louis XVI.md","subpath":"#^af5fe2","x":90,"y":346,"width":366,"height":96}
+	],
+	"edges":[
+		{"id":"808baa7a4a130fd0","fromNode":"01ea1ba01ba391a2","fromSide":"top","toNode":"662370fb98d4cb2a","toSide":"bottom"},
+		{"id":"bc069856d18633b3","fromNode":"43b10b16876335b9","fromSide":"top","toNode":"9aa20f62a26bf239","toSide":"bottom"},
+		{"id":"695a1203608dfd2c","fromNode":"997eda724c38551f","fromSide":"top","toNode":"ca6b8651aa210fcb","toSide":"bottom"},
+		{"id":"c892f2c8695e6425","fromNode":"d87d4b55dcbf159e","fromSide":"top","toNode":"662370fb98d4cb2a","toSide":"bottom"},
+		{"id":"125949f7e3875124","fromNode":"91fd6b432032285e","fromSide":"top","toNode":"662370fb98d4cb2a","toSide":"bottom"}
+	],
+	"metadata":{}
 }
