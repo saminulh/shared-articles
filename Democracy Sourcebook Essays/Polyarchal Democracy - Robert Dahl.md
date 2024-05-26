@@ -7,6 +7,39 @@ tags:
   - democracy
 ---
 # Sammy (Unread)
+## Excerpts
+> Suppose we observe that a majority prefers x to y, and x happens to be selected as government policy. Yet it may be that among the majority is a dictator; if he were in the minority, then y would be selected.
+
+^48d085
+
+[[democracy-sourcebook.pdf#page=62&selection=10,24,29,18|democracy-sourcebook, page 62]]
+- A scenario where it’s hard to tell if the system is truly democratic
+
+>  A totalitarian plebiscite might meet—and indeed in practice evidently often has met—these three conditions better than a national election or legislative de- cision in countries that most Western political scientists would call democratic. The crux of the problem is in our first question, what we take to constitute an expression of individual preference.
+
+[[democracy-sourcebook.pdf#page=63&selection=24,33,31,50|democracy-sourcebook, page 63]]
+- The democratic procedures outlined in [[#^6c4d73]] are often met moreso in dictatorships than democracies.
+
+> 4. Any member who perceives a set of alterna- tives, at least one of which he regards as pref- erable to any of the alternatives presently scheduled, can insert his preferred alternative(s) among those scheduled for voting. . . . \[W\]e must lay down a fifth condition operating in the prevoting period. 5. All individuals possess identical information about the alternatives
+
+[[democracy-sourcebook.pdf#page=63&selection=61,0,95,22|democracy-sourcebook, page 63]]
+- Pre-voting condition about the ability to add alternatives and the availability of information
+
+> 6. Alternatives (leaders or policies) with the greatest number of votes displace any alterna- tives (leaders or policies) with fewer votes. 7. The orders of elected o‰cials are executed.
+
+[[democracy-sourcebook.pdf#page=63&selection=107,0,120,46|democracy-sourcebook, page 63]]
+- Post-voting conditions about execution of the policies
+
+> \[The poor and unpropertied masses\] are barred by their relatively greater inactivity, by their rela- tively limited access to resources, and by Madi- son’s nicely contrived system of constitutional checks
+
+[[democracy-sourcebook.pdf#page=66&selection=27,27,31,6|democracy-sourcebook, page 66]]
+## Questions and comments
+* Re [[#^0ef49b]]: The Madisonian theory floated here is something I’ve been thinking as the most salient reason to prefer democracy over more, for example, instrumentally- or technocratically-oriented governmental models. Looking forward to finally reading those.
+* Re [[#^48d085]]: Reminds me of the “knowledge is a justified true belief” conundrum lol.
+* Re [[#^5416cc]]: Essentially the notion of exiting the political system. Also interesting that this exit need not take the form of revolution per se but also merely political apathy and disaffection.
+* Re [[#^62e963]]: Really? I would have said the exact opposite (with liberalism, thought of in this case as a social attitude/philosophy, being the “prerequisite”)
+## Final thoughts
+Dahl writes like has is an alien visiting Earth for the first time, it’s kind of fascinating. I overall like this analytical approach and he uses it well to make a good case for the liberal ideas present (namely, free expression) in our operational understanding of democracy (rather than purely procedural considerations). The constitutional stuff felt under-discussed but I’m excited to get to that part of the book. I was also interested when he brought up the problem of intensities of preferences, but it seems like we don’t get to see that in this excerpt.
 # David (Read on 11/05/24)
 
 ## Excerpts
@@ -18,7 +51,7 @@ tags:
 
 > These are not, however, mutually exclusive methods. And we shall see that if we begin by employing the first method it will soon become necessary to employ something rather like the second as well.
 
-[[democracy-sourcebook.pdf#page=61&selection=33,0,37,15|democracy-sourcebook, page 61]]
+ [[democracy-sourcebook.pdf#page=61&selection=33,0,37,15|democracy-sourcebook, page 61]]
 - The author states that actually the maximisation approach will necessarily lead to employing aspects of the descriptive approach. 
 
 > However, let us now pose the key question in slightly di¤erent form: What are the necessary and sufficient conditions for maximizing democracy in the real world? I shall show that the words ‘‘in the real world’’ fundamentally alter the problem.
@@ -46,11 +79,15 @@ tags:
 > 2. In tabulating these expressions (votes), the weight assigned to the choice of each individual is identical. 
 > 3. The alternative with the greatest number of votes is declared the winning choice.
 
+^6c4d73
+
 [[democracy-sourcebook.pdf#page=62&selection=124,1,135,14|democracy-sourcebook, page 62]]
 
 
 > . . . It is reasonable to suppose that the less the agreement on policy choices, the more di‰cult it will be in any organization to train members in the eight norms. For then, although the oper- ation of the rules may confer benefits on some members, it will impose severe restraints on others. If the results are severe for relatively large numbers, then it is reasonable to suppose that those who su¤er from the operation of the rules will oppose them and hence resist training in them. Thus: 
 > 6. Social training in the eight norms increases with the extent of consensus or agreement on choices among policy alternatives.
+
+^5416cc
 
 [[democracy-sourcebook.pdf#page=65&selection=15,0,40,34|democracy-sourcebook, page 65]]
 - super interesting 
@@ -63,7 +100,7 @@ tags:
 - Interesting claim ^311d29
 ## Questions and Comments 
 - Re [[#^0ef49b]]: I make a very similar point [[Defining and Developing Democracy - Larry Diamond#^3d76e3|here]] when I distinguished the approach of Schumpeter and Przeworski to the approach that Diamond used. (Although I feel that there are descriptive and maximisation elements of both) 
-- Re [[#^9db5d2]] sort of a counter claim to Zakaria. 
+- Re [[#^9db5d2]] sort of a counter claim to Zakaria.  ^62e963
 ## Overall Thoughts
 
 Dahl is an extremely analytical and thorough writer/thinker (although this makes the excerpt somewhat hard to read). As stated in the introduction I do think this excerpt does a good job of including many of the considerations in the previous excerpts and how they relate in a perhaps somewhat structural way. I'm not sure this excerpt has given me any stronger convictions but I think it provided a good framework for thinking about some of the "trade-offs" and "interactions" we have discussed/thought about in previous chapters. I think it would definitely be worth reading more about his theory of Polyarchy. 
