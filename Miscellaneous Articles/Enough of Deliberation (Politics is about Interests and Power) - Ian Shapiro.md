@@ -16,7 +16,7 @@ tags:
 [[essays_on_democracy_and_disagreement.pdf#page=41&selection=10,0,17,13|essays_on_democracy_and_disagreement, page 41]]
 ## Thoughts
 - Re [[#^26dbe1]]: This is very funny to me for some reason.
-- Re [[#^9e4152]]: Definitely agree with this. I am a bit surprised that he doesn't mention that different groups can have irreconcilably different moral values, making deliberation a non-starter. 
+- Re [[#^9e4152]]: Definitely agree with this. I am a bit surprised that he doesn't mention that different groups can have irreconcilably different moral values, making deliberation a non-starter.
 	- Based on the subsequent sentences, it seems Shapiro is going to make the claim that interests and power dominate even these considerations in the political realm (although the ideas that the interests in power espouse are not necessarily self-interested).
 ## Final Thoughts
 # David (12/05/24)

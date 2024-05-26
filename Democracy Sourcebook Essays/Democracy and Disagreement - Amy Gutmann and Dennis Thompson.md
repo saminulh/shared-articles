@@ -51,14 +51,12 @@ tags:
 > When citizens deliberate in democratic politics, they express and respect their status as political equals even as they con- tinue to disagree about important matters of public policy. ([[democracy-sourcebook.pdf#page=37&selection=80,21,84,14|page 37]])
 - This seems to presume that they respect each other as political equals to begin with, but that is highly unclear.
 ### Reasoning Principles in Deliberative Democracy
-
 > The conception consists of three principles—reciprocity, publicity, and accountability—that regulate the process of pol- itics, and three others—basic liberty, basic op- portunity, and fair opportunity—that govern the content of policies.  ([[democracy-sourcebook.pdf#page=32&selection=76,0,81,21|page 32]])
 
 > Taken together the principles constitute a pro- cess that seeks deliberative agreement—on poli- cies that can be provisionally justified to the citizens who are bound by them.  ([[democracy-sourcebook.pdf#page=35&selection=83,0,86,32|page 35]])
 
 > When citizens and accountable o‰cials disagree, and also recognize that they are seeking deliberative agreement, they remain willing to argue with one another with the aim of achieving provisionally justifi- able policies that they all can mutually recognize as such ([[democracy-sourcebook.pdf#page=35&selection=89,27,105,7|page 35]])
 #### Reciprocity
-
 > When citizens reason reciprocally, they seek fair terms of social cooperation for their own sake; they try to find mutually acceptable ways of resolving moral disagreements. ([[democracy-sourcebook.pdf#page=31&selection=94,22,97,47|page 31]])
 - To flesh this out for myself: reciprocal thinking -> thinking about universal policies that you and everyone else will abide by -> finding policies that everyone will agree to (under the assumption that everyone will follow it). I feel as though I might be misunderstanding this.
 
@@ -73,10 +71,8 @@ tags:
 > Reciprocity asks that our empirical claims in political argument be consistent with reliable methods of inquiry, as these methods are avail- able to us here and now, not for all times and all places. Neither relativity nor uncertainty is grounds for abandoning the most reliable meth- ods of inquiry at our collective disposal.  ([[democracy-sourcebook.pdf#page=34&selection=141,0,157,43|page 34]])
 - How and why does this follow? I could especially see uncertainty as grounds for abandoning certain methods if they are so speculative as to be worthless (e.g., effective altruists' insane calculations and insane policies as a result).
 #### Publicity
-
 > Moral conflicts in politics typically take place in public forums or are intended for dissemination in public forums. . . ([[democracy-sourcebook.pdf#page=35&selection=0,0,14,11|page 35]])
 #### Accountability
-
 > One common way in which public officials o¤er an account of their actions is by responding to challenges from reporters ([[democracy-sourcebook.pdf#page=35&selection=21,9,39,39|page 35]])
 
 > Accountability is ultimately to citizens, who not only vote for or against the president but also speak their minds between elections, often through organized groups and intermedi- ary institutions. ([[democracy-sourcebook.pdf#page=35&selection=42,7,46,17|page 35]])

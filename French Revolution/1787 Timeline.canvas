@@ -1,35 +1,251 @@
 {
-	"nodes":[
-		{"id":"38b92339ca349898","type":"text","text":"### September","x":339,"y":120,"width":166,"height":50},
-		{"id":"b21c9889891172fe","type":"text","text":"### October","x":505,"y":120,"width":166,"height":50},
-		{"id":"740b0be5dead15b9","type":"text","text":"### November","x":671,"y":120,"width":166,"height":50},
-		{"id":"864dfb104ded9cc2","type":"text","text":"### December","x":837,"y":120,"width":166,"height":50},
-		{"id":"9aa20f62a26bf239","type":"text","text":"### May","x":-325,"y":120,"width":166,"height":50},
-		{"id":"ca6b8651aa210fcb","type":"text","text":"### June","x":-159,"y":120,"width":166,"height":50},
-		{"id":"a7864e18d62d63c1","type":"text","text":"### July","x":7,"y":120,"width":166,"height":50},
-		{"id":"662370fb98d4cb2a","type":"text","text":"### August","x":173,"y":120,"width":166,"height":50},
-		{"id":"265dc62aa59bc299","type":"text","text":"### January","x":-989,"y":120,"width":166,"height":50},
-		{"id":"f6df930e804cb1e8","type":"text","text":"### February","x":-823,"y":120,"width":166,"height":50},
-		{"id":"dca93923f2cf126e","type":"text","text":"### March","x":-657,"y":120,"width":166,"height":50},
-		{"id":"cdb2d9b1d37f6ff3","type":"text","text":"### April","x":-491,"y":120,"width":166,"height":50},
-		{"id":"116ea522cbea163d","type":"file","file":"Shared Articles/French Revolution/1787 Assembly of Notables.md","subpath":"#^84b34f","x":-943,"y":314,"width":286,"height":128},
-		{"id":"4f7fca7614776e3c","type":"file","file":"Shared Articles/French Revolution/1787 Assembly of Notables.md","subpath":"#^680e16","x":-634,"y":378,"width":286,"height":342},
-		{"id":"3e2a7e8632c17540","type":"file","file":"Shared Articles/French Revolution/Étienne Charles de Loménie de Brienne.md","subpath":"#^1dd78c","x":-371,"y":347,"width":378,"height":124},
-		{"id":"c848be582e8f34b6","type":"file","file":"Shared Articles/French Revolution/1787 Assembly of Notables.md","subpath":"#^0c5dfa","x":-279,"y":494,"width":286,"height":226},
-		{"id":"1a5d37b9fd661fde","type":"file","file":"Shared Articles/French Revolution/Étienne Charles de Loménie de Brienne.md","subpath":"#^235d9b","x":44,"y":297,"width":378,"height":224},
-		{"id":"9420bb806b944317","type":"file","file":"Shared Articles/French Revolution/Louis XVI.md","subpath":"#^96a894","x":305,"y":560,"width":400,"height":258},
-		{"id":"2beac6bd916219f0","type":"file","file":"Shared Articles/French Revolution/Étienne Charles de Loménie de Brienne.md","subpath":"#^652712","x":720,"y":267,"width":400,"height":116},
-		{"id":"25b80709ee8f0174","type":"file","file":"Shared Articles/French Revolution/Louis XVI.md","subpath":"#^275040","x":754,"y":433,"width":400,"height":177}
-	],
-	"edges":[
-		{"id":"84242d640b78bc34","fromNode":"116ea522cbea163d","fromSide":"top","toNode":"f6df930e804cb1e8","toSide":"bottom"},
-		{"id":"56be6f4016d92768","fromNode":"4f7fca7614776e3c","fromSide":"top","toNode":"dca93923f2cf126e","toSide":"bottom"},
-		{"id":"6cf068a6c8987390","fromNode":"c848be582e8f34b6","fromSide":"top","toNode":"9aa20f62a26bf239","toSide":"bottom"},
-		{"id":"8a48f4fa34456182","fromNode":"3e2a7e8632c17540","fromSide":"top","toNode":"9aa20f62a26bf239","toSide":"bottom"},
-		{"id":"6672d565c74470c9","fromNode":"1a5d37b9fd661fde","fromSide":"top","toNode":"ca6b8651aa210fcb","toSide":"bottom"},
-		{"id":"eb0bb7dde513832c","fromNode":"2beac6bd916219f0","fromSide":"top","toNode":"740b0be5dead15b9","toSide":"bottom"},
-		{"id":"2eb633d3200cbb81","fromNode":"9420bb806b944317","fromSide":"top","toNode":"662370fb98d4cb2a","toSide":"bottom"},
-		{"id":"cc500b23c22f48dc","fromNode":"25b80709ee8f0174","fromSide":"top","toNode":"740b0be5dead15b9","toSide":"bottom"}
-	],
-	"metadata":{}
+  "nodes": [
+    {
+      "id": "38b92339ca349898",
+      "type": "text",
+      "text": "### September",
+      "x": 339,
+      "y": 120,
+      "width": 166,
+      "height": 50
+    },
+    {
+      "id": "b21c9889891172fe",
+      "type": "text",
+      "text": "### October",
+      "x": 505,
+      "y": 120,
+      "width": 166,
+      "height": 50
+    },
+    {
+      "id": "740b0be5dead15b9",
+      "type": "text",
+      "text": "### November",
+      "x": 671,
+      "y": 120,
+      "width": 166,
+      "height": 50
+    },
+    {
+      "id": "864dfb104ded9cc2",
+      "type": "text",
+      "text": "### December",
+      "x": 837,
+      "y": 120,
+      "width": 166,
+      "height": 50
+    },
+    {
+      "id": "9aa20f62a26bf239",
+      "type": "text",
+      "text": "### May",
+      "x": -325,
+      "y": 120,
+      "width": 166,
+      "height": 50
+    },
+    {
+      "id": "ca6b8651aa210fcb",
+      "type": "text",
+      "text": "### June",
+      "x": -159,
+      "y": 120,
+      "width": 166,
+      "height": 50
+    },
+    {
+      "id": "a7864e18d62d63c1",
+      "type": "text",
+      "text": "### July",
+      "x": 7,
+      "y": 120,
+      "width": 166,
+      "height": 50
+    },
+    {
+      "id": "662370fb98d4cb2a",
+      "type": "text",
+      "text": "### August",
+      "x": 173,
+      "y": 120,
+      "width": 166,
+      "height": 50
+    },
+    {
+      "id": "265dc62aa59bc299",
+      "type": "text",
+      "text": "### January",
+      "x": -989,
+      "y": 120,
+      "width": 166,
+      "height": 50
+    },
+    {
+      "id": "f6df930e804cb1e8",
+      "type": "text",
+      "text": "### February",
+      "x": -823,
+      "y": 120,
+      "width": 166,
+      "height": 50
+    },
+    {
+      "id": "dca93923f2cf126e",
+      "type": "text",
+      "text": "### March",
+      "x": -657,
+      "y": 120,
+      "width": 166,
+      "height": 50
+    },
+    {
+      "id": "cdb2d9b1d37f6ff3",
+      "type": "text",
+      "text": "### April",
+      "x": -491,
+      "y": 120,
+      "width": 166,
+      "height": 50
+    },
+    {
+      "id": "116ea522cbea163d",
+      "type": "file",
+      "file": "Shared Articles/French Revolution/1787 Assembly of Notables.md",
+      "subpath": "#^84b34f",
+      "x": -943,
+      "y": 314,
+      "width": 286,
+      "height": 128
+    },
+    {
+      "id": "4f7fca7614776e3c",
+      "type": "file",
+      "file": "Shared Articles/French Revolution/1787 Assembly of Notables.md",
+      "subpath": "#^680e16",
+      "x": -634,
+      "y": 378,
+      "width": 286,
+      "height": 342
+    },
+    {
+      "id": "3e2a7e8632c17540",
+      "type": "file",
+      "file": "Shared Articles/French Revolution/Étienne Charles de Loménie de Brienne.md",
+      "subpath": "#^1dd78c",
+      "x": -371,
+      "y": 347,
+      "width": 378,
+      "height": 124
+    },
+    {
+      "id": "c848be582e8f34b6",
+      "type": "file",
+      "file": "Shared Articles/French Revolution/1787 Assembly of Notables.md",
+      "subpath": "#^0c5dfa",
+      "x": -279,
+      "y": 494,
+      "width": 286,
+      "height": 226
+    },
+    {
+      "id": "1a5d37b9fd661fde",
+      "type": "file",
+      "file": "Shared Articles/French Revolution/Étienne Charles de Loménie de Brienne.md",
+      "subpath": "#^235d9b",
+      "x": 44,
+      "y": 297,
+      "width": 378,
+      "height": 224
+    },
+    {
+      "id": "9420bb806b944317",
+      "type": "file",
+      "file": "Shared Articles/French Revolution/Louis XVI.md",
+      "subpath": "#^96a894",
+      "x": 305,
+      "y": 560,
+      "width": 400,
+      "height": 258
+    },
+    {
+      "id": "2beac6bd916219f0",
+      "type": "file",
+      "file": "Shared Articles/French Revolution/Étienne Charles de Loménie de Brienne.md",
+      "subpath": "#^652712",
+      "x": 720,
+      "y": 267,
+      "width": 400,
+      "height": 116
+    },
+    {
+      "id": "25b80709ee8f0174",
+      "type": "file",
+      "file": "Shared Articles/French Revolution/Louis XVI.md",
+      "subpath": "#^275040",
+      "x": 754,
+      "y": 433,
+      "width": 400,
+      "height": 177
+    }
+  ],
+  "edges": [
+    {
+      "id": "84242d640b78bc34",
+      "fromNode": "116ea522cbea163d",
+      "fromSide": "top",
+      "toNode": "f6df930e804cb1e8",
+      "toSide": "bottom"
+    },
+    {
+      "id": "56be6f4016d92768",
+      "fromNode": "4f7fca7614776e3c",
+      "fromSide": "top",
+      "toNode": "dca93923f2cf126e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "6cf068a6c8987390",
+      "fromNode": "c848be582e8f34b6",
+      "fromSide": "top",
+      "toNode": "9aa20f62a26bf239",
+      "toSide": "bottom"
+    },
+    {
+      "id": "8a48f4fa34456182",
+      "fromNode": "3e2a7e8632c17540",
+      "fromSide": "top",
+      "toNode": "9aa20f62a26bf239",
+      "toSide": "bottom"
+    },
+    {
+      "id": "6672d565c74470c9",
+      "fromNode": "1a5d37b9fd661fde",
+      "fromSide": "top",
+      "toNode": "ca6b8651aa210fcb",
+      "toSide": "bottom"
+    },
+    {
+      "id": "eb0bb7dde513832c",
+      "fromNode": "2beac6bd916219f0",
+      "fromSide": "top",
+      "toNode": "740b0be5dead15b9",
+      "toSide": "bottom"
+    },
+    {
+      "id": "2eb633d3200cbb81",
+      "fromNode": "9420bb806b944317",
+      "fromSide": "top",
+      "toNode": "662370fb98d4cb2a",
+      "toSide": "bottom"
+    },
+    {
+      "id": "cc500b23c22f48dc",
+      "fromNode": "25b80709ee8f0174",
+      "fromSide": "top",
+      "toNode": "740b0be5dead15b9",
+      "toSide": "bottom"
+    }
+  ],
+  "metadata": {}
 }

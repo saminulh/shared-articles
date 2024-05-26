@@ -20,6 +20,7 @@
 
 ### Miscellaneous
 1. Muslims and Citizens: Islam, Politics, and the French Revolution - Ian Coller
+2. Taking America Back: The Conservative Movement and the Far Right - David Austin Walsh
 
 
 # David's List
