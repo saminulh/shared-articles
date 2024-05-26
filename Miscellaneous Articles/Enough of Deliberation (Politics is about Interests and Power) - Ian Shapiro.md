@@ -8,20 +8,41 @@ tags:
   - democracy
 ---
 # Sammy (unread)
-## Highlights
-> Many of the substantive arguments in Democracy and Disagreement resonate favorably with me, but it should be said that this is not a particularly de- manding test.
-
+## Excerpts
+> Many of the substantive arguments in Democracy and Disagreement resonate favorably with me, but it should be said that this is not a particularly de- manding test. ([[essays_on_democracy_and_disagreement.pdf#page=41&selection=10,0,17,13|page 41]])
 ^26dbe1
 
-[[essays_on_democracy_and_disagreement.pdf#page=41&selection=10,0,17,13|essays_on_democracy_and_disagreement, page 41]]
+> From \[the fundamentalist's\] perspective it would look as though she were being told that it is fine to be a fundamentalist so long as she abandons her fundamen- talism. At bottom, the difficulty here is that the fundamentalist believes exactly what Gutmann and Thompson decry as illegitimate: that it is necessary to adopt her "sectarian way of life as a condition for gaining access to the moral understanding that is essential to judging the validity" of her moral claims. ([[essays_on_democracy_and_disagreement.pdf#page=43&selection=55,0,60,46|page 43]])
+^ab20f3
+- The issue of the fundamentalist in the deliberative model.
+
+> The Gutmann/Thompson model works only for those fundamentalists who also count themselves fallibilist democrats. That, I fear, is an empty class, destined to remain uninhabited. ([[essays_on_democracy_and_disagreement.pdf#page=44&selection=11,70,16,22|page 44]])
+^cfa91d
+
+> The idea is that \[intense, particularly religious, differences'\] explosive potential is so great that it is better, for the welfare of both religious adherents and the democratic polity, if they are kept out of organized politics as much as possible, subjected to what [[Stephen Holmes]] describes as "gag rules."3 Hence such devices as the Establishment Clause of the First Amendment. That is the serious constitutionalist case against promoting attempts to resolve religious disagreements in the public sphere ([[essays_on_democracy_and_disagreement.pdf#page=44&selection=26,44,35,34|page 44]])
+^76fdc9
+- According to the constitutionalist, religion is excluded from the public sphere due to its explosiveness
+
+> The general point remains, however, that there is no particular reason to think deliberation will bring people together, even if they hope it will and want it to. ([[essays_on_democracy_and_disagreement.pdf#page=44&selection=59,38,61,41|page 44]])
+^f8ed8a
+- No reason to believe deliberation will bring people together
+
+> But they seem not to appreciate that as deliberation operates on the ground in what Douglas Rae has described as the "segmented democracies" that Americans increasingly inhabit, it can be an obstacle to providing these goods.9 When there are great differences in capacity for exit, what is often needed is not widespread deliberation but firm action from above to protect the vulnerable ([[essays_on_democracy_and_disagreement.pdf#page=47&selection=26,9,36,14|page 47]])
+- Capacities to exit can impede the provision of goods to the vulnerable.
 ## Thoughts
 - Re [[#^26dbe1]]: This is very funny to me for some reason.
 - Re [[#^9e4152]]: Definitely agree with this. I am a bit surprised that he doesn't mention that different groups can have irreconcilably different moral values, making deliberation a non-starter.
 	- Based on the subsequent sentences, it seems Shapiro is going to make the claim that interests and power dominate even these considerations in the political realm (although the ideas that the interests in power espouse are not necessarily self-interested).
+- Re [[#^ab20f3]]: I totally agree with Shapiro here. The Gutmann and Thompson model seems very divorced from how the moral fanatic operates and the deliberative model would impose norms onto them that they would not necessarily agree to.
+- Re [[#^cfa91d]]: I like this writing lol
+- Re [[#^76fdc9]]: This is very interesting.
+- Re [[#^f8ed8a]]: Agree with this too. It feels like the Gutmann/Thompson model sort of presupposes [[Jean-Jacques Rousseau|Rousseau]]-esque general will, in which case it makes sense that deliberation can help explicate said will.
+- Re [[#^710f8f]]: Generally agree with this point, but I don't think it's so clear (these days) that academic support would entail public deliberation/support even absent financial interests. Though I think you could say that this too is an effect of financial interests shaping the anti-intellectual preferences of large groups of people.
 ## Final Thoughts
+Overall think Shapiro makes the correct observations and criticisms. This deliberative democracy stuff doesn't seem like something we need to explore much further haha.
 # David (12/05/24)
 
-This article is a critical response to [[Democracy and Disagreement - Amy Gutmann and Dennis Thompson]] by Ian Shapiro.
+This article is a critical response to [[Democracy and Disagreement - Amy Gutmann and Dennis Thompson]] by [[Ian Shapiro]].
 
 ## Highlights
 
@@ -82,6 +103,8 @@ What does this mean? Is this similar to the Obama situation with the "public opt
 Another good example!
 
 >  It creates a reality in which, rather than compete in the realm of ideas, politicians actually must compete for campaign contributions. The ideas they advance are those of their financial backers, and those they avoid advancing all too often are ideas that, though they may be in the interests of many in the public, would cause vast sums of money to be given to electoral opponents if they were seriously advanced. How else is one to explain the fact that a single-payer system could not be seriously mooted, even at the start of the public debate, despite a substantial body of academic commentary suggesting that it is easily the most cost-effective way of achieving affordable universal coverage? How else can one explain the fact that neither political party ever proposes massive hikes in the estate tax, although this move would be in the interest of all but a tiny fraction of the electorate?
+
+^710f8f
 
 [[essays_on_democracy_and_disagreement.pdf#page=48&selection=56,36,58,79|essays_on_democracy_and_disagreement, page 48]]
 
