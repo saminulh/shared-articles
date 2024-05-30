@@ -11,3 +11,7 @@ tags:
 [[Democracy and Disagreement - Amy Gutmann and Dennis Thompson]]
 [[The Voice of the People - James S. Fishkin]]
 [[Defining and Developing Democracy - Larry Diamond]]
+[[Participation and Democratic Theory - Carole Pateman]]
+[[Polyarchal Democracy - Robert Dahl]]
+# Sources of Democracy
+[[Political Man - Seymour Martin Lipset]]

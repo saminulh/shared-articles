@@ -1,7 +1,8 @@
 ---
 source_link: https://www.promarket.org/2020/10/13/milton-friedman-legacy-doctrine-theorem/
 authors:
-  - Luigi Zingales
+  - "[[Luigi Zingales]]"
+publisher: "[[ProMarket]]"
 date: 2020-10-13
 tags:
   - capitalism
