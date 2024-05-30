@@ -8,8 +8,8 @@ tags:
   - democracy
 ---
 # Excerpts
-> Examination of Madisonian and populistic theory suggests at least two possible methods one might employ to construct a theory of democracy. One way, the method of maximization, is to specify a set of goals to be maximized; democracy can then be defined in terms of the specific governmental processes necessary to maximize these goals or some among them.... Madisonian theory postulates a non-tyrannical republic as the goal to be maximized; populistic theory postulates popular sovereignty and political equality. A second way—this one might be called the descriptive method—is to consider as a single class of phenomena all those nation states and social organizations that are commonly called democratic by political scientists, and by examining the members of this class to discover, first, the distinguishing characteristics they have in common, and, second, the necessary and sufficient conditions for social organizations possessing these characteristics. ([[democracy-sourcebook.pdf#page=61&selection=4,0,32,26|page 61]])
-- The author distinguishes between two ways of constructive a theory of democracy. Maximisation vs descriptive.  ^0ef49b
+> Examination of Madisonian and populistic theory suggests at least two possible methods one might employ to construct a theory of democracy. One way, the method of maximization, is to specify a set of goals to be maximized; democracy can then be defined in terms of the specific governmental processes necessary to maximize these goals or some among them.... Madisonian theory postulates a non-tyrannical republic as the goal to be maximized; populistic theory postulates popular sovereignty and political equality. A second way—this one might be called the descriptive method—is to consider as a single class of phenomena all those nation states and social organizations that are commonly called democratic by political scientists, and by examining the members of this class to discover, first, the distinguishing characteristics they have in common, and, second, the necessary and sufficient conditions for social organizations possessing these characteristics. ([[democracy-sourcebook.pdf#page=61&selection=4,0,32,26|page 61]]) ^bf82db
+- The author distinguishes between two ways of constructive a theory of democracy. Maximisation vs descriptive. 
 
 > These are not, however, mutually exclusive methods. And we shall see that if we begin by employing the first method it will soon become necessary to employ something rather like the second as well.
 
@@ -25,8 +25,7 @@ tags:
 > The model of populistic democracy suggests three possible characteristics that might be made operationally meaningful: (1) Whenever policy choices are perceived to exist, the alternative selected and enforced as governmental policy is the alternative most preferred by the members. (2) Whenever policy choices are perceived to exist, in the process of choosing the alternative to be enforced as government policy, the preference of each member is assigned an equal value. (3) The Rule: In choosing among alternatives, the alternative preferred by the greater number is selected. ([[democracy-sourcebook.pdf#page=61&selection=64,0,76,9|page 61]])
 - Operational Characteristics of populistic democracy 
 
-> Suppose we observe that a majority prefers x to y, and x happens to be selected as government policy. Yet it may be that among the majority is a dictator; if he were in the minority, then y would be selected. ([[democracy-sourcebook.pdf#page=62&selection=10,24,29,18|page 62]])
-^48d085
+> Suppose we observe that a majority prefers x to y, and x happens to be selected as government policy. Yet it may be that among the majority is a dictator; if he were in the minority, then y would be selected. ([[democracy-sourcebook.pdf#page=62&selection=10,24,29,18|page 62]]) ^48d085
 - A scenario where it’s hard to tell if the system is truly democratic
 
 > The effect of the argument so far is to divide our key question into two: (1) What acts shall we consider sufficient to constitute an expression of individual preferences at a given stage in the decision process? (2) Taking these acts as an expression of preferences, what events must we observe in order to determine the extent to which the Rule is employed in the organization we are examining? We are still looking, let us remember, for a set of limiting conditions to be approached. ([[democracy-sourcebook.pdf#page=62&selection=111,0,123,11|page 62]])
@@ -60,7 +59,7 @@ tags:
 - Constitutional arrangements cannot produce nontyrannical republics in the absence of social prerequisites
 # Sammy (Unread)
 ## Questions and comments
-* Re [[#^0ef49b]]: The Madisonian theory floated here is something I’ve been thinking as the most salient reason to prefer democracy over more, for example, instrumentally- or technocratically-oriented governmental models. Looking forward to finally reading those.
+* Re [[#^bf82db]]: The Madisonian theory floated here is something I’ve been thinking as the most salient reason to prefer democracy over more, for example, instrumentally- or technocratically-oriented governmental models. Looking forward to finally reading those.
 * Re [[#^48d085]]: Reminds me of the “knowledge is a justified true belief” conundrum lol.
 * Re [[#^5416cc]]: Essentially the notion of exiting the political system. Also interesting that this exit need not take the form of revolution per se but also merely political apathy and disaffection.
 * Re [[#^62e963]]: Really? I would have said the exact opposite (with liberalism, thought of in this case as a social attitude/philosophy, being the “prerequisite”)
