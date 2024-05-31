@@ -13,5 +13,6 @@ tags:
 [[Defining and Developing Democracy - Larry Diamond]]
 [[Participation and Democratic Theory - Carole Pateman]]
 [[Polyarchal Democracy - Robert Dahl]]
+[[Defining Democracy Summary]]
 # Sources of Democracy
 [[Political Man - Seymour Martin Lipset]]
