@@ -7,14 +7,11 @@ date:
 tags:
   - democracy
 ---
+# Excerpts
 # Sammy (Unread)
-## Excerpts
 ## Questions and comments
-
 ## Final thoughts
 
 # David (Unread)
-
-## Excerpts
 ## Questions and Comments 
 ## Overall Thoughts
