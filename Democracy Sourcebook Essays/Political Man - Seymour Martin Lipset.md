@@ -3,7 +3,7 @@ pdf: "[[democracy-sourcebook.pdf#page=69&selection=0,0,0,43|democracy-sourcebook
 authors:
   - "[[Seymour M. Lipset]]"
 publisher: 
-date: 
+date: 1960-01-01
 tags:
   - democracy
 ---
@@ -21,12 +21,15 @@ tags:
 - German education is claimed by [[John Dewey]] to train disciplines rather than personal growth
 
 > If we cannot say that a "high" level of education is a sufficient condition for democracy, the available evidence suggests that it comes close to being a necessary one. In Latin America, where widespread illiteracy still exists, only one of all the nations in which more than half the population is illiterate—Brazil—can be included in the "more democratic" group.  ([[democracy-sourcebook.pdf#page=71&selection=64,0,79,27|page 71]])
+
+^fb7473
+
 - Education appears to be _necessary_ for democracy
 
 > Economic development, producing increased income, greater economic security, and widespread higher education, largely determines the form of the "class struggle," by permitting those in the lower strata to develop longer time perspectives and more complex and gradualist views of politics. A belief in secular reformist gradualism can be the ideology of only a relatively wellto-do lower class. ([[democracy-sourcebook.pdf#page=72&selection=16,0,24,18|page 72]])
 - The lower classes will only fight through reformist gradualism if they are already well-to-do.
 
-> This statement \[that economic development is correlated to democracy\] is a "statistical" statement, which necessarily means that there will be many exceptions to the correlation. Thus we know that poorer people are more likely to vote for the Democratic or Labor parties in the U.S. and England. The fact that a large minority of the lower strata vote for the more conservative party in these countries does not challenge the proposition that stratification position is a main determinant of party choice. ([[democracy-sourcebook.pdf#page=72&selection=135,4,143,13|page 72]])
+> 	This statement \[that economic development is correlated to democracy\] is a "statistical" statement, which necessarily means that there will be many exceptions to the correlation. Thus we know that poorer people are more likely to vote for the Democratic or Labor parties in the U.S. and England. The fact that a large minority of the lower strata vote for the more conservative party in these countries does not challenge the proposition that stratification position is a main determinant of party choice. ([[democracy-sourcebook.pdf#page=72&selection=135,4,143,13|page 72]])
 ^bca077
 - The observations of economic development being correlated to democracy is "statistical" and so not always true.
 
@@ -38,7 +41,18 @@ tags:
 ^eec328
 - Communists had some amount of power in the 8 poorest European countries with democratic elections in 1949.
 
+> The inverse relationship between national economic development as reflected by per capita income and the strength of Communists and other extremist groups among Western nations is seemingly stronger than the correlations be- tween other national variables like ethnic or religious factors.
+
+^8ef4e0
+
+[[democracy-sourcebook.pdf#page=73&selection=0,0,27,1|democracy-sourcebook, page 73]]
+
+- Poor economic development is a better predictor of the strength of communist and other extremist groups than other national variables like ethnic or religious factors. 
+
 > This does not mean that economic hardship or poverty per se is the main cause of radicalism. There is much evidence to sustain the argument that stable poverty in a situation in which individuals are not exposed to the possibilities of change breeds, if anything, conservatism ([[democracy-sourcebook.pdf#page=73&selection=127,0,150,43|page 73]])
+
+^04324e
+
 - Economic hardship might not cause radicalism per se and evidence from [[Emile Durkheim]] argues that this instead breeds conservatism.
 
 > Karl Marx put it in a perceptive passage: "A house may be large or small; as long as the surrounding houses are equally small it satisfies all social demands for a dwelling. But if a palace arises beside the little house, the little house shrinks into a hut." ([[democracy-sourcebook.pdf#page=73&selection=177,0,192,21|page 73]])
@@ -51,6 +65,12 @@ tags:
 > The fact that the form which these political parties take in poorer countries is more extremist and radical than it is in wealthier ones is probably more related to the greater degree of inequality in such countries than to the fact that their poor are actually poorer in absolute terms. ([[democracy-sourcebook.pdf#page=74&selection=27,0,33,11|page 74]])
 ^43a103
 - Radicalism is probably more related to inequality than absolute wealth. 
+- 
+> A comparative study of wealth dis- tribution by the United Nations ‘‘suggest[s] that the richest fraction of the population (the richest 10th, 5th, etc.) generally receive[s] a greater pro- portion of the total income in the less developed than in the more developed countries.’’ ^49d71f
+
+[[democracy-sourcebook.pdf#page=74&selection=33,12,38,39|democracy-sourcebook, page 74]]
+
+- Less developed countries also tend to have larger inequality 
 
 > The distribution of consumption goods also tends to become more equitable as the size of national income increases. ([[democracy-sourcebook.pdf#page=74&selection=69,0,85,29|page 74]])
 ^bd594a
@@ -59,14 +79,30 @@ tags:
 > Marx believed that the proletariat was a revolutionary force because it had nothing to lose but its chains and could win the whole world. But Tocqueville, analyzing the reasons why the lower strata in America supported the system, paraphrased and transposed Marx before Marx ever made his analysis by pointing out that "only those who have nothing to lose ever revolt." ([[democracy-sourcebook.pdf#page=75&selection=65,0,72,45|page 75]])
 ^c64285
 - [[Alexis de Tocqueville]] and [[Karl Marx]] both said that revolutionaries are those with nothing to lose in the current order.
+- 
+> Increased wealth also affects the political role of the middle class by changing the shape of the stratification structure from an elongated pyramid, with a large lower-class base, to a diamond with a growing middle class. A large middle class tempers conflict by rewarding moderate and democratic parties and penalizing extremist groups. ^44c3aa
+
+[[democracy-sourcebook.pdf#page=75&selection=75,0,77,46|democracy-sourcebook, page 75]]
+
+- The social-economic pyramid has become a diamond (with a large middle class rather than a large lower class base)
 
 > The political values and style of the upper class, too, are related to national income. The poorer a country and the lower the absolute standard of living of the lower classes, the greater the pressure on the upper strata to treat the lower as vulgar, innately inferior, a lower caste beyond the pale of human society. ([[democracy-sourcebook.pdf#page=75&selection=101,0,121,39|page 75]])
 ^4fe76e
 - The poorer the country and their lower class, the more pressure there is for the upper class to dehumanize them.
 
-> If there is enough wealth in the country so that it does not make too much difference whether some redistribution takes place, it is easier to accept the idea that it does not matter greatly which side is in power. ([[democracy-sourcebook.pdf#page=75&selection=155,44,172,23|page 75]])
+> The general income level of a nation also affects its receptivity to democratic norms. If there is enough wealth in the country so that it does not make too much difference whether some redistribution takes place, it is easier to accept the idea that it does not matter greatly which side is in power. But if loss of office means serious losses for major power groups, they will seek to retain or secure office by any means available. A certain amount of national wealth is likewise necessary to ensure a competent civil service. 
 ^4648bc
+
+[[democracy-sourcebook.pdf#page=75&selection=140,0,178,1|democracy-sourcebook, page 75]]
 - Greater wealth can enable greater redistribution and reduce the returns to power, thus increasing democracy.
+
+> Intermediary organizations which act as sources of countervailing power seem to be sim- ilarly associated with national wealth. Tocque- ville and other exponents of what has come to be known as the theory of the ‘‘mass society’’36 have argued that a country without a multitude of organizations relatively independent of the central state power has a high dictatorial as well as revolutionary potential. Such organizations serve a number of functions: they inhibit the state or any single source of private power from dominating all political resources; they are a source of new opinions; they can be the means of communicating ideas, particularly opposition ideas, to a large section of the citizenry; they train men in political skills and so help to in- crease the level of interest and participation in politics. Although there are no reliable data on the relationship between national patterns of voluntary organization and national political systems, evidence from studies of individual behavior demonstrates that, regardless of other factors, men who belong to associations are more likely than others to give the democratic answer to questions concerning tolerance and party systems, to vote, or to participate actively in politics.
+
+^b9908c
+
+[[democracy-sourcebook.pdf#page=76&selection=0,1,80,12|democracy-sourcebook, page 76]]
+
+- The importance of intermediary organizations in society.
 
 > it has been suggested, by Weber among others, that a historically unique concatenation of elements produced both democracy and capitalism in this area. ([[democracy-sourcebook.pdf#page=76&selection=103,18,103,48|page 76]])
 - [[Max Weber]] argues that a historically unique circumstances led to both democracy and capitalism and northwest Europe and its offspring.
@@ -88,6 +124,15 @@ tags:
 - Re [[#^69e161]]: Interesting
 ## Final thoughts
 The statistical results of course aren't super compelling, just a ton of associational data, can't really make much meaningful causal analysis from it. A lot of other theorizing happening, some of which is interesting, but also felt at times a bit "synthesis illusion"-y.
-# David (Unread)
+# David (02/06/24)
 ## Questions and Comments 
+
+- Re [[#^04324e]]: I was thinking about this point before he brought it up. This relates to Ian Shapiro's point about the "monkey experiment". 
+- Re [[#^82f045]]: I wonder if women were more socially conservative then or this was mainly on the issue of economics (perhaps the left/right divide on social issues wasn't as clear cut as it is now)
+- Re [[#^49d71f]]: I assume this is no longer true?
+- Re [[#^44c3aa]]: I think "further" left politics (drawing from Marx) often ignores this fact that most people (in developed nations like the US) are middle class. 
+- Re [[#^4fe76e]]: Interesting point! 
+- Re[[#^4648bc]]: This is essentially the analysis in [[Minimalist Conception of Democracy - Adam Przeworski]]. 
+- Re [[#^b9908c]]: This idea of [Mass Society](https://en.wikipedia.org/wiki/Mass_society) is interesting and relates to some of the debates we have had recently about the role of culture in our society. 
 ## Overall Thoughts
+There was lots of correlational data presented and some theorising about their explanations or implications but no general thesis given. 
