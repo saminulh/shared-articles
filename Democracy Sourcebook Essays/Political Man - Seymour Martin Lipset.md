@@ -58,7 +58,7 @@ tags:
 ^43a103
 - Radicalism is probably more related to inequality than absolute wealth. 
 
-> A comparative study of wealth distribution by the United Nations "suggest[s] that the richest fraction of the population (the richest 10th, 5th, etc.) generally receive[s] a greater proportion of the total income in the less developed than in the more developed countries." ([[democracy-sourcebook.pdf#page=74&selection=33,12,38,39|page 74]])
+> A comparative study of wealth distribution by the United Nations "suggest\[s\] that the richest fraction of the population (the richest 10th, 5th, etc.) generally receive\[s\] a greater proportion of the total income in the less developed than in the more developed countries." ([[democracy-sourcebook.pdf#page=74&selection=33,12,38,39|page 74]])
 ^6104c4
 - Less developed countries also tend to have larger inequality 
 
@@ -70,7 +70,8 @@ tags:
 ^c64285
 - [[Alexis de Tocqueville]] and [[Karl Marx]] both said that revolutionaries are those with nothing to lose in the current order.
 
-> Increased wealth also affects the political role of the middle class by changing the shape of the stratification structure from an elongated pyramid, with a large lower-class base, to a diamond with a growing middle class. A large middle class tempers conflict by rewarding moderate and democratic parties and penalizing extremist groups. ^44c3aa ([[democracy-sourcebook.pdf#page=75&selection=75,0,77,46|page 75]])
+> Increased wealth also affects the political role of the middle class by changing the shape of the stratification structure from an elongated pyramid, with a large lower-class base, to a diamond with a growing middle class. A large middle class tempers conflict by rewarding moderate and democratic parties and penalizing extremist groups. ([[democracy-sourcebook.pdf#page=75&selection=75,0,77,46|page 75]])
+^36c248
 - The social-economic pyramid has become a diamond (with a large middle class rather than a large lower class base)
 
 > The political values and style of the upper class, too, are related to national income. The poorer a country and the lower the absolute standard of living of the lower classes, the greater the pressure on the upper strata to treat the lower as vulgar, innately inferior, a lower caste beyond the pale of human society. ([[democracy-sourcebook.pdf#page=75&selection=101,0,121,39|page 75]])
@@ -111,7 +112,7 @@ The statistical results of course aren't super compelling, just a ton of associa
 - Re [[#^04324e]]: I was thinking about this point before he brought it up. This relates to Ian Shapiro's point about the "monkey experiment". 
 - Re [[#^82f045]]: I wonder if women were more socially conservative then or this was mainly on the issue of economics (perhaps the left/right divide on social issues wasn't as clear cut as it is now)
 - Re [[#^6104c4]]: I assume this is no longer true?
-- Re [[#^44c3aa]]: I think "further" left politics (drawing from Marx) often ignores this fact that most people (in developed nations like the US) are middle class. 
+- Re [[#^36c248]]: I think "further" left politics (drawing from Marx) often ignores this fact that most people (in developed nations like the US) are middle class. 
 - Re [[#^4fe76e]]: Interesting point! 
 - Re[[#^4648bc]]: This is essentially the analysis in [[Minimalist Conception of Democracy - Adam Przeworski]]. 
 - Re [[#^b9908c]]: This idea of [Mass Society](https://en.wikipedia.org/wiki/Mass_society) is interesting and relates to some of the debates we have had recently about the role of culture in our society. 
