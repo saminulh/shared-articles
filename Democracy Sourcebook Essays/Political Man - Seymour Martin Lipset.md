@@ -21,9 +21,7 @@ tags:
 - German education is claimed by [[John Dewey]] to train disciplines rather than personal growth
 
 > If we cannot say that a "high" level of education is a sufficient condition for democracy, the available evidence suggests that it comes close to being a necessary one. In Latin America, where widespread illiteracy still exists, only one of all the nations in which more than half the population is illiterate—Brazil—can be included in the "more democratic" group.  ([[democracy-sourcebook.pdf#page=71&selection=64,0,79,27|page 71]])
-
 ^fb7473
-
 - Education appears to be _necessary_ for democracy
 
 > Economic development, producing increased income, greater economic security, and widespread higher education, largely determines the form of the "class struggle," by permitting those in the lower strata to develop longer time perspectives and more complex and gradualist views of politics. A belief in secular reformist gradualism can be the ideology of only a relatively wellto-do lower class. ([[democracy-sourcebook.pdf#page=72&selection=16,0,24,18|page 72]])
@@ -43,13 +41,10 @@ tags:
 
 > The inverse relationship between national economic development as reflected by per capita income and the strength of Communists and other extremist groups among Western nations is seemingly stronger than the correlations between other national variables like ethnic or religious factors. ([[democracy-sourcebook.pdf#page=73&selection=0,0,27,1|page 73]])
 ^8ef4e0
-
 - Poor economic development is a better predictor of the strength of communist and other extremist groups than other national variables like ethnic or religious factors. 
 
 > This does not mean that economic hardship or poverty per se is the main cause of radicalism. There is much evidence to sustain the argument that stable poverty in a situation in which individuals are not exposed to the possibilities of change breeds, if anything, conservatism ([[democracy-sourcebook.pdf#page=73&selection=127,0,150,43|page 73]])
-
 ^04324e
-
 - Economic hardship might not cause radicalism per se and evidence from [[Emile Durkheim]] argues that this instead breeds conservatism.
 
 > Karl Marx put it in a perceptive passage: "A house may be large or small; as long as the surrounding houses are equally small it satisfies all social demands for a dwelling. But if a palace arises beside the little house, the little house shrinks into a hut." ([[democracy-sourcebook.pdf#page=73&selection=177,0,192,21|page 73]])
@@ -62,7 +57,7 @@ tags:
 > The fact that the form which these political parties take in poorer countries is more extremist and radical than it is in wealthier ones is probably more related to the greater degree of inequality in such countries than to the fact that their poor are actually poorer in absolute terms. ([[democracy-sourcebook.pdf#page=74&selection=27,0,33,11|page 74]])
 ^43a103
 - Radicalism is probably more related to inequality than absolute wealth. 
-- 
+
 > A comparative study of wealth distribution by the United Nations "suggest[s] that the richest fraction of the population (the richest 10th, 5th, etc.) generally receive[s] a greater proportion of the total income in the less developed than in the more developed countries." ^49d71f ([[democracy-sourcebook.pdf#page=74&selection=33,12,38,39|page 74]])
 
 - Less developed countries also tend to have larger inequality 
@@ -74,9 +69,8 @@ tags:
 > Marx believed that the proletariat was a revolutionary force because it had nothing to lose but its chains and could win the whole world. But Tocqueville, analyzing the reasons why the lower strata in America supported the system, paraphrased and transposed Marx before Marx ever made his analysis by pointing out that "only those who have nothing to lose ever revolt." ([[democracy-sourcebook.pdf#page=75&selection=65,0,72,45|page 75]])
 ^c64285
 - [[Alexis de Tocqueville]] and [[Karl Marx]] both said that revolutionaries are those with nothing to lose in the current order.
-- 
-> Increased wealth also affects the political role of the middle class by changing the shape of the stratification structure from an elongated pyramid, with a large lower-class base, to a diamond with a growing middle class. A large middle class tempers conflict by rewarding moderate and democratic parties and penalizing extremist groups. ^44c3aa ([[democracy-sourcebook.pdf#page=75&selection=75,0,77,46|page 75]])
 
+> Increased wealth also affects the political role of the middle class by changing the shape of the stratification structure from an elongated pyramid, with a large lower-class base, to a diamond with a growing middle class. A large middle class tempers conflict by rewarding moderate and democratic parties and penalizing extremist groups. ^44c3aa ([[democracy-sourcebook.pdf#page=75&selection=75,0,77,46|page 75]])
 - The social-economic pyramid has become a diamond (with a large middle class rather than a large lower class base)
 
 > The political values and style of the upper class, too, are related to national income. The poorer a country and the lower the absolute standard of living of the lower classes, the greater the pressure on the upper strata to treat the lower as vulgar, innately inferior, a lower caste beyond the pale of human society. ([[democracy-sourcebook.pdf#page=75&selection=101,0,121,39|page 75]])
@@ -89,7 +83,6 @@ tags:
 
 > Intermediary organizations which act as sources of countervailing power seem to be similarly associated with national wealth. Tocqueville and other exponents of what has come to be known as the theory of the "mass society"36 have argued that a country without a multitude of organizations relatively independent of the central state power has a high dictatorial as well as revolutionary potential. Such organizations serve a number of functions: they inhibit the state or any single source of private power from dominating all political resources; they are a source of new opinions; they can be the means of communicating ideas, particularly opposition ideas, to a large section of the citizenry; they train men in political skills and so help to increase the level of interest and participation in politics. Although there are no reliable data on the relationship between national patterns of voluntary organization and national political systems, evidence from studies of individual behavior demonstrates that, regardless of other factors, men who belong to associations are more likely than others to give the democratic answer to questions concerning tolerance and party systems, to vote, or to participate actively in politics. ([[democracy-sourcebook.pdf#page=76&selection=0,1,80,12|page 76]])
 ^b9908c
-
 - The importance of intermediary organizations in society.
 
 > it has been suggested, by Weber among others, that a historically unique concatenation of elements produced both democracy and capitalism in this area. ([[democracy-sourcebook.pdf#page=76&selection=103,18,103,48|page 76]])
