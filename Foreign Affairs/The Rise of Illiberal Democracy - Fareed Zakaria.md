@@ -89,7 +89,8 @@ Interesting to contrast with claims of Canada’s PM being the most powerful lea
 > Finally, we need to revive constitutionalism. One effect of the overemphasis on pure democracy is that little effort is given to creating imaginative constitutions for transitional countries ([[the_rise_of_illiberal_democracy.pdf#page=21&selection=17,0,19,58|page 21]])
 - I believe the Lebanese constitutional situation is kinda crazy, would be interesting to look into.
 
-> \[Preventing the accumulation of power and abuse of office\] is done not by simply writing up a list of rights but by constructing a system in which government will not violate those rights. ([[the_rise_of_illiberal_democracy.pdf#page=21&selection=23,37,25,41|page 21]])
+> Constitutionalism, as it was understood by its greatest eighteenth century exponents, such as Montesquieu and Madison, is a complicated system of checks and balances designed to prevent the accumulation of power and the abuse of office. This is done not by simply writing up a list of rights but by constructing a system in which government will not violate those rights. Various groups must be included and empowered because, as Madison explained, “ambition must be made to counteract ambition.” ([[the_rise_of_illiberal_democracy.pdf#page=21&selection=19,60,27,42|page 21]])
+- Constitutionalism is meant to be the means by which to prevent the abuse of office. I wonder how for [[James Madison|Madison]] how this relates to his other notion of cross-cutting cleavea
 
 > What could be called the Weimar syndrome— named after interwar Germany’s beautifully constructed constitution, which failed to avert fascism—has made people regard constitutions as simply paperwork that cannot make much difference. ([[the_rise_of_illiberal_democracy.pdf#page=21&selection=33,16,36,63|page 21]])
 

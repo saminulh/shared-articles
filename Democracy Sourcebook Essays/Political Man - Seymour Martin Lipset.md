@@ -105,7 +105,7 @@ tags:
 - Re [[#^4648bc]]: I guess [[Adam Przeworski]] does some analysis of this?
 - Re [[#^69e161]]: Interesting
 ## Final thoughts
-The statistical results of course aren't super compelling, just a ton of associational data, can't really make much meaningful causal analysis from it. A lot of other theorizing happening, some of which is interesting, but also felt at times a bit "synthesis illusion"-y.
+The statistical results of course aren't super compelling, just a ton of associational data, can't really make much meaningful causal analysis from it. A lot of other theorizing happening, some of which is interesting, but also felt at times a bit "synergy illusion"-y.
 # David (02/06/24)
 ## Questions and Comments 
 
