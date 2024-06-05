@@ -80,6 +80,7 @@ tags:
 - Re [[#^580ba7]]: Don't quite understand how this works.
 - Re [[#^61910d]]: This is interesting.
 ## Final Thoughts
+Interesting article arguing essentially that the current thinking on (de)globalization is not quite accurate and offers a more nuanced picture. A few interesting facts about China's trade and tax avoidance policy.
 # David (unread)
 ## Reading Notes
 ## Overall Thoughts
