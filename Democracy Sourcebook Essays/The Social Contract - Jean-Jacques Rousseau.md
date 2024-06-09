@@ -78,6 +78,8 @@ In more modern terms it appears Rousseau is suggesting the existence of a univer
 
 > Hence, in order that the social pact shall not be an empty formula, it is tacitly implied in that commitment—which alone can give force to all others—that whoever refuses to obey the general will shall be constrained to do so by the whole body, which means nothing other than that he shall be forced to be free; for this is the necessary condition which, by giving each citizen to the nation, secures him against all personal dependence, it is the condition which shapes both the design and the working of the political machine, and which alone bestows justice on civil contracts —without it, such contracts would be absurd, tyrannical and liable to the grossest abuse. . . .
 
+^c9ce7f
+
 [[democracy-sourcebook.pdf#page=16&selection=35,0,48,50|democracy-sourcebook, page 16]]
 
 Rousseau believes that since the social contract (as he outlined) is necessary to preserve freedom, forcing someone to follow the general will is equivalent to forcing someone to be free. You can see how this ends up being used to justify the reign of terror and other atrocities during the French revolution. 
